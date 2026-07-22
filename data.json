@@ -1,3121 +1,3046 @@
 {
-    "e2abe827-48f3-4f0b-8cba-5a63a97ffc6c": {
-        "regd no": "8328300198",
+    "8328300198": {
+        "uuid": "e2abe827-48f3-4f0b-8cba-5a63a97ffc6c",
         "name": "likhitha alekya gamidi",
         "branch": "Unknown"
     },
-    "f46e17f3-3100-4357-b6e9-a68bce803d7a": {
-        "regd no": "Y24CM178",
+    "Y24CM178": {
+        "uuid": "f46e17f3-3100-4357-b6e9-a68bce803d7a",
         "name": "Karthik",
         "branch": "CSM"
     },
-    "326ba935-5db0-4e4e-9b0c-9697a5285e31": {
-        "regd no": "Y23EC197",
+    "Y23EC197": {
+        "uuid": "326ba935-5db0-4e4e-9b0c-9697a5285e31",
         "name": "MAHESH KUMAR",
         "branch": "ECE"
     },
-    "11438136-8731-4b94-a0b3-3b6abb6717a6": {
-        "regd no": "Y24CM022",
+    "Y24CM022": {
+        "uuid": "11438136-8731-4b94-a0b3-3b6abb6717a6",
         "name": "Bandla Lakshmi Manikanta",
         "branch": "CSM"
     },
-    "37ef94a8-b0a2-4349-a202-61600c036c62": {
-        "regd no": "Y24CM",
-        "name": "Pardhiv Sai Namburu",
-        "branch": "CSM"
-    },
-    "490f71db-e4d1-4391-8785-115ee26a82a0": {
-        "regd no": "Y24CM096",
-        "name": "Karthik",
-        "branch": "CSM"
-    },
-    "d1be4726-e069-4806-b96f-d45c0e19c151": {
-        "regd no": "Y24CM006",
-        "name": "Nagasai Alapati",
-        "branch": "CSM"
-    },
-    "c8018b73-e638-4977-8699-3e2f455c1b65": {
-        "regd no": "Y24CS154",
-        "name": "Sai Teja Kokkiligadda",
-        "branch": "CSE"
-    },
-    "710aa88f-ad06-47e8-9c08-e49283512efb": {
-        "regd no": "Y23IT060",
-        "name": "Kotapati Madhulika",
-        "branch": "IT"
-    },
-    "88937762-2d6a-478e-9f5f-34bd83a27f7c": {
-        "regd no": "Y24CM156",
-        "name": "Vamsi Kumar",
-        "branch": "CSM"
-    },
-    "85fa1821-da0e-48e4-b53f-657a6875b4ca": {
-        "regd no": "Y24CS163",
-        "name": "Brahma Teja Kondramutla",
-        "branch": "CSE"
-    },
-    "5116b46e-8358-4000-80d1-c23ef0918c3e": {
-        "regd no": "Y24IT121",
-        "name": "Jani apsar basha P",
-        "branch": "IT"
-    },
-    "b744ff88-664d-41a6-b6bc-4453fa8382e8": {
-        "regd no": "Y24CM181",
-        "name": "Pavan kumar Talluri",
-        "branch": "CSM"
-    },
-    "511a6f7d-6364-487f-856c-6bd16d9c3d5a": {
-        "regd no": "Y23CM005",
-        "name": "Allu Meghana",
-        "branch": "CSM"
-    },
-    "9a8ef7c0-25d5-4d4c-9fa9-9db13e4c0c55": {
-        "regd no": "KORIMELLA GAYATHRI",
-        "name": "korimella gayathri",
-        "branch": "Unknown"
-    },
-    "a1aa398d-8877-44a3-b92b-84d63ec7a8eb": {
-        "regd no": "Y24CS189",
-        "name": "Majeti Vidya Vaishnavi",
-        "branch": "CSE"
-    },
-    "24f56be3-fab5-4d52-943c-21e0f5e47a0d": {
-        "regd no": "Y23CO026",
-        "name": "Karnati Pramitha",
-        "branch": "CSO"
-    },
-    "a385e6f1-df14-4612-8d1b-f69d92654c02": {
-        "regd no": "Y24CS332",
-        "name": "Eshitha Talluru",
-        "branch": "CSE"
-    },
-    "cb40aa9e-90e3-46f1-8588-c0527f21171e": {
-        "regd no": "Y24CM136",
-        "name": "Rajasekhar reddy peddireddy",
-        "branch": "CSM"
-    },
-    "9cb16236-9d99-4b8d-af36-c5fd616dd4fe": {
-        "regd no": "Y24CB015",
-        "name": "Doppalapudi Ruthwika",
-        "branch": "CSBS"
-    },
-    "fc474821-6b2c-44a4-9640-2e388d11d774": {
-        "regd no": "Y23CO013",
-        "name": "Rahulsai Ghanta",
-        "branch": "CSO"
-    },
-    "043ab3b1-fcef-4d3b-9613-7606441f0ffb": {
-        "regd no": "Y24CS117",
-        "name": "Poojitha Jashti",
-        "branch": "CSE"
-    },
-    "1201a5ad-3a80-4d2d-a8df-8a4bb66bae71": {
-        "regd no": "L24IT133",
-        "name": "BETHAPUDI NAGA BRAHMA CHARYULU BRAHMA CHARYULU BETHAPUDI",
-        "branch": "IT"
-    },
-    "3342713e-1a60-4aed-8d94-ba604d562846": {
-        "regd no": "Y23CD164",
-        "name": "Abdul Sadik Shaik",
-        "branch": "CSD"
-    },
-    "17428fdf-480c-41be-998b-8c4d329b8a15": {
-        "regd no": "Y24CM113",
-        "name": "Shafia Farheen Mohammad",
-        "branch": "CSM"
-    },
-    "5ef567b3-e2a4-40df-8402-d659740ad934": {
-        "regd no": "Y23CM159",
-        "name": "Arshiyafirdouse shaik",
-        "branch": "CSM"
-    },
-    "b38e8355-16a0-4fdc-ab9c-fa590b3203bd": {
-        "regd no": "Y24CM160",
-        "name": "Saumya Rani",
-        "branch": "CSM"
-    },
-    "0adc54a0-15a5-47be-890c-03739eb2cca4": {
-        "regd no": "Y23CM180",
-        "name": "Putta Harsha Priya",
-        "branch": "CSM"
-    },
-    "63b259f3-c03c-4874-b23d-4881c9c88934": {
-        "regd no": "Y24CM161",
-        "name": "SHAIK ABDUL RAHAMAN",
-        "branch": "CSM"
-    },
-    "656d3957-3aff-4f4a-a054-300f658893b4": {
-        "regd no": "Y24CM169",
-        "name": "siddu bharath",
-        "branch": "CSM"
-    },
-    "50279fd3-4b5a-48e9-94c3-63d31016d304": {
-        "regd no": "Y24IT147",
-        "name": "Polisetty Venkata kowhsik",
-        "branch": "IT"
-    },
-    "b32c8cad-4657-4029-95ef-7e075576373c": {
-        "regd no": "Y23CM081",
-        "name": "Mahendra Krishna Prasad Kolasani",
-        "branch": "CSM"
-    },
-    "29ab9ea9-e49e-432a-8011-481d9513c233": {
-        "regd no": "Y24CB034",
-        "name": "Vyshnavi Jyothika",
-        "branch": "CSBS"
-    },
-    "d15e951c-9983-4395-aa25-3bed78bae3fc": {
-        "regd no": "Y24CB036",
-        "name": "Mallika Meda",
-        "branch": "CSBS"
-    },
-    "e775d6d5-c652-427e-a408-b6cca29c6866": {
-        "regd no": "Y23CO044",
-        "name": "Shameer Pathakota",
-        "branch": "CSO"
-    },
-    "1d523c53-adf3-4e0d-91c0-8796b42c4d99": {
-        "regd no": "Y23CM106",
-        "name": "Misala Venkata Lakshmi Narayana",
-        "branch": "CSM"
-    },
-    "33ab8c24-821b-483a-b962-e3f935095ac1": {
-        "regd no": "Y23IT043",
-        "name": "Raghu Ram",
-        "branch": "IT"
-    },
-    "88037ad7-c224-48c1-957a-53e0e93fb696": {
-        "regd no": "Y23IT023",
-        "name": "Bhanusri Chennamsetty Chennamsetty",
-        "branch": "IT"
-    },
-    "f66fd233-7489-4253-95e6-6aa747d0de54": {
-        "regd no": "Y23IT037",
-        "name": "Srilakshmi Konakanchi",
-        "branch": "IT"
-    },
-    "d2cd86e3-01e7-4a7d-bce0-8dc79ee966b6": {
-        "regd no": "Y23CS032",
-        "name": "Chittaluri Raghava",
-        "branch": "CSE"
-    },
-    "6f7a849b-ca43-438c-83f9-59f90393b563": {
-        "regd no": "Y24CM168",
-        "name": "Nasirunnisa Shiak",
-        "branch": "CSM"
-    },
-    "7824b23c-5bce-4742-b05b-ae37bbaacd17": {
-        "regd no": "L25CS413",
-        "name": "Samudrala Gnaneswari",
-        "branch": "CSE"
-    },
-    "2fd81e5a-2043-454c-b441-7d1e48b78b81": {
-        "regd no": "Y23CM129",
-        "name": "Parimi Bala Bhargavi",
-        "branch": "CSM"
-    },
-    "50eb06f7-6b1d-4acf-bb71-00b1f8976b66": {
-        "regd no": "Y24CS262",
-        "name": "Lakshmi Peddipalli",
-        "branch": "CSE"
-    },
-    "518d22e3-79c7-432c-b308-595249d578c2": {
-        "regd no": "L25CM215",
-        "name": "Tata Kavya",
-        "branch": "CSM"
-    },
-    "1f6ff94f-5c48-4a03-a071-af3b4f9619f6": {
-        "regd no": "Y24CM164",
-        "name": "Ayesha Shaik",
-        "branch": "CSM"
-    },
-    "61002541-8777-4681-9774-6ec7ef141c90": {
-        "regd no": "Y24CS235",
-        "name": "Harsha Vardhan Nekkanti",
-        "branch": "CSE"
-    },
-    "190d58e1-11f0-47fc-82c4-4583919d69bb": {
-        "regd no": "Y24CS013",
-        "name": "Ambati Sri Sai Neeha",
-        "branch": "CSE"
-    },
-    "38d0133b-97db-4e53-ae06-6fd46fc8efa5": {
-        "regd no": "Y24CS342",
-        "name": "Mohitha Tubati",
-        "branch": "CSE"
-    },
-    "3e4efa64-7bcb-4b79-94dd-1a22f043f8f8": {
-        "regd no": "L25CM208",
-        "name": "KOKKIRIGADDA MANOJ BABU",
-        "branch": "CSM"
-    },
-    "1f04c3f1-abd7-4bd5-bec5-bdcea01a25d1": {
-        "regd no": "L25CB066",
-        "name": "K jaswanth",
-        "branch": "CSBS"
-    },
-    "a11ff290-83c4-44a5-90c4-a2544ea0035f": {
-        "regd no": "Y24CS339",
-        "name": "Harish Thiruveedhula",
-        "branch": "CSE"
-    },
-    "646ecb70-168f-42ed-9e5f-d5bcf0d58181": {
-        "regd no": "Y24CM167",
-        "name": "Shaik Khasim Sharif",
-        "branch": "CSM"
-    },
-    "767e2527-0bd8-4eca-8e6d-15166a46f13b": {
-        "regd no": "L25CB065",
-        "name": "Gunnireddy jaikishanreddy",
-        "branch": "CSBS"
-    },
-    "9c7409d2-6dab-4880-9602-10d56047fe92": {
-        "regd no": "Y23CS150",
-        "name": "Kolli Himaraga Varshith",
-        "branch": "CSE"
-    },
-    "4fb52493-5be8-419d-a6a4-30fd442b3ed7": {
-        "regd no": "L24CS201",
-        "name": "ANAND DEGALA",
-        "branch": "CSE"
-    },
-    "bbfd8660-b385-4b80-b5b9-b499e9ddb9ac": {
-        "regd no": "Y24CM114",
-        "name": "Shalini Mondithoka",
-        "branch": "CSM"
-    },
-    "2acbda23-1972-4cbb-b163-fc66a1d2f904": {
-        "regd no": "Y23CO048",
-        "name": "Koteswara Rao Pragada",
-        "branch": "CSO"
-    },
-    "d02ecb48-215f-4480-9b73-5f9b4aa59e99": {
-        "regd no": "Y23CM168",
-        "name": "Chandrika Talluri",
-        "branch": "CSM"
-    },
-    "dbb63f57-127b-4c56-b3a4-ab7ba24994ab": {
-        "regd no": "Y23IT008",
-        "name": "Bakka Jaya Lakshmi",
-        "branch": "IT"
-    },
-    "8e787ed1-39be-46c6-a417-cecd89879750": {
-        "regd no": "L24CM216",
-        "name": "Bhanu prakash Vendra",
-        "branch": "CSM"
-    },
-    "53ebf4cf-48d7-4877-bdb5-941ecd4a13b4": {
-        "regd no": "Y23CO066",
-        "name": "Vippala Pravallika",
-        "branch": "CSO"
-    },
-    "728b8637-2996-4995-b92b-87f43ca60aee": {
-        "regd no": "Y24CD088",
-        "name": "Vaishnavi Kethineni",
-        "branch": "CSD"
-    },
-    "dd182b64-ffaf-40d6-b226-bafd0e7530b9": {
-        "regd no": "Y23CD148",
-        "name": "Ponnaluri Jeyanth",
-        "branch": "CSD"
-    },
-    "b485aec5-d9fa-415e-8860-17c651c67ea2": {
-        "regd no": "Y24CM176",
-        "name": "Raghu harshith Tanikonda",
-        "branch": "CSM"
-    },
-    "95f7de62-b7bb-4a21-8ed5-a67a2782915f": {
-        "regd no": "Y23CS083",
-        "name": "Koya Tanuja",
-        "branch": "CSE"
-    },
-    "101c6bb0-6a12-4671-a882-109df8cdcc16": {
-        "regd no": "Y23IT006",
-        "name": "Aala Anusha",
-        "branch": "IT"
-    },
-    "df65ab1e-ba63-48d1-98e9-4016a9f97de5": {
-        "regd no": "L24CO069",
-        "name": "Nahin Khan Pattan",
-        "branch": "CSO"
-    },
-    "7d63827a-b5b7-4fe5-ad2a-64609c973121": {
-        "regd no": "Y23CS193",
-        "name": "Yadlapalli Aditya Ram",
-        "branch": "CSE"
-    },
-    "36bddf3d-fd9c-4b22-abe5-43c90c6275cc": {
-        "regd no": "Y23CM188",
-        "name": "Siri Chandana Vishnubhotla",
-        "branch": "CSM"
-    },
-    "eb62f8a3-e7c6-4d52-aae6-3b1cddd426e1": {
-        "regd no": "7207508589",
-        "name": "Yuvaraju Kunule Kunule",
-        "branch": "Unknown"
-    },
-    "a9cd200b-d637-4d33-ab03-cfceaf291d03": {
-        "regd no": "Y24CB004",
-        "name": "Anumolu Dharani",
-        "branch": "CSBS"
-    },
-    "494cf93b-6b74-4adf-b023-f2b180b1002f": {
-        "regd no": "Y24CS222",
-        "name": "Uttej Nagalla",
-        "branch": "CSE"
-    },
-    "47906cf8-f603-4a43-ab75-1976a88d44a0": {
-        "regd no": "Y24CS044",
-        "name": "Pravallika Bolla",
-        "branch": "CSE"
-    },
-    "d3b92dd6-2014-4267-9649-88424592016f": {
-        "regd no": "Y24CS289",
-        "name": "Sandhya Perala",
-        "branch": "CSE"
-    },
-    "66771fa7-9102-40bd-b5f4-5f5cb0f3370e": {
-        "regd no": "Y24CS356",
-        "name": "VARRE VISHNU VARDHAN",
-        "branch": "CSE"
-    },
-    "09727fef-2871-4ddd-bceb-9d6dd857e8d6": {
-        "regd no": "Y24CS295",
-        "name": "Sakthivel Tharshni",
-        "branch": "CSE"
-    },
-    "1bd32e56-efe9-4f20-ad41-d6784688500d": {
-        "regd no": "Y24CS037",
-        "name": "BhavyaSri Bodapati",
-        "branch": "CSE"
-    },
-    "2543f657-2d93-472e-a4cf-f1087da73917": {
-        "regd no": "Y24IT106",
-        "name": "Morasa Karthik Karthik",
-        "branch": "IT"
-    },
-    "7baf0132-5d66-4b32-80b6-5fb1ad752f3c": {
-        "regd no": "Y23CM177",
-        "name": "Venkata Sai Tharun Upputuri",
-        "branch": "CSM"
-    },
-    "2cd36b1a-8018-4caa-b516-5f0e6f9ccec7": {
-        "regd no": "Y23CS134",
-        "name": "Sharvani Shriya Penumaka",
-        "branch": "CSE"
-    },
-    "6c751009-04ad-4070-a41e-1763728ce3b7": {
-        "regd no": "L25CM209",
-        "name": "Sri sai kalyan reddy kottapalli",
-        "branch": "CSM"
-    },
-    "55826a64-d021-4fe2-baa7-f32dbf3b4d1a": {
-        "regd no": "L25CM206",
-        "name": "NAGA LAKSHMI GARIKA",
-        "branch": "CSM"
-    },
-    "f1264dd4-7450-42c6-b5bb-99af17dbee6f": {
-        "regd no": "Y24CS323",
-        "name": "Sumanth Siripurapu",
-        "branch": "CSE"
-    },
-    "5b1c7bc0-435f-46f1-8033-98f4cb20064e": {
-        "regd no": "Y24CS204",
-        "name": "GaganDeep Meesala",
-        "branch": "CSE"
-    },
-    "afb5ca6a-17ad-48cf-a48f-33a82532803f": {
-        "regd no": "Y23CO043",
-        "name": "Parupudi Lakshmi Mayukha",
-        "branch": "CSO"
-    },
-    "c5f5ebab-ba48-43e5-acad-1cb0197c8ab9": {
-        "regd no": "Y23CM012",
-        "name": "Asish Athota",
-        "branch": "CSM"
-    },
-    "b6ff7e00-4fcf-402d-a6bd-b1118580686c": {
-        "regd no": "L25CM213",
-        "name": "NINDUJARLA GOPI ARAVIND",
-        "branch": "CSM"
-    },
-    "a56b26bc-5dee-4f09-9719-870eb8c641f6": {
-        "regd no": "Y24CS219",
-        "name": "Mupparaju Nischal",
-        "branch": "CSE"
-    },
-    "8190a92f-494f-4374-9ea6-32275a18d58e": {
-        "regd no": "Y23CM169",
-        "name": "Eswara Srija Tammana",
-        "branch": "CSM"
-    },
-    "0b2cac95-ee82-4a4a-88cd-3208f42f1c8c": {
-        "regd no": "Y24CM109",
-        "name": "Manukonda Bhargavi",
-        "branch": "CSM"
-    },
-    "793dc20f-0446-48d9-9211-9b1da05a0366": {
-        "regd no": "Y24CM090",
-        "name": "Kolla Charan Teja",
-        "branch": "CSM"
-    },
-    "3264b296-8c12-480f-b36e-5f9fbf2c4be9": {
-        "regd no": "Y24CM093",
-        "name": "Kommalapati Anjali",
-        "branch": "CSM"
-    },
-    "f201fbdd-c158-438e-ac31-ed325bfd0e39": {
-        "regd no": "Y23CM167",
-        "name": "Mythri Tadikonda",
-        "branch": "CSM"
-    },
-    "cc2e8be4-39a5-495d-9592-a3260cda7158": {
-        "regd no": "Y23CM019",
-        "name": "Bobba Tejasri",
-        "branch": "CSM"
-    },
-    "c0006f54-1865-4b5b-9052-77a78120fd9d": {
-        "regd no": "Y24CM027",
-        "name": "Reddy Pujitha Buduri",
-        "branch": "CSM"
-    },
-    "7c4e3471-e80e-4761-85a6-c78fdcee77af": {
-        "regd no": "Y24CS195",
-        "name": "Mamidi Neeraja lakshmi",
-        "branch": "CSE"
-    },
-    "f28b6e5b-a9a8-46c5-92f3-a7d986d79561": {
-        "regd no": "Y23IT018",
-        "name": "BODDU SRI MANJUNADHA PRASANNA KUMAR",
-        "branch": "IT"
-    },
-    "537cdfe3-3c8d-4015-8bc1-13b042d4f912": {
-        "regd no": "Y24CS114",
-        "name": "Pujitha Jaladi",
-        "branch": "CSE"
-    },
-    "b2c48b54-0ad2-4208-8cda-34a2b4aac8fd": {
-        "regd no": "Y23CM006",
-        "name": "Amulya Annapureddy",
-        "branch": "CSM"
-    },
-    "28a5ced4-4088-4fb1-9527-ccd3fded5763": {
-        "regd no": "Y24CS201",
-        "name": "Mantri Namratha",
-        "branch": "CSE"
-    },
-    "85ab2fd2-0a56-4692-b531-535a1a1d268e": {
-        "regd no": "Y23CM192",
-        "name": "Yagna Priya Bavana",
-        "branch": "CSM"
-    },
-    "5190a424-1f50-487c-940e-5f82eee16313": {
-        "regd no": "Y23CM198",
-        "name": "Yuktha Uppugunduru",
-        "branch": "CSM"
-    },
-    "fce7053d-a1e9-424b-8d5e-acd989a05ab5": {
-        "regd no": "Y23CS069",
-        "name": "Kodali Kamal Raghavendra Kumar",
-        "branch": "CSE"
-    },
-    "654a0329-86ad-4067-96bd-01b9c8523a65": {
-        "regd no": "Y23CS021",
-        "name": "Vamsi Krishna",
-        "branch": "CSE"
-    },
-    "f9390547-4e6b-45a3-b988-fd6b6c72c864": {
-        "regd no": "L25CS388",
-        "name": "Divya Maanasa Desamala",
-        "branch": "CSE"
-    },
-    "8f8a34c4-b6b6-47c1-9fde-675b13251494": {
-        "regd no": "Y24CS107",
-        "name": "Vinay",
-        "branch": "CSE"
-    },
-    "4e1a3849-ac6b-4f89-9afa-d7d6146eb9f3": {
-        "regd no": "Y23CM100",
-        "name": "Himavarsh Akshith Mamidi",
-        "branch": "CSM"
-    },
-    "17b9ad54-c370-467e-a180-842ab617c7ea": {
-        "regd no": "Y24CM016",
-        "name": "Balaga Gayatri",
-        "branch": "CSM"
-    },
-    "064f2305-beb6-4ab2-93c6-01dd6043a349": {
-        "regd no": "Y24CS319",
-        "name": "Saifuddin Shaik",
-        "branch": "CSE"
-    },
-    "e7cddc98-e3bf-4efc-b2ae-82acd499a76b": {
-        "regd no": "Y24CS003",
-        "name": "Addanki Deepika",
-        "branch": "CSE"
-    },
-    "d25c30e0-9b6a-473d-94dc-5257e8a605e6": {
-        "regd no": "Y23CM193",
-        "name": "Yandrapragada Susmitha",
-        "branch": "CSM"
-    },
-    "7ba045fb-6c68-4e78-be72-88c1e9633064": {
-        "regd no": "Y24CS224",
-        "name": "Eswar Manikanta Nakka",
-        "branch": "CSE"
-    },
-    "9cceb7a1-a59f-4cc1-b7dd-7abd4ddec04e": {
-        "regd no": "Y24CM013",
-        "name": "Subbu Arudra",
-        "branch": "CSM"
-    },
-    "76217026-d88a-44d6-9170-11eff81a2040": {
-        "regd no": "Y24CM135",
-        "name": "Patnana Sri Harshini",
-        "branch": "CSM"
-    },
-    "32e25155-55d2-4c4b-b905-6ada7e2a1b3f": {
-        "regd no": "Y24CM186",
-        "name": "shaik jahena",
-        "branch": "CSM"
-    },
-    "6aea6560-04b9-4c49-90d1-572996294150": {
-        "regd no": "Y24CS320",
-        "name": "Sk Suraya Parveen",
-        "branch": "CSE"
-    },
-    "5523a546-34d7-4c03-af6d-e68f94ea13ef": {
-        "regd no": "Y24CS263",
-        "name": "Yudhishna Pendurthi",
-        "branch": "CSE"
-    },
-    "adb12983-a95f-423c-84f0-14d15cff7391": {
-        "regd no": "Y24CM0674",
-        "name": "Javisetty Kaveri",
-        "branch": "CSM"
-    },
-    "34d23c29-3523-47ee-89cf-02a4b2b58c21": {
-        "regd no": "Y24CM149",
-        "name": "Pulikonda Giridhara Chary",
-        "branch": "CSM"
-    },
-    "2f9ee3f7-0abf-48d2-9154-9f1128d91ebb": {
-        "regd no": "Y23CO034",
-        "name": "Manduri Aswitha Chowdary",
-        "branch": "CSO"
-    },
-    "34ac46a6-48f6-4f7c-8f13-ed1b2a99ebd6": {
-        "regd no": "Y24CS015",
-        "name": "Siva Narendra",
-        "branch": "CSE"
-    },
-    "4ba9253b-6423-4210-87bf-155d3e9cdc5b": {
-        "regd no": "Y24CS346",
-        "name": "URIMELLA YOUSAF",
-        "branch": "CSE"
-    },
-    "c52be83a-646c-4570-b909-4bcf9bfe5bba": {
-        "regd no": "Y24CS078",
-        "name": "Lakshmi Lakshmi",
-        "branch": "CSE"
-    },
-    "27aec680-83b5-4cf4-8986-c649df1b69ad": {
-        "regd no": "Y24CM052",
-        "name": "Gaddam Lakshmi Kranthi",
-        "branch": "CSM"
-    },
-    "2cebc0db-c4e2-4569-8aaa-e8a446790f10": {
-        "regd no": "RACO",
-        "name": "Usurupati Jaswar Babu",
-        "branch": "Unknown"
-    },
-    "5b344eba-f02b-461c-9f1b-c7940532b079": {
-        "regd no": "Y23CS050",
-        "name": "Gangireddy Narendra Reddy",
-        "branch": "CSE"
-    },
-    "c8af0335-511b-4a41-9c46-047b33d4b47c": {
-        "regd no": "Y24CM079",
-        "name": "Kakollu Geetha Charani",
-        "branch": "CSM"
-    },
-    "f5854e72-1218-49c4-8200-be4669f1a1f7": {
-        "regd no": "Y24CM060",
-        "name": "Gogisetti Anusha",
-        "branch": "CSM"
-    },
-    "3948ceee-17c1-4ea9-961d-d141118c08a1": {
-        "regd no": "Y24CM147",
-        "name": "PRASANNA PONNAM",
-        "branch": "CSM"
-    },
-    "a016c7d9-89a5-4e0c-b99a-64763652789c": {
-        "regd no": "Y24CM117",
-        "name": "rishitha Nagandla",
-        "branch": "CSM"
-    },
-    "92cc1daf-8aef-4f88-8bee-fd20de52f56a": {
-        "regd no": "Y23CS174",
-        "name": "Naveen Mani Sankar Reddy Tetala",
-        "branch": "CSE"
-    },
-    "40775f61-b7bf-4351-bc59-7f6f3eef92e0": {
-        "regd no": "Y24CB029",
-        "name": "Aswithasai Kandimalla Kandimalla",
-        "branch": "CSBS"
-    },
-    "be7543e7-8247-42e2-8641-686e7007cac8": {
-        "regd no": "Y24CM125",
-        "name": "Meghana Nelluri",
-        "branch": "CSM"
-    },
-    "69bb9451-1b1a-4d4c-8f85-daa6c99cd1a5": {
-        "regd no": "Y24CM077",
-        "name": "Kakarla Balaji",
-        "branch": "CSM"
-    },
-    "f2300434-e311-4d6d-a9b5-1dd9c74a3a1f": {
-        "regd no": "Y24CM057",
-        "name": "Ganguru Sri Sai Pravallika",
-        "branch": "CSM"
-    },
-    "011d6733-0c70-4df0-b578-1c2b06724506": {
-        "regd no": "Y24CM192",
-        "name": "BALA RANGAIAH VATTIVELLA",
-        "branch": "CSM"
-    },
-    "95d6a354-29f3-4489-a4c2-640be048c5da": {
-        "regd no": "Y24CM162",
-        "name": "Shaik Anjum",
-        "branch": "CSM"
-    },
-    "a75d8210-ba59-4514-868d-1904111932ae": {
-        "regd no": "L25CS395",
-        "name": "Karumanchi Divya srija",
-        "branch": "CSE"
-    },
-    "2af46164-1649-4ff9-bc86-5731deb6304d": {
-        "regd no": "Y23CO005",
-        "name": "CHEBROLU BHAGYANAND",
-        "branch": "CSO"
-    },
-    "f23aedba-0aff-4f09-acaf-b364941605fa": {
-        "regd no": "Y24CS026",
-        "name": "Thanmai sri Bandarupalli",
-        "branch": "CSE"
-    },
-    "376b217f-535c-4ff1-b45e-6afa09571a80": {
-        "regd no": "Y24CM196",
-        "name": "Harika Sangisetty",
-        "branch": "CSM"
-    },
-    "6a38c819-cd61-4404-b35d-df55dd51078b": {
-        "regd no": "Y24CS034",
-        "name": "Bijjam Poshitha Sri",
-        "branch": "CSE"
-    },
-    "5d7df32f-2efe-4a4b-9567-4d35fa1f465a": {
-        "regd no": "Y23CS020",
-        "name": "Dilip Bodduluri",
-        "branch": "CSE"
-    },
-    "ce7cf686-b98e-40fa-9011-1536f65d49bf": {
-        "regd no": "Y23CS075",
-        "name": "kongara sir varshitha",
-        "branch": "CSE"
-    },
-    "fc54a89d-3dbe-4d8c-856a-603a29c5de1a": {
-        "regd no": "Y23CD133",
-        "name": "Mahemood Shaik",
-        "branch": "CSD"
-    },
-    "7b41fff6-9ab9-4a29-883a-eca58efaf5be": {
-        "regd no": "Y24CB030",
-        "name": "Kilari Keerthi",
-        "branch": "CSBS"
-    },
-    "6735f326-5aff-4843-b019-96aa36e4ad66": {
-        "regd no": "Y24CD030",
-        "name": "Chilka Sahitya",
-        "branch": "CSD"
-    },
-    "83885313-791c-4607-842e-382776edab93": {
-        "regd no": "Y23CM131",
-        "name": "Paruchuri Madhulla Sree",
-        "branch": "CSM"
-    },
-    "f1f89353-9816-4e69-9b95-4ae699022405": {
-        "regd no": "Y24CM048",
-        "name": "Srilakshmi Dudduri",
-        "branch": "CSM"
-    },
-    "48f605a2-6ccd-465f-8d48-fe4b48442c7c": {
-        "regd no": "L24CS205",
-        "name": "Jonnadula Tarak Ram",
-        "branch": "CSE"
-    },
-    "0598f15a-ed47-489a-8772-91304d49f538": {
-        "regd no": "Y23CM111",
-        "name": "Poojith babu murakonda",
-        "branch": "CSM"
-    },
-    "fe472de8-0403-4aa7-b993-8525288918ff": {
-        "regd no": "Y24CM051",
-        "name": "Etcherla Atchuta Rao",
-        "branch": "CSM"
-    },
-    "4dcc3eeb-c62f-4b23-bbae-fd92f73a5c06": {
-        "regd no": "Y24CS315",
-        "name": "Anusha Uyyala",
-        "branch": "CSE"
-    },
-    "3cb37b08-47ef-4985-b0f2-efefdbba79ea": {
-        "regd no": "Y24CS366",
-        "name": "Pradeepthi Yarlagadda",
-        "branch": "CSE"
-    },
-    "9ea09721-ebfa-47b8-a253-0c654aac7789": {
-        "regd no": "Y24CD095",
-        "name": "preethi kolluri kolluri",
-        "branch": "CSD"
-    },
-    "3f93014f-ac3f-431d-b924-e1a014e1a8bd": {
-        "regd no": "Y24CS023",
-        "name": "pushpendra Singh",
-        "branch": "CSE"
-    },
-    "c1b22912-ab2f-4bfb-a3ad-d7a4859aafb2": {
-        "regd no": "Y24CS215",
-        "name": "Meghana Mule",
-        "branch": "CSE"
-    },
-    "d11eb43b-870d-4d08-9117-5359b297f17f": {
-        "regd no": "Y24CS225",
-        "name": "Vasu Deva Rao Nakka",
-        "branch": "CSE"
-    },
-    "cb654af0-68f7-4a35-b7ea-48a2446d48d2": {
-        "regd no": "L25CM214",
-        "name": "Shaik Neeha",
-        "branch": "CSM"
-    },
-    "db02b922-7116-412a-9416-aa4e44ea52d8": {
-        "regd no": "L25CS415",
-        "name": "Shaik Khaja Ayaz",
-        "branch": "CSE"
-    },
-    "1f3661e6-a146-45ba-a104-cd6e2b45db3a": {
-        "regd no": "Y24CM054",
-        "name": "Saimanoj Gajula",
-        "branch": "CSM"
-    },
-    "c3bd42fe-bfa9-4f17-a1ec-51f0723b8f25": {
-        "regd no": "Y24EC098",
-        "name": "Mani Teja Musunuri",
-        "branch": "ECE"
-    },
-    "564bfea4-d5e6-45f1-b582-94f574b6e25d": {
-        "regd no": "Y24CM111",
-        "name": "Satya Hasitha Tejaswini",
-        "branch": "CSM"
-    },
-    "55e9ca6c-c03a-4e7c-b481-89918cca35ad": {
-        "regd no": "L25CS423",
-        "name": "Tirumalasetti Veera Naga Sai Dhoni",
-        "branch": "CSE"
-    },
-    "86ef9157-7778-47d0-a9b7-0d0a6ee09ce4": {
-        "regd no": "Y24CS059",
-        "name": "Choudam Srikavya",
-        "branch": "CSE"
-    },
-    "85c2e8a6-8ebe-4fff-ae4c-da460f56e092": {
-        "regd no": "Y24CM100",
-        "name": "Nandini",
-        "branch": "CSM"
-    },
-    "3078c845-5953-4971-bfb4-0dbac6b328b9": {
-        "regd no": "Y24CS345",
-        "name": "Viswas Upputholla",
-        "branch": "CSE"
-    },
-    "ac1a0eca-0f16-4bee-b8cf-85111379dc94": {
-        "regd no": "Y24CS049",
-        "name": "Bulla Pavithra",
-        "branch": "CSE"
-    },
-    "57f89224-d370-43f3-b2fe-3767e4e3848b": {
-        "regd no": "Y23CM067",
-        "name": "Kanatham Geeshpath",
-        "branch": "CSM"
-    },
-    "72d6ba9d-cea5-4006-9a26-38b57563e154": {
-        "regd no": "Y24CM143",
-        "name": "Neeraja Polisetti",
-        "branch": "CSM"
-    },
-    "b8e27590-369b-4515-81c8-8d08f0330999": {
-        "regd no": "Y24CM140",
-        "name": "Prem Perikala",
-        "branch": "CSM"
-    },
-    "4f5b1fbe-3205-4629-a021-e89736b28008": {
-        "regd no": "Y24CS331",
-        "name": "Talluri Akash",
-        "branch": "CSE"
-    },
-    "69a8a833-2d7f-406a-ad4f-1ed56dc71381": {
-        "regd no": "Y24CM126",
-        "name": "Venkata Ganesh Nerella",
-        "branch": "CSM"
-    },
-    "d73b6335-57a7-456d-b941-81e8e5227f45": {
-        "regd no": "Y24CO014",
-        "name": "lakshmi lavanya",
-        "branch": "CSO"
-    },
-    "f39f0514-ab38-421d-a96c-c54cd9c91115": {
-        "regd no": "Y23CM037",
-        "name": "Hema Varun",
-        "branch": "CSM"
-    },
-    "e9c19a3f-8037-420d-95c3-f7691288afb1": {
-        "regd no": "Y24CM084",
-        "name": "Abhi",
-        "branch": "CSM"
-    },
-    "96143711-ed29-4c4d-8abe-29c99683e6a2": {
-        "regd no": "Y24CM062",
-        "name": "Sri Koushik",
-        "branch": "CSM"
-    },
-    "276e8ea8-080d-4974-9111-9923a06e71f9": {
-        "regd no": "Y24CM103",
-        "name": "Akhil",
-        "branch": "CSM"
-    },
-    "0ab653fd-9f95-49f6-b5c7-504ad45415bc": {
-        "regd no": "Y24CM188",
-        "name": "Ushasri Valeti",
-        "branch": "CSM"
-    },
-    "31610ad3-1ccb-4bb8-9e5e-cd4e162920d0": {
-        "regd no": "Y24CM064",
-        "name": "Guddati Mohan Sai Kumar",
-        "branch": "CSM"
-    },
-    "eadfa67d-c0d1-4e3a-9f1f-b79d451944af": {
-        "regd no": "Y23IT058",
-        "name": "Ramya Lahari Kondapureddy",
-        "branch": "IT"
-    },
-    "3a1afd42-37b3-48fa-9c2f-cbf092aefc7e": {
-        "regd no": "L24CM201",
-        "name": "Gunda Raghavendra",
-        "branch": "CSM"
-    },
-    "2d19c2dd-2371-49fe-9a8e-62bc910d7610": {
-        "regd no": "Y23CM039",
-        "name": "Trinadh Chowdary",
-        "branch": "CSM"
-    },
-    "8d105156-dc90-4b22-9626-bfb891e41273": {
-        "regd no": "Y24CM182",
-        "name": "likhitha tummala",
-        "branch": "CSM"
-    },
-    "71fd9809-115d-4c77-b8a9-ffafccbb9a34": {
-        "regd no": "Y23CM089",
-        "name": "kusumanjali kotha",
-        "branch": "CSM"
-    },
-    "57366686-b725-4fc0-b34c-7021ac8802bd": {
-        "regd no": "Y23CM183",
-        "name": "Sai Sravani Varada",
-        "branch": "CSM"
-    },
-    "450e9735-b004-4944-82c6-248c095e22e5": {
-        "regd no": "L24CS217",
-        "name": "Tunuguntla Jaya raj Kumar",
-        "branch": "CSE"
-    },
-    "be799966-2927-4d52-b165-e3b90e743c9a": {
-        "regd no": "Y23IT124",
-        "name": "Hruthika Venna",
-        "branch": "IT"
-    },
-    "d9ab6e80-4e10-4b64-bd6b-29447f38ce65": {
-        "regd no": "Y24CM131",
-        "name": "Sai Gayathri",
-        "branch": "CSM"
-    },
-    "824f3371-bbc3-481c-906e-53f7f495351b": {
-        "regd no": "L24CM207",
-        "name": "Padala Dohith Reddy",
-        "branch": "CSM"
-    },
-    "adeef6ae-3890-402a-8fc0-d58ef3ceaa99": {
-        "regd no": "Y24CS255",
-        "name": "Kiran Teja",
-        "branch": "CSE"
-    },
-    "1ac2a3fd-53a3-47ff-8b8c-37712d74fff1": {
-        "regd no": "Y23IT034",
-        "name": "Pavan",
-        "branch": "IT"
-    },
-    "26196241-56e8-42d0-8474-a80c6a235faa": {
-        "regd no": "Y23IT061",
-        "name": "Bodempudi Mani Chandana",
-        "branch": "IT"
-    },
-    "0251f578-f762-48f8-b397-6bdc96e9abe4": {
-        "regd no": "Y24CS217",
-        "name": "Munthala Venkata Snehalatha Reddy",
-        "branch": "CSE"
-    },
-    "3e3ff2bc-8fe7-46d6-83e0-096a31553be6": {
-        "regd no": "Y24CS010",
-        "name": "Allinagara Achyuth Reddy",
-        "branch": "CSE"
-    },
-    "d76c4ee0-1c51-4a0d-834c-c537a018603b": {
-        "regd no": "Y23CM148",
-        "name": "Hemalatha Ravulapalli",
-        "branch": "CSM"
-    },
-    "0921ed11-7e00-4ac8-9244-1dccfc2cda99": {
-        "regd no": "Y24CS314",
-        "name": "KarishmaKarim Shaik Shaik",
-        "branch": "CSE"
-    },
-    "d3ca5fa0-be86-4d49-8435-1be74983dbc8": {
-        "regd no": "Y23IT052",
-        "name": "Katabathuni Tejaswi",
-        "branch": "IT"
-    },
-    "ee14730a-c8f6-4cb5-8ee0-c58f90a001d1": {
-        "regd no": "Y23CM010",
-        "name": "Annamneni Manvitha Lakshmi",
-        "branch": "CSM"
-    },
-    "6c4dabf9-ef7e-4765-9c3b-d8b50b2fa6b3": {
-        "regd no": "Y23IT005",
-        "name": "Angalakuduru Manohar",
-        "branch": "IT"
-    },
-    "be3f375a-a784-4aea-9e67-219c21d4ba09": {
-        "regd no": "Y24CM007",
-        "name": "ALLAM VIJAY RAGHAVENDRA",
-        "branch": "CSM"
-    },
-    "fdf75573-1a67-441f-be77-ca5822e8e47b": {
-        "regd no": "Y24CS159",
-        "name": "Kommuri Jaswanth",
-        "branch": "CSE"
-    },
-    "7d88af62-4ea1-4b61-98c0-1a115a39e864": {
-        "regd no": "Y24CB044",
-        "name": "Divya Pavani Pentela",
-        "branch": "CSBS"
-    },
-    "78a84c34-95e0-4cbe-b580-a7be581624c2": {
-        "regd no": "Y23IT064",
-        "name": "parnika makineni makineni",
-        "branch": "IT"
-    },
-    "42d17927-d42e-43d7-9a82-bc642e7c6d99": {
-        "regd no": "Y24CS325",
-        "name": "Gopika Somepalli",
-        "branch": "CSE"
-    },
-    "69a0a24d-2a69-4d04-b9cd-2cc0906f13e4": {
-        "regd no": "Y24CS194",
-        "name": "Teja Sai",
-        "branch": "CSE"
-    },
-    "8f4305b6-51fa-410d-9173-acbd08b1d4ce": {
-        "regd no": "Y24EC188",
-        "name": "Anjaneya Prasad V",
-        "branch": "ECE"
-    },
-    "a4faebd5-44ad-4e34-8307-3072db64e9e3": {
-        "regd no": "Y23CM175",
-        "name": "Sriramineni Swetha",
-        "branch": "CSM"
-    },
-    "3994fff6-8e58-439c-8960-0a2dd9fd6426": {
-        "regd no": "Y24CM150",
-        "name": "JAGADEESH",
-        "branch": "CSM"
-    },
-    "43e78615-350b-4d9e-a321-a79711df9573": {
-        "regd no": "Y24CS278",
-        "name": "Poreddy Vara Lakshmi",
-        "branch": "CSE"
-    },
-    "2905664d-0a97-42c6-87ec-ff5e11527faa": {
-        "regd no": "Y24CS223",
-        "name": "Mohana Durga Manaswini Nagireddy",
-        "branch": "CSE"
-    },
-    "7803f76a-f93a-4426-95c9-9e9e71cd8d6e": {
-        "regd no": "Y24CM089",
-        "name": "Kola Pranathi",
-        "branch": "CSM"
-    },
-    "4bc01f19-e50f-4940-a8ce-d7232288b999": {
-        "regd no": "Y24CM133",
-        "name": "Pasam Bhanu narendhara reddy",
-        "branch": "CSM"
-    },
-    "3a48cb69-098c-4a83-8609-4869f5177d08": {
-        "regd no": "Y24CS361",
-        "name": "Rupas Vundavalli",
-        "branch": "CSE"
-    },
-    "c7b87ee5-3d78-4297-b66f-f18406bbb629": {
-        "regd no": "Y24CM042",
-        "name": "Anand Sai Venkat Chowdari",
-        "branch": "CSM"
-    },
-    "70b70dda-0040-4878-8257-b6890db1468c": {
-        "regd no": "Y24IT157",
-        "name": "Samiullah",
-        "branch": "IT"
-    },
-    "847bd7c8-8e26-4f68-b6ec-b0592b22ea91": {
-        "regd no": "Y24CS365",
-        "name": "Yaramachu Sudheshna",
-        "branch": "CSE"
-    },
-    "ece71ae4-d8db-4759-af36-4074b16ffa93": {
-        "regd no": "Y24CS047",
-        "name": "Santhosh Buduri",
-        "branch": "CSE"
-    },
-    "9c6aeeb3-1ac9-428d-8ddb-b1e73effef66": {
-        "regd no": "Y23CM166",
-        "name": "Swarna Lalitha Sri",
-        "branch": "CSM"
-    },
-    "5daa7ad4-625e-403b-a285-efec36334f84": {
-        "regd no": "Y24EC116",
-        "name": "Bhavin Musala Musala",
-        "branch": "ECE"
-    },
-    "5829d1e8-36c3-480c-803e-9e1e0a663f22": {
-        "regd no": "Y23CM079",
-        "name": "Kenguva Kalki tarun",
-        "branch": "CSM"
-    },
-    "268bbb27-ee84-455a-a7b1-9190138a4a02": {
-        "regd no": "Y24CS008",
-        "name": "Rishika Chowdary Alla",
-        "branch": "CSE"
-    },
-    "860d7dff-4708-413b-9b0a-d9f40e283121": {
-        "regd no": "Y24CS313",
-        "name": "Kareem Shaik",
-        "branch": "CSE"
-    },
-    "41c90491-9fa3-4c63-9512-e9ab68753ba0": {
-        "regd no": "Y24CS343",
-        "name": "Syed Akmal",
-        "branch": "CSE"
-    },
-    "71b3ef47-83c6-4f49-92b5-a2b70f05a2c5": {
-        "regd no": "Y24CM137",
-        "name": "srinivasarao pemmasani",
-        "branch": "CSM"
-    },
-    "74f648b1-37ec-4e61-96a1-cd136dd168ed": {
-        "regd no": "L25CS376",
-        "name": "Dinesh",
-        "branch": "CSE"
-    },
-    "5f2e64b0-c9f4-43d9-a513-511127892efe": {
-        "regd no": "Y24CS355",
-        "name": "Vattikonda Sai Akhil",
-        "branch": "CSE"
-    },
-    "967fba0e-8039-4bed-a8b1-d309fb5bba40": {
-        "regd no": "Y24CS196",
-        "name": "yaswanth",
-        "branch": "CSE"
-    },
-    "e6a13866-7d3d-4d30-bbd9-a41c130aab3a": {
-        "regd no": "Y23CM123",
-        "name": "Sameer Noorbasha",
-        "branch": "CSM"
-    },
-    "47bf54fe-a36b-4dec-9f70-84a157e05cce": {
-        "regd no": "Y24CM071",
-        "name": "vamsi krishna",
-        "branch": "CSM"
-    },
-    "9ef054c1-2372-4f7c-9f3a-af700102dddb": {
-        "regd no": "Y24CM024",
-        "name": "Bhimanadhuni Chaitra Prameela",
-        "branch": "CSM"
-    },
-    "3fe0f17d-c5e4-4140-9fa4-5cc8283a6753": {
-        "regd no": "Y24CD087",
-        "name": "Yoshith Babby Kesari",
-        "branch": "CSD"
-    },
-    "7c1b2cef-f016-4dbe-9140-1c0486236249": {
-        "regd no": "Y23CM097",
-        "name": "Anil Kumar Maganti",
-        "branch": "CSM"
-    },
-    "82e5509b-26f1-4206-bffc-6e8578bc2170": {
-        "regd no": "Y24CM110",
-        "name": "Aswitha Mareedu",
-        "branch": "CSM"
-    },
-    "bcf6dcd4-e8fc-489b-85ab-d24905e3a45a": {
-        "regd no": "Y24CM021",
-        "name": "Madhu Sudhan",
-        "branch": "CSM"
-    },
-    "83ffc2fe-dda3-4f02-a13b-e87aa75a3158": {
-        "regd no": "Y24CS090",
-        "name": "Chandra shekhar Kadiyam",
-        "branch": "CSE"
-    },
-    "f6d82a20-e840-4701-89f8-b95548b94ea4": {
-        "regd no": "Y23IT062",
-        "name": "Kurra Sreeram",
-        "branch": "IT"
-    },
-    "11ad0500-5c4c-4cb2-a8fa-68f4933064ed": {
-        "regd no": "Y24CS279",
-        "name": "Potla Sivani",
-        "branch": "CSE"
-    },
-    "076b7a64-a50a-4877-973e-42adac82eb66": {
-        "regd no": "Y24CS028",
-        "name": "BANDI MAHIDHAR REDDY",
-        "branch": "CSE"
-    },
-    "eb8dc32a-2ed1-42b0-86df-4a938f9e5bc7": {
-        "regd no": "Y24CS267",
-        "name": "Deepika Penumuchu",
-        "branch": "CSE"
-    },
-    "d7047abb-39cf-469a-95ec-e29c476dc070": {
-        "regd no": "GANESH",
-        "name": "HarshaVardhan Ramu Kanna Kanna",
-        "branch": "Unknown"
-    },
-    "b6c5323c-570d-4f79-9908-fed189c71c4a": {
-        "regd no": "Y23CM032",
-        "name": "Pranamya Chunduri",
-        "branch": "CSM"
-    },
-    "d6be749a-18f9-439d-8373-de4c41505814": {
-        "regd no": "Y23CM124",
-        "name": "Padamata Hemanth Subhash",
-        "branch": "CSM"
-    },
-    "21a76947-e278-4118-8433-985e35ec51c8": {
-        "regd no": "Y24CM075",
-        "name": "FIN SHOT",
-        "branch": "CSM"
-    },
-    "34d23d80-759d-4e3a-92d3-fac25e4ca849": {
-        "regd no": "Y24CS188",
-        "name": "Mahammed Abdul Khadar",
-        "branch": "CSE"
-    },
-    "c59edb35-f72b-463d-a191-0bde39eebeb8": {
-        "regd no": "Y23IT088",
-        "name": "AFRIN PATHAN",
-        "branch": "IT"
-    },
-    "518d5b65-fae2-4880-a8f9-141c8c4f7435": {
-        "regd no": "Y24CM005",
-        "name": "Revanthnaidu Alahari",
-        "branch": "CSM"
-    },
-    "354c1316-45ee-49b6-9a06-78ecdc84e3c2": {
-        "regd no": "Y24CM116",
-        "name": "Harsha Teja Mugala",
-        "branch": "CSM"
-    },
-    "bce1fa51-d5a6-43eb-a3b0-f9ed80dc66eb": {
-        "regd no": "Y24CS207",
-        "name": "Gayathri miriyampalli",
-        "branch": "CSE"
-    },
-    "74b8cc1d-0d05-4d51-a02a-15957497923e": {
-        "regd no": "Y23IT009",
-        "name": "BANDAPALLY SRI HARSHA SRI HARSHA",
-        "branch": "IT"
-    },
-    "46df7dce-0b2d-4b10-8a96-70daf3581b33": {
-        "regd no": "Y23CM083",
-        "name": "Komaragiri Bhanu Prakash Babu",
-        "branch": "CSM"
-    },
-    "3a59687b-b669-42f3-af91-d9e617e47807": {
-        "regd no": "Y24CM190",
-        "name": "Gayathri Vallepu",
-        "branch": "CSM"
-    },
-    "c6f1ea10-2d66-4e76-bf98-1debfaf383f6": {
-        "regd no": "Y24CM039",
-        "name": "rakesh Chitteti",
-        "branch": "CSM"
-    },
-    "7a409861-3084-4920-8660-9474287b7581": {
-        "regd no": "Y24CS039",
-        "name": "Aravind Boddikondla Boddikondla",
-        "branch": "CSE"
-    },
-    "d12e9cb8-4a4a-4101-97f3-1392f4a453c2": {
-        "regd no": "Y24CM127",
-        "name": "P V Sumanth Reddy",
-        "branch": "CSM"
-    },
-    "ae70c168-2934-4838-b14d-78dfc13b8dd0": {
-        "regd no": "Y24CS248",
-        "name": "Krishna Chaitanya Panga",
-        "branch": "CSE"
-    },
-    "a7be84ea-f3a6-4af0-8ead-5b127a4d9ace": {
-        "regd no": "JAMPANI.THANVITHA CHOWDARY",
-        "name": "thanvitha chowdary",
-        "branch": "Unknown"
-    },
-    "703fe760-6df1-4993-81bf-2304d2392f99": {
-        "regd no": "Y23CM116",
-        "name": "Shivaraj Nallagorla",
-        "branch": "CSM"
-    },
-    "b6f9af79-8b35-4fe9-b478-bf37bb846ef7": {
-        "regd no": "L25CS391",
-        "name": "Surya prakash Geddada",
-        "branch": "CSE"
-    },
-    "d74c0808-235d-4309-a2d0-3d00a55dc5dc": {
-        "regd no": "Y23CM156",
-        "name": "Hanishma Shaik",
-        "branch": "CSM"
-    },
-    "f7d6ff7b-e680-4075-a7ee-3cfe4d1d1720": {
-        "regd no": "Y24CM128",
-        "name": "Pagidi Swetha",
-        "branch": "CSM"
-    },
-    "3020c41c-f728-4877-a8c2-b838bbb6dc9a": {
-        "regd no": "Y24CM036",
-        "name": "Chimmiri Lokesh Lokesh",
-        "branch": "CSM"
-    },
-    "26a1ec26-5bf1-4e3e-bddd-baa15cb16da3": {
-        "regd no": "Y24CM081",
-        "name": "Nathan",
-        "branch": "CSM"
-    },
-    "8ff86e69-8ddb-4a9b-b6ec-8871e74d8258": {
-        "regd no": "Y24CM040",
-        "name": "Chitturi BHANU",
-        "branch": "CSM"
-    },
-    "a78a6d4e-30aa-4dbf-9b8b-487066d158ec": {
-        "regd no": "Y24CM038",
-        "name": "Gangothri Chittemreddy",
-        "branch": "CSM"
-    },
-    "5754d337-b6c1-47ad-b68e-6a9469ea4f35": {
-        "regd no": "Y24CM014",
-        "name": "Yasaswini Athota",
-        "branch": "CSM"
-    },
-    "745a888b-47b4-42af-935a-b9554cecb32a": {
-        "regd no": "Y24CM053",
-        "name": "Dontha Chandu",
-        "branch": "CSM"
-    },
-    "6c465512-3817-4fa9-99f2-871beaaf3eaa": {
-        "regd no": "Y24CM063",
-        "name": "charan teja gudavalli gudavalli",
-        "branch": "CSM"
-    },
-    "e718071b-13bf-407f-8f5e-3c402696520b": {
-        "regd no": "Y24CMO70",
-        "name": "KRISHNA MANOHAR IPPILI",
-        "branch": "CSM"
-    },
-    "fca2f8e9-93c4-4cc2-9cc6-72a781d5c546": {
-        "regd no": "Y24CS018",
-        "name": "Hrudayanjali",
-        "branch": "CSE"
-    },
-    "82a0fa24-d44d-49c6-831e-22dfb7817c0c": {
-        "regd no": "Y24CD127",
-        "name": "Akash Venkat Musyam",
-        "branch": "CSD"
-    },
-    "8dd4b97c-5303-40c4-8fef-01770a4abe3c": {
-        "regd no": "Y24IT083",
-        "name": "Chandana Sri Maddineni",
-        "branch": "IT"
-    },
-    "f735424f-cf68-4106-b1e2-3aac2ea2391e": {
-        "regd no": "Y24CS050",
-        "name": "Chaganti Leela Vishnu Vardhan",
-        "branch": "CSE"
-    },
-    "b53ba836-31d8-45e9-ba95-d39550b9c601": {
-        "regd no": "Y23IT044",
-        "name": "Jadda Lasya Priya",
-        "branch": "IT"
-    },
-    "123bce28-1d94-42f2-881d-5979753289cd": {
-        "regd no": "Y23CM082",
-        "name": "Kollu Hemasesha Sai",
-        "branch": "CSM"
-    },
-    "7f75c395-faa5-49b3-bf87-27e5ffe8760b": {
-        "regd no": "Y24CM108",
-        "name": "Mandalapu Kiran Kumar",
-        "branch": "CSM"
-    },
-    "1f564638-1625-408f-9327-a6a184612f43": {
-        "regd no": "Y24CD069",
-        "name": "Sri Vidhya Jasti",
-        "branch": "CSD"
-    },
-    "05664c3d-df1c-4e92-88b2-75aa53185197": {
-        "regd no": "Y24CM010",
-        "name": "Andhavarapu Hari babu",
-        "branch": "CSM"
-    },
-    "cd0534fe-470f-4b32-812a-0c1ea84a184f": {
-        "regd no": "Y24CS038",
-        "name": "Vinay Eswar",
-        "branch": "CSE"
-    },
-    "0add49c5-37ab-42cc-aa81-76977bc03254": {
-        "regd no": "L25IT207",
-        "name": "Narasimha rao Varakala",
-        "branch": "IT"
-    },
-    "62bae6a0-660a-40f5-bca0-3c22ccb97b43": {
-        "regd no": "Y24CD117",
-        "name": "Sony Marasu",
-        "branch": "CSD"
-    },
-    "c0f52bc8-3697-4812-9d0a-f5b6e4cd618a": {
-        "regd no": "Y24CM177",
-        "name": "Jwalitha Thanam",
-        "branch": "CSM"
-    },
-    "decc3f7c-e662-4caf-a1ca-9e79e21bfac2": {
-        "regd no": "Y24CS064",
-        "name": "Bindu sree Dandamudi",
-        "branch": "CSE"
-    },
-    "89da4abb-2ff1-4cc7-bb7c-6b2839a31bbb": {
-        "regd no": "Y24CM123",
-        "name": "MADHU NEELAM",
-        "branch": "CSM"
-    },
-    "e76c38ba-cf8b-4fd4-9109-4bfde0829eda": {
-        "regd no": "Y24IT097",
-        "name": "SRAVAN MARTURI",
-        "branch": "IT"
-    },
-    "be1eeb7f-745f-456e-9629-651a588dee85": {
-        "regd no": "Y24CS328",
-        "name": "DHARMATEJA SRISTI",
-        "branch": "CSE"
-    },
-    "e92f5bc1-3852-412a-9450-7d5dc4a5c1bb": {
-        "regd no": "Y24CM031",
-        "name": "charitha sri gosala gosala",
-        "branch": "CSM"
-    },
-    "babb7069-5c90-424f-b350-bafef465d8d0": {
-        "regd no": "L24CM199",
-        "name": "Challa Venkateswara Rao",
-        "branch": "CSM"
-    },
-    "29462ca7-0c1b-42e2-92aa-62b8f01b34f2": {
-        "regd no": "Y24CM002",
-        "name": "Dedeepya Agaramsetty",
-        "branch": "CSM"
-    },
-    "01d8db1a-8242-4a30-8e2a-e431a7bca5bc": {
-        "regd no": "Y23CM050",
-        "name": "Ghanta Jhansi Sandeepthi",
-        "branch": "CSM"
-    },
-    "8ad0a351-4943-4fb7-848b-02deb185dc96": {
-        "regd no": "L25CD212",
-        "name": "N SAI KIRAN",
-        "branch": "CSD"
-    },
-    "158c997e-9965-4e64-a580-d93eceebbafd": {
-        "regd no": "Y24CS309",
-        "name": "firoz",
-        "branch": "CSE"
-    },
-    "154d0f84-9ec0-4dc0-a0fc-12aba68e1bd7": {
-        "regd no": "Y24CM072",
-        "name": "Jammula Venkata Varun Teja",
-        "branch": "CSM"
-    },
-    "9b227b37-522f-4430-824d-e5e7f268d89f": {
-        "regd no": "METTU PAVITHRA",
-        "name": "keerthana kandimalla",
-        "branch": "Unknown"
-    },
-    "e70d90e6-7da3-43d4-bcc5-943003dc34ec": {
-        "regd no": "Y24IT170",
-        "name": "Goutham Bala Harsha Yepuri Yepuri",
-        "branch": "IT"
-    },
-    "4515e20e-bb90-4f7c-8ce5-dd549253cb14": {
-        "regd no": "AFROZ",
-        "name": "Shaik Afroz",
-        "branch": "Unknown"
-    },
-    "57743f18-d0b6-47ea-8147-81f68b6ae88f": {
-        "regd no": "Y24CS305",
-        "name": "Gulam Nabi",
-        "branch": "CSE"
-    },
-    "d71d9e98-25b0-475b-8224-5d86a85d216f": {
-        "regd no": "Y24CM193",
-        "name": "Pravallika Venna",
-        "branch": "CSM"
-    },
-    "7f65e9bb-f3ff-44b0-a211-83ad5b919abe": {
-        "regd no": "Y24CM026",
-        "name": "Boddu Pavithra",
-        "branch": "CSM"
-    },
-    "fabc6534-b2a2-499f-807c-e6f6521842b2": {
-        "regd no": "Y24CS206",
-        "name": "Merugumala Charitha",
-        "branch": "CSE"
-    },
-    "c400636b-bc4f-45d2-b4f1-05d15b614d56": {
-        "regd no": "Y24CM197",
-        "name": "Yarlagadda Thoran Sri Sai",
-        "branch": "CSM"
-    },
-    "0319f412-05c6-48cc-a829-28d20c281e66": {
-        "regd no": "Y24CM119",
-        "name": "Navya Nandi",
-        "branch": "CSM"
-    },
-    "cda11bfe-79de-462b-84c5-b176ba05ca92": {
-        "regd no": "Y24IT086",
-        "name": "Malemtati Jathin",
-        "branch": "IT"
-    },
-    "914f8be8-3c79-4cc2-8710-6124d9885833": {
-        "regd no": "Y24CB033",
-        "name": "Hemanth Kumar",
-        "branch": "CSBS"
-    },
-    "7e3ed835-1e00-4fc8-849b-f1eb8d393372": {
-        "regd no": "Y24CM157",
-        "name": "Sara Sateesh",
-        "branch": "CSM"
-    },
-    "c824ddac-8a45-4234-b5fa-a56ccc64ef1d": {
-        "regd no": "L24CM204",
-        "name": "Medam Baji",
-        "branch": "CSM"
-    },
-    "000a194f-162f-4d44-a6cb-9f6c63c43b98": {
-        "regd no": "Y24CM103",
-        "name": "Bhanu Chandar",
-        "branch": "CSM"
-    },
-    "7526ad5c-87aa-4a31-ad3f-65b39430c6d6": {
-        "regd no": "Y24CM138",
-        "name": "CHANAKYA VEERA PERAVALI",
-        "branch": "CSM"
-    },
-    "bf45637e-11b2-4e1f-b5e4-8ae198325bdd": {
-        "regd no": "Y24CM059",
-        "name": "Jaya chandra giddaluru",
-        "branch": "CSM"
-    },
-    "04e50506-94a5-4aa4-a8d5-536a02b59d53": {
-        "regd no": "Y24CS045",
-        "name": "Lahari",
-        "branch": "CSE"
-    },
-    "e74eb742-a5ab-4f30-a359-288cfb95508c": {
-        "regd no": "Y24CM124",
-        "name": "Nelature Jyotendra Nikil Simha Reddy",
-        "branch": "CSM"
-    },
-    "41ff3b49-77ea-475c-a6d4-7ab766f344d8": {
-        "regd no": "9642364541",
-        "name": "D.bhavishya",
-        "branch": "Unknown"
-    },
-    "0f15266d-2d1d-4b9b-a259-6fb20ba22632": {
-        "regd no": "Y24CM173",
-        "name": "Niranjan sukamanchi",
-        "branch": "CSM"
-    },
-    "44070dbb-c7c1-4690-a5a1-bb7411b20626": {
-        "regd no": "Y23EC198",
-        "name": "THOKALA NIKHILA AMBIKA",
-        "branch": "ECE"
-    },
-    "206c9303-5698-4bd3-ba44-a577e8357b54": {
-        "regd no": "Y24CM055",
-        "name": "karthik",
-        "branch": "CSM"
-    },
-    "bae10f80-d2fa-4c56-8d31-e74492d3df07": {
-        "regd no": "Y24CM",
+    "Y24CM": {
+        "uuid": "bae10f80-d2fa-4c56-8d31-e74492d3df07",
         "name": "I9DFJ",
         "branch": "CSM"
     },
-    "8bd3e70a-7887-42f7-baaa-1908ab70fddd": {
-        "regd no": "Y24CM099",
-        "name": "rakesh",
+    "Y24CM096": {
+        "uuid": "490f71db-e4d1-4391-8785-115ee26a82a0",
+        "name": "Karthik",
         "branch": "CSM"
     },
-    "73064ec7-7b36-46eb-9aa4-994aa2503c28": {
-        "regd no": "Y24CM044",
-        "name": "DARSI YASWANTH",
+    "Y24CM006": {
+        "uuid": "d1be4726-e069-4806-b96f-d45c0e19c151",
+        "name": "Nagasai Alapati",
         "branch": "CSM"
     },
-    "cd260c7e-63aa-4c21-a444-3c30c90d4cc5": {
-        "regd no": "L25CS392",
-        "name": "Tharuni",
+    "Y24CS154": {
+        "uuid": "c8018b73-e638-4977-8699-3e2f455c1b65",
+        "name": "Sai Teja Kokkiligadda",
         "branch": "CSE"
     },
-    "ab5d4d75-0f77-47b4-bf31-dab6a130c0ee": {
-        "regd no": "Y23IT024",
-        "name": "Madhuri Chennuri",
+    "Y23IT060": {
+        "uuid": "710aa88f-ad06-47e8-9c08-e49283512efb",
+        "name": "Kotapati Madhulika",
         "branch": "IT"
     },
-    "35d9cc38-edd0-4e7f-bace-862334da0de4": {
-        "regd no": "Y24CM179",
-        "name": "THIRUVALLURI MEGHANATH",
+    "Y24CM156": {
+        "uuid": "88937762-2d6a-478e-9f5f-34bd83a27f7c",
+        "name": "Vamsi Kumar",
         "branch": "CSM"
     },
-    "d95569b3-b833-40e3-a148-b33fc34f7784": {
-        "regd no": "Y24CS170",
-        "name": "Kotha Venkatesh",
+    "Y24CS163": {
+        "uuid": "85fa1821-da0e-48e4-b53f-657a6875b4ca",
+        "name": "Brahma Teja Kondramutla",
         "branch": "CSE"
     },
-    "d32ff918-5de8-4ab7-ac6f-19f97b50f14a": {
-        "regd no": "Y24IT133",
-        "name": "J prudhvi raj",
+    "Y24IT121": {
+        "uuid": "5116b46e-8358-4000-80d1-c23ef0918c3e",
+        "name": "Jani apsar basha P",
         "branch": "IT"
     },
-    "de47b9f0-1a82-4e0e-8e9b-7c1193787fad": {
-        "regd no": "Y24CM175",
-        "name": "VISIONX",
+    "Y24CM181": {
+        "uuid": "b744ff88-664d-41a6-b6bc-4453fa8382e8",
+        "name": "Pavan kumar Talluri",
         "branch": "CSM"
     },
-    "56d79289-4f31-48d0-8144-8c211c0981a4": {
-        "regd no": "Y23CM011",
-        "name": "Athinti Navyasri",
+    "Y23CM005": {
+        "uuid": "511a6f7d-6364-487f-856c-6bd16d9c3d5a",
+        "name": "Allu Meghana",
         "branch": "CSM"
     },
-    "28c8cb60-66a7-461d-b30b-6e59dc12c2fe": {
-        "regd no": "Y24CD099",
-        "name": "NIKHITHA",
+    "KORIMELLA GAYATHRI": {
+        "uuid": "9a8ef7c0-25d5-4d4c-9fa9-9db13e4c0c55",
+        "name": "korimella gayathri",
+        "branch": "Unknown"
+    },
+    "Y24CS189": {
+        "uuid": "a1aa398d-8877-44a3-b92b-84d63ec7a8eb",
+        "name": "Majeti Vidya Vaishnavi",
+        "branch": "CSE"
+    },
+    "Y23CO026": {
+        "uuid": "24f56be3-fab5-4d52-943c-21e0f5e47a0d",
+        "name": "Karnati Pramitha",
+        "branch": "CSO"
+    },
+    "Y24CS332": {
+        "uuid": "a385e6f1-df14-4612-8d1b-f69d92654c02",
+        "name": "Eshitha Talluru",
+        "branch": "CSE"
+    },
+    "Y24CM136": {
+        "uuid": "cb40aa9e-90e3-46f1-8588-c0527f21171e",
+        "name": "Rajasekhar reddy peddireddy",
+        "branch": "CSM"
+    },
+    "Y24CB015": {
+        "uuid": "9cb16236-9d99-4b8d-af36-c5fd616dd4fe",
+        "name": "Doppalapudi Ruthwika",
+        "branch": "CSBS"
+    },
+    "Y23CO013": {
+        "uuid": "fc474821-6b2c-44a4-9640-2e388d11d774",
+        "name": "Rahulsai Ghanta",
+        "branch": "CSO"
+    },
+    "Y24CS117": {
+        "uuid": "043ab3b1-fcef-4d3b-9613-7606441f0ffb",
+        "name": "Poojitha Jashti",
+        "branch": "CSE"
+    },
+    "L24IT133": {
+        "uuid": "1201a5ad-3a80-4d2d-a8df-8a4bb66bae71",
+        "name": "BETHAPUDI NAGA BRAHMA CHARYULU BRAHMA CHARYULU BETHAPUDI",
+        "branch": "IT"
+    },
+    "Y23CD164": {
+        "uuid": "3342713e-1a60-4aed-8d94-ba604d562846",
+        "name": "Abdul Sadik Shaik",
         "branch": "CSD"
     },
-    "b4be6560-ce9b-4e85-bbe4-e26f3d2e3580": {
-        "regd no": "Y24CS247",
-        "name": "P.Devi",
-        "branch": "CSE"
+    "Y24CM113": {
+        "uuid": "17428fdf-480c-41be-998b-8c4d329b8a15",
+        "name": "Shafia Farheen Mohammad",
+        "branch": "CSM"
     },
-    "376258f3-66fc-423b-8b43-a1534c48c7db": {
-        "regd no": "Y23CO014",
-        "name": "Niharika.G",
+    "Y23CM159": {
+        "uuid": "5ef567b3-e2a4-40df-8402-d659740ad934",
+        "name": "Arshiyafirdouse shaik",
+        "branch": "CSM"
+    },
+    "Y24CM160": {
+        "uuid": "b38e8355-16a0-4fdc-ab9c-fa590b3203bd",
+        "name": "Saumya Rani",
+        "branch": "CSM"
+    },
+    "Y23CM180": {
+        "uuid": "0adc54a0-15a5-47be-890c-03739eb2cca4",
+        "name": "Putta Harsha Priya",
+        "branch": "CSM"
+    },
+    "Y24CM161": {
+        "uuid": "63b259f3-c03c-4874-b23d-4881c9c88934",
+        "name": "SHAIK ABDUL RAHAMAN",
+        "branch": "CSM"
+    },
+    "Y24CM169": {
+        "uuid": "656d3957-3aff-4f4a-a054-300f658893b4",
+        "name": "siddu bharath",
+        "branch": "CSM"
+    },
+    "Y24IT147": {
+        "uuid": "50279fd3-4b5a-48e9-94c3-63d31016d304",
+        "name": "Polisetty Venkata kowhsik",
+        "branch": "IT"
+    },
+    "Y23CM081": {
+        "uuid": "b32c8cad-4657-4029-95ef-7e075576373c",
+        "name": "Mahendra Krishna Prasad Kolasani",
+        "branch": "CSM"
+    },
+    "Y24CB034": {
+        "uuid": "29ab9ea9-e49e-432a-8011-481d9513c233",
+        "name": "Vyshnavi Jyothika",
+        "branch": "CSBS"
+    },
+    "Y24CB036": {
+        "uuid": "d15e951c-9983-4395-aa25-3bed78bae3fc",
+        "name": "Mallika Meda",
+        "branch": "CSBS"
+    },
+    "Y23CO044": {
+        "uuid": "e775d6d5-c652-427e-a408-b6cca29c6866",
+        "name": "Shameer Pathakota",
         "branch": "CSO"
     },
-    "3a5c46fa-b2d3-4230-a2c1-0982c718ca1d": {
-        "regd no": "L25CS398",
-        "name": "Pranayanjali",
-        "branch": "CSE"
-    },
-    "ae6a491c-445f-4453-8a17-68b1e901064c": {
-        "regd no": "Y24CM194",
-        "name": "V Siva Rama Krishna Reddy",
+    "Y23CM106": {
+        "uuid": "1d523c53-adf3-4e0d-91c0-8796b42c4d99",
+        "name": "Misala Venkata Lakshmi Narayana",
         "branch": "CSM"
     },
-    "ae651189-8ea6-4af1-8efb-7c46657a1bf2": {
-        "regd no": "Y24CB031",
-        "name": "Harshitha lakkakula",
+    "Y23IT043": {
+        "uuid": "33ab8c24-821b-483a-b962-e3f935095ac1",
+        "name": "Raghu Ram",
+        "branch": "IT"
+    },
+    "Y23IT023": {
+        "uuid": "88037ad7-c224-48c1-957a-53e0e93fb696",
+        "name": "Bhanusri Chennamsetty Chennamsetty",
+        "branch": "IT"
+    },
+    "Y23IT037": {
+        "uuid": "f66fd233-7489-4253-95e6-6aa747d0de54",
+        "name": "Srilakshmi Konakanchi",
+        "branch": "IT"
+    },
+    "Y23CS032": {
+        "uuid": "d2cd86e3-01e7-4a7d-bce0-8dc79ee966b6",
+        "name": "Chittaluri Raghava",
+        "branch": "CSE"
+    },
+    "Y24CM168": {
+        "uuid": "6f7a849b-ca43-438c-83f9-59f90393b563",
+        "name": "Nasirunnisa Shiak",
+        "branch": "CSM"
+    },
+    "L25CS413": {
+        "uuid": "7824b23c-5bce-4742-b05b-ae37bbaacd17",
+        "name": "Samudrala Gnaneswari",
+        "branch": "CSE"
+    },
+    "Y23CM129": {
+        "uuid": "2fd81e5a-2043-454c-b441-7d1e48b78b81",
+        "name": "Parimi Bala Bhargavi",
+        "branch": "CSM"
+    },
+    "Y24CS262": {
+        "uuid": "50eb06f7-6b1d-4acf-bb71-00b1f8976b66",
+        "name": "Lakshmi Peddipalli",
+        "branch": "CSE"
+    },
+    "L25CM215": {
+        "uuid": "518d22e3-79c7-432c-b308-595249d578c2",
+        "name": "Tata Kavya",
+        "branch": "CSM"
+    },
+    "Y24CM164": {
+        "uuid": "1f6ff94f-5c48-4a03-a071-af3b4f9619f6",
+        "name": "Ayesha Shaik",
+        "branch": "CSM"
+    },
+    "Y24CS235": {
+        "uuid": "61002541-8777-4681-9774-6ec7ef141c90",
+        "name": "Harsha Vardhan Nekkanti",
+        "branch": "CSE"
+    },
+    "Y24CS013": {
+        "uuid": "190d58e1-11f0-47fc-82c4-4583919d69bb",
+        "name": "Ambati Sri Sai Neeha",
+        "branch": "CSE"
+    },
+    "Y24CS342": {
+        "uuid": "38d0133b-97db-4e53-ae06-6fd46fc8efa5",
+        "name": "Mohitha Tubati",
+        "branch": "CSE"
+    },
+    "L25CM208": {
+        "uuid": "3e4efa64-7bcb-4b79-94dd-1a22f043f8f8",
+        "name": "KOKKIRIGADDA MANOJ BABU",
+        "branch": "CSM"
+    },
+    "L25CB066": {
+        "uuid": "1f04c3f1-abd7-4bd5-bec5-bdcea01a25d1",
+        "name": "K jaswanth",
         "branch": "CSBS"
     },
-    "f10216ae-9dda-44cb-8fdb-cfc29988f178": {
-        "regd no": "Y23CO025",
-        "name": "bhavani prasad",
+    "Y24CS339": {
+        "uuid": "a11ff290-83c4-44a5-90c4-a2544ea0035f",
+        "name": "Harish Thiruveedhula",
+        "branch": "CSE"
+    },
+    "Y24CM167": {
+        "uuid": "646ecb70-168f-42ed-9e5f-d5bcf0d58181",
+        "name": "Shaik Khasim Sharif",
+        "branch": "CSM"
+    },
+    "L25CB065": {
+        "uuid": "767e2527-0bd8-4eca-8e6d-15166a46f13b",
+        "name": "Gunnireddy jaikishanreddy",
+        "branch": "CSBS"
+    },
+    "Y23CS150": {
+        "uuid": "9c7409d2-6dab-4880-9602-10d56047fe92",
+        "name": "Kolli Himaraga Varshith",
+        "branch": "CSE"
+    },
+    "L24CS201": {
+        "uuid": "4fb52493-5be8-419d-a6a4-30fd442b3ed7",
+        "name": "ANAND DEGALA",
+        "branch": "CSE"
+    },
+    "Y24CM114": {
+        "uuid": "bbfd8660-b385-4b80-b5b9-b499e9ddb9ac",
+        "name": "Shalini Mondithoka",
+        "branch": "CSM"
+    },
+    "Y23CO048": {
+        "uuid": "2acbda23-1972-4cbb-b163-fc66a1d2f904",
+        "name": "Koteswara Rao Pragada",
         "branch": "CSO"
     },
-    "f8e4bd0f-0344-43ee-817c-4bceb36630cd": {
-        "regd no": "L25CS382",
-        "name": "B.Viveka",
-        "branch": "CSE"
+    "Y23CM168": {
+        "uuid": "d02ecb48-215f-4480-9b73-5f9b4aa59e99",
+        "name": "Chandrika Talluri",
+        "branch": "CSM"
     },
-    "8850529b-c7c5-41e8-9ceb-c0e5c125eb9f": {
-        "regd no": "Y23IT067",
-        "name": "NAGA BRAHMA CHARYULU BETHAPUDI, SIVA SAI KUMAR MALAVATHU",
+    "Y23IT008": {
+        "uuid": "dbb63f57-127b-4c56-b3a4-ab7ba24994ab",
+        "name": "Bakka Jaya Lakshmi",
         "branch": "IT"
     },
-    "52818716-cdbf-4652-8e0c-637ca3b3ada1": {
-        "regd no": "Y23CD172",
-        "name": "Shaik Zaid",
-        "branch": "CSD"
-    },
-    "336b3311-d3e0-44ea-9d06-db6731584e54": {
-        "regd no": "Y24CM082",
-        "name": "K.Sanjitha",
+    "L24CM216": {
+        "uuid": "8e787ed1-39be-46c6-a417-cecd89879750",
+        "name": "Bhanu prakash Vendra",
         "branch": "CSM"
     },
-    "dbfbb957-df9e-46c5-b3a4-43c8d0127cca": {
-        "regd no": "Y23CM160",
-        "name": "Shaik Farhana",
-        "branch": "CSM"
-    },
-    "93d932c0-29a5-4c9f-bf8c-be58481ad835": {
-        "regd no": "Y24CM154",
-        "name": "Joshitha Sammeta",
-        "branch": "CSM"
-    },
-    "97bbb382-dd54-4eb8-99d0-dd124b88b57f": {
-        "regd no": "Y23CM147",
-        "name": "Vadlamudi Reshma Chowdary",
-        "branch": "CSM"
-    },
-    "4af47f73-38cb-4ab0-898d-80de7d75416a": {
-        "regd no": "Y24CM191",
-        "name": "V.Lokesh",
-        "branch": "CSM"
-    },
-    "de12e17f-be34-4bb8-9f83-e083c20b5acf": {
-        "regd no": "Y24CM171",
-        "name": "SK.SAMEULLAH",
-        "branch": "CSM"
-    },
-    "4c6f58a8-87db-4908-9367-50aa383bb8a7": {
-        "regd no": "Y24IT129",
-        "name": "Kowshik polisetty",
-        "branch": "IT"
-    },
-    "fd3dfd5e-26f6-464c-a622-97520c972860": {
-        "regd no": "Y23CM085",
-        "name": "Kommineni Prasatya Syam",
-        "branch": "CSM"
-    },
-    "1ecd348f-2f05-4127-92b2-be11d5ed178d": {
-        "regd no": "Y24CB035",
-        "name": "YASASWI MANDADAPU",
-        "branch": "CSBS"
-    },
-    "d5724dc0-aa74-4162-ab6c-8127273231d9": {
-        "regd no": "Y24CB027",
-        "name": "K Nikitha",
-        "branch": "CSBS"
-    },
-    "faf919fb-fbfb-460b-9c1b-36f2d0918c9f": {
-        "regd no": "Y23CO032",
-        "name": "Mahbu Subhani Shaik",
-        "branch": "CSO"
-    },
-    "0ad6d441-fe33-4685-89e3-b0a138faa3ae": {
-        "regd no": "Y23CM073",
-        "name": "LAKSHMI NARAYANA,DEVENDRA NADH",
-        "branch": "CSM"
-    },
-    "6731a992-17ee-4565-bd24-e99548e73f61": {
-        "regd no": "Y23IT017",
-        "name": "Boddapati Purna chandra rao",
-        "branch": "IT"
-    },
-    "b85bb958-64cf-4879-b200-717cd33e9e2a": {
-        "regd no": "Y23IT053",
-        "name": "Swarnika Katakamsetty",
-        "branch": "IT"
-    },
-    "4a7e27a1-aa1d-49f2-b3e4-74350bc9a218": {
-        "regd no": "Y23IT057",
-        "name": "K Srilakshmi",
-        "branch": "IT"
-    },
-    "fe0449f4-180a-4bc6-936c-ff9c8094dc5f": {
-        "regd no": "Y23CS027",
-        "name": "Harsha",
-        "branch": "CSE"
-    },
-    "1314bb33-2544-436c-9dde-7311cdda71f6": {
-        "regd no": "Y24CM185",
-        "name": "Uyyala Saranya",
-        "branch": "CSM"
-    },
-    "c83fd805-d208-4aea-bcc5-c7c7b684bfe1": {
-        "regd no": "L25CS414",
-        "name": "Sravani",
-        "branch": "CSE"
-    },
-    "3760cf00-d664-497e-a3e6-85c1e2925f77": {
-        "regd no": "Y23CM104",
-        "name": "Meda Naga Lakshmi",
-        "branch": "CSM"
-    },
-    "ca2e8f40-931f-4d98-97d7-42758a53d29c": {
-        "regd no": "Y24CS372",
-        "name": "Yesupagu pallavi",
-        "branch": "CSE"
-    },
-    "94d43bc9-5adf-4d66-a5f6-1a7b626436b2": {
-        "regd no": "L25CM212",
-        "name": "NAGENDLA BHARGAVI",
-        "branch": "CSM"
-    },
-    "adf158ad-405a-45fd-a5f4-9a63978f4a72": {
-        "regd no": "Y24CM141",
-        "name": "Peyusha Hindu Pottoori",
-        "branch": "CSM"
-    },
-    "2724aa39-80e4-4f2d-8a3b-5e4f54a4d7d0": {
-        "regd no": "Y24CS190",
-        "name": "Majji Sai Sanjay",
-        "branch": "CSE"
-    },
-    "0903f673-2fdf-4858-99ec-d1ee6a804cbe": {
-        "regd no": "Y24CS040",
-        "name": "B. Praneetha Reddy",
-        "branch": "CSE"
-    },
-    "6353d288-df3a-457c-b080-8e402d7da95b": {
-        "regd no": "L25CS416",
-        "name": "Shaik Ramzan",
-        "branch": "CSE"
-    },
-    "a66d788e-dd7a-4e48-8e1b-871da3dea074": {
-        "regd no": "L25CM210",
-        "name": "KUNCHALA ABHILASH",
-        "branch": "CSM"
-    },
-    "160bb243-a3de-423c-8283-82ceada30d9e": {
-        "regd no": "L25CB069",
-        "name": "venkateswara Rao",
-        "branch": "CSBS"
-    },
-    "81e9d0ff-855e-47c2-9f75-1853378656e9": {
-        "regd no": "Y24CS364",
-        "name": "Yamakoti Durga Venkatesh",
-        "branch": "CSE"
-    },
-    "87872b44-ab72-4c56-8044-255a5e601c4b": {
-        "regd no": "Y24CM195",
-        "name": "Virupaksham Sasidhar Raju",
-        "branch": "CSM"
-    },
-    "3a5e0ae9-c81f-4f4e-9c34-718d42201f77": {
-        "regd no": "Y24CB005",
-        "name": "Santhosh",
-        "branch": "CSBS"
-    },
-    "a44c1bf4-3e27-42e8-9e94-086b2402ac92": {
-        "regd no": "Y23CS072",
-        "name": "Repala Shanmukha Sai Sandeep",
-        "branch": "CSE"
-    },
-    "f87bf980-c493-4f70-bfbc-da455df80c1e": {
-        "regd no": "L24CS207",
-        "name": "SAI RAM",
-        "branch": "CSE"
-    },
-    "b4659c7c-8979-4f80-820f-f020464c9fc4": {
-        "regd no": "Y24CM100",
-        "name": "shalini",
-        "branch": "CSM"
-    },
-    "4631c333-0b8e-4312-9fdd-64f535103e6f": {
-        "regd no": "Y23CO066",
+    "Y23CO066": {
+        "uuid": "4631c333-0b8e-4312-9fdd-64f535103e6f",
         "name": "V.Pravallika",
         "branch": "CSO"
     },
-    "bb427a28-c9f4-45ac-8cb1-db657a02f748": {
-        "regd no": "Y23CM144",
-        "name": "LIKHITHA PUNDHE",
+    "Y24CD088": {
+        "uuid": "728b8637-2996-4995-b92b-87f43ca60aee",
+        "name": "Vaishnavi Kethineni",
+        "branch": "CSD"
+    },
+    "Y23CD148": {
+        "uuid": "dd182b64-ffaf-40d6-b226-bafd0e7530b9",
+        "name": "Ponnaluri Jeyanth",
+        "branch": "CSD"
+    },
+    "Y24CM176": {
+        "uuid": "b485aec5-d9fa-415e-8860-17c651c67ea2",
+        "name": "Raghu harshith Tanikonda",
         "branch": "CSM"
     },
-    "8d92a142-5748-4ff4-877c-6e5ad9b280df": {
-        "regd no": "Y23IT021",
-        "name": "BONDALAPATI ARUNA",
-        "branch": "IT"
-    },
-    "d28cce8b-f5dd-4338-8360-587bccf907e6": {
-        "regd no": "L24CM215",
-        "name": "Thurakapalli Srikanth",
-        "branch": "CSM"
-    },
-    "dbe71dcd-df58-4aeb-ae3f-dcce61d6e9f5": {
-        "regd no": "Y23CO003",
-        "name": "PraPoo",
-        "branch": "CSO"
-    },
-    "52042a9d-7180-4622-908d-bf7ff429394f": {
-        "regd no": "Y24CM058",
-        "name": "Kowshika Ganta",
-        "branch": "CSM"
-    },
-    "70271c82-e5fb-444a-8bc3-42e81e1643c2": {
-        "regd no": "Y23CB047",
-        "name": "Rajanala Shanmukha Mythreya",
-        "branch": "CSBS"
-    },
-    "5f32a9d7-0951-4024-a245-eaa715e1670c": {
-        "regd no": "Y24CM134",
-        "name": "p.dinesh chowdary",
-        "branch": "CSM"
-    },
-    "e7805dd2-7392-4180-b40a-da972477b3dc": {
-        "regd no": "Y23CS085",
-        "name": "Kurapati spurthi",
+    "Y23CS083": {
+        "uuid": "95f7de62-b7bb-4a21-8ed5-a67a2782915f",
+        "name": "Koya Tanuja",
         "branch": "CSE"
     },
-    "93016d92-5012-4c85-80e7-cb6b0c9670ed": {
-        "regd no": "Y23IT001",
-        "name": "Bachina Eakshitha Chowdary",
+    "Y23IT006": {
+        "uuid": "101c6bb0-6a12-4671-a882-109df8cdcc16",
+        "name": "Aala Anusha",
         "branch": "IT"
     },
-    "3b105b7b-5297-4565-9c0c-422499a82605": {
-        "regd no": "Y23CO019",
-        "name": "K. Sai VRK",
+    "L24CO069": {
+        "uuid": "df65ab1e-ba63-48d1-98e9-4016a9f97de5",
+        "name": "Nahin Khan Pattan",
         "branch": "CSO"
     },
-    "8efd94bf-792a-41e8-b45a-44dde3c7aaf9": {
-        "regd no": "Y23CS167",
-        "name": "Suddamalla Tharun",
+    "Y23CS193": {
+        "uuid": "7d63827a-b5b7-4fe5-ad2a-64609c973121",
+        "name": "Yadlapalli Aditya Ram",
         "branch": "CSE"
     },
-    "ae17f34d-286f-4b87-a210-0ec276541506": {
-        "regd no": "Y23CM161",
-        "name": "DHANASRI",
+    "Y23CM188": {
+        "uuid": "36bddf3d-fd9c-4b22-abe5-43c90c6275cc",
+        "name": "Siri Chandana Vishnubhotla",
         "branch": "CSM"
     },
-    "868c3d56-2fcf-42d8-aa41-37544056583c": {
-        "regd no": "6281437405",
-        "name": "Ajay Raju .B",
+    "7207508589": {
+        "uuid": "eb62f8a3-e7c6-4d52-aae6-3b1cddd426e1",
+        "name": "Yuvaraju Kunule Kunule",
         "branch": "Unknown"
     },
-    "e940ca94-d074-430e-b0e2-e9e934d77ad9": {
-        "regd no": "Y24CB010",
-        "name": "cherukuri Krishnaja",
+    "Y24CB004": {
+        "uuid": "a9cd200b-d637-4d33-ab03-cfceaf291d03",
+        "name": "Anumolu Dharani",
         "branch": "CSBS"
     },
-    "cc99efa7-e76d-437b-8ecf-7e82644668dc": {
-        "regd no": "Y24CS249",
-        "name": "P.Vijay Kumar",
+    "Y24CS222": {
+        "uuid": "494cf93b-6b74-4adf-b023-f2b180b1002f",
+        "name": "Uttej Nagalla",
         "branch": "CSE"
     },
-    "5ea2378b-8f8d-40a5-a532-547f26091393": {
-        "regd no": "Y24CS041",
-        "name": "Lohitha",
+    "Y24CS044": {
+        "uuid": "47906cf8-f603-4a43-ab75-1976a88d44a0",
+        "name": "Pravallika Bolla",
         "branch": "CSE"
     },
-    "3629a287-11d5-4399-918e-5c9f4d34dff2": {
-        "regd no": "Y24CS268",
-        "name": "P.Sandhya",
+    "Y24CS289": {
+        "uuid": "d3b92dd6-2014-4267-9649-88424592016f",
+        "name": "Sandhya Perala",
         "branch": "CSE"
     },
-    "12eb7e55-3ee5-4e31-ae5b-e2a3de759a73": {
-        "regd no": "Y24CS354",
-        "name": "Kartheek kumar, Vishnu Vardhan",
+    "Y24CS356": {
+        "uuid": "66771fa7-9102-40bd-b5f4-5f5cb0f3370e",
+        "name": "VARRE VISHNU VARDHAN",
         "branch": "CSE"
     },
-    "c3902d46-7822-4531-ac74-15450214015c": {
-        "regd no": "Y24CS273",
-        "name": "Bhavitha",
+    "Y24CS295": {
+        "uuid": "09727fef-2871-4ddd-bceb-9d6dd857e8d6",
+        "name": "Sakthivel Tharshni",
         "branch": "CSE"
     },
-    "1ed503b8-696f-40de-a760-b449f8d7f63b": {
-        "regd no": "Y24CS031",
-        "name": "Akhila Bevara",
+    "Y24CS037": {
+        "uuid": "1bd32e56-efe9-4f20-ad41-d6784688500d",
+        "name": "BhavyaSri Bodapati",
         "branch": "CSE"
     },
-    "4dd952ed-a966-4d8a-b13f-c5bec1d6bd7b": {
-        "regd no": "Y24IT102",
-        "name": "Murakonda Varun",
+    "Y24IT106": {
+        "uuid": "2543f657-2d93-472e-a4cf-f1087da73917",
+        "name": "Morasa Karthik Karthik",
         "branch": "IT"
     },
-    "aee14f3c-3baf-4b1c-8cf4-3f0da3c77be1": {
-        "regd no": "Y23CM194",
-        "name": "THARUN",
+    "Y23CM177": {
+        "uuid": "7baf0132-5d66-4b32-80b6-5fb1ad752f3c",
+        "name": "Venkata Sai Tharun Upputuri",
         "branch": "CSM"
     },
-    "3d725b15-0632-44ee-aaa2-8e1fbdb93e87": {
-        "regd no": "Y23CS135",
-        "name": "PENTELA YASMEIN SAI",
+    "Y23CS134": {
+        "uuid": "2cd36b1a-8018-4caa-b516-5f0e6f9ccec7",
+        "name": "Sharvani Shriya Penumaka",
         "branch": "CSE"
     },
-    "906a568b-1085-464e-8ae0-13686e9b0c82": {
-        "regd no": "Y24CM115",
-        "name": "M. VEDA PHANI RISHI",
+    "L25CM209": {
+        "uuid": "6c751009-04ad-4070-a41e-1763728ce3b7",
+        "name": "Sri sai kalyan reddy kottapalli",
         "branch": "CSM"
     },
-    "41a77d82-2e4e-41a0-8fb6-2a704867faae": {
-        "regd no": "L25CM207",
-        "name": "KANCHARLA SAI SWAPNA",
+    "L25CM206": {
+        "uuid": "55826a64-d021-4fe2-baa7-f32dbf3b4d1a",
+        "name": "NAGA LAKSHMI GARIKA",
         "branch": "CSM"
     },
-    "509c5d20-415f-4627-a236-a1d2c407c310": {
-        "regd no": "Y24CS312",
-        "name": "Shaik javeed",
+    "Y24CS323": {
+        "uuid": "f1264dd4-7450-42c6-b5bb-99af17dbee6f",
+        "name": "Sumanth Siripurapu",
         "branch": "CSE"
     },
-    "8bb30939-7845-4347-a24a-b6000ea6ade9": {
-        "regd no": "Y24CS209",
-        "name": "Gagandeep ,Balakrishna",
+    "Y24CS204": {
+        "uuid": "5b1c7bc0-435f-46f1-8033-98f4cb20064e",
+        "name": "GaganDeep Meesala",
         "branch": "CSE"
     },
-    "fc66ef40-4aad-405c-bf85-61bb637eabc6": {
-        "regd no": "Y23CO010",
-        "name": "Doppalapudi Srilekha",
+    "Y23CO043": {
+        "uuid": "afb5ca6a-17ad-48cf-a48f-33a82532803f",
+        "name": "Parupudi Lakshmi Mayukha",
         "branch": "CSO"
     },
-    "8fe128a4-5040-4c27-ab30-257a0dd711c6": {
-        "regd no": "Y23CM113",
-        "name": "NADENDLA BALASAI PAVAN",
+    "Y23CM012": {
+        "uuid": "c5f5ebab-ba48-43e5-acad-1cb0197c8ab9",
+        "name": "Asish Athota",
         "branch": "CSM"
     },
-    "a6057c4d-bcef-4498-b602-9716b87c2919": {
-        "regd no": "L25CM216",
-        "name": "CHANDRA SEKHAR",
+    "L25CM213": {
+        "uuid": "b6ff7e00-4fcf-402d-a6bd-b1118580686c",
+        "name": "NINDUJARLA GOPI ARAVIND",
         "branch": "CSM"
     },
-    "945d3019-b544-4497-91a2-9b19f10c9983": {
-        "regd no": "Y24CS219",
+    "Y24CS219": {
+        "uuid": "945d3019-b544-4497-91a2-9b19f10c9983",
         "name": "Nischal",
         "branch": "CSE"
     },
-    "442d1103-9b90-40a4-a211-960abf10b541": {
-        "regd no": "Y23CM151",
-        "name": "Lahari",
+    "Y23CM169": {
+        "uuid": "8190a92f-494f-4374-9ea6-32275a18d58e",
+        "name": "Eswara Srija Tammana",
         "branch": "CSM"
     },
-    "3538f75b-42c6-42f1-8262-3d1f655d8413": {
-        "regd no": "Y24CM92",
-        "name": "M.Bhargavi",
+    "Y24CM109": {
+        "uuid": "0b2cac95-ee82-4a4a-88cd-3208f42f1c8c",
+        "name": "Manukonda Bhargavi",
         "branch": "CSM"
     },
-    "42510189-c253-4f45-a14f-e819e2c233f3": {
-        "regd no": "Y24CM130",
-        "name": "p ganesh babu",
+    "Y24CM090": {
+        "uuid": "793dc20f-0446-48d9-9211-9b1da05a0366",
+        "name": "Kolla Charan Teja",
         "branch": "CSM"
     },
-    "ffebb035-b4cc-46e8-a64b-d82f6cefc743": {
-        "regd no": "Y24CM129",
-        "name": "Anjali",
+    "Y24CM093": {
+        "uuid": "3264b296-8c12-480f-b36e-5f9fbf2c4be9",
+        "name": "Kommalapati Anjali",
         "branch": "CSM"
     },
-    "1ab673c7-cba0-49f7-9c0e-bed493b83b75": {
-        "regd no": "Y23CM195",
-        "name": "Y. Guna Priya",
+    "Y23CM167": {
+        "uuid": "f201fbdd-c158-438e-ac31-ed325bfd0e39",
+        "name": "Mythri Tadikonda",
         "branch": "CSM"
     },
-    "6e3d7631-ef58-4b81-bf4b-c0ced4aed89f": {
-        "regd no": "Y23CM033",
-        "name": "Dacharla Mahalakshmi",
+    "Y23CM019": {
+        "uuid": "cc2e8be4-39a5-495d-9592-a3260cda7158",
+        "name": "Bobba Tejasri",
         "branch": "CSM"
     },
-    "7bc7969a-381d-4558-9e3b-0f6e6a552fd6": {
-        "regd no": "Y24CM037",
-        "name": "Chitikila Naga Vinitha",
+    "Y24CM027": {
+        "uuid": "c0006f54-1865-4b5b-9052-77a78120fd9d",
+        "name": "Reddy Pujitha Buduri",
         "branch": "CSM"
     },
-    "7f7e4eff-725c-4e84-b401-35d2bcc152f9": {
-        "regd no": "Y24CS210",
-        "name": "Modugula Kathyayani",
+    "Y24CS195": {
+        "uuid": "7c4e3471-e80e-4761-85a6-c78fdcee77af",
+        "name": "Mamidi Neeraja lakshmi",
         "branch": "CSE"
     },
-    "fbc811cd-c268-4a5c-834c-199502ea2c4f": {
-        "regd no": "Y23IT004",
-        "name": "UPENDRA REDDY AMBATI",
+    "Y23IT018": {
+        "uuid": "f28b6e5b-a9a8-46c5-92f3-a7d986d79561",
+        "name": "BODDU SRI MANJUNADHA PRASANNA KUMAR",
         "branch": "IT"
     },
-    "7faa6db9-44c0-4866-9dc0-4dedfda76928": {
-        "regd no": "Y24CS115",
-        "name": "Jalla Sree Lakshmi",
+    "Y24CS114": {
+        "uuid": "537cdfe3-3c8d-4015-8bc1-13b042d4f912",
+        "name": "Pujitha Jaladi",
         "branch": "CSE"
     },
-    "b75c9c2b-bcf4-4d6d-9fca-cb93d6aaf32b": {
-        "regd no": "Y23CM020",
-        "name": "Bodapati Kusuma Sita",
+    "Y23CM006": {
+        "uuid": "b2c48b54-0ad2-4208-8cda-34a2b4aac8fd",
+        "name": "Amulya Annapureddy",
         "branch": "CSM"
     },
-    "f975b85b-0021-4840-b092-4a99adb28d78": {
-        "regd no": "Y24CS218",
-        "name": "Mupparaju Bhavani",
+    "Y24CS201": {
+        "uuid": "28a5ced4-4088-4fb1-9527-ccd3fded5763",
+        "name": "Mantri Namratha",
         "branch": "CSE"
     },
-    "4cb397e1-d5f1-41c1-92bb-85b6f6fd3ca8": {
-        "regd no": "Y23CM174",
-        "name": "MAHITHA THUMATI",
+    "Y23CM192": {
+        "uuid": "85ab2fd2-0a56-4692-b531-535a1a1d268e",
+        "name": "Yagna Priya Bavana",
         "branch": "CSM"
     },
-    "fc961ed9-0d70-48b0-bf53-efa811c07edd": {
-        "regd no": "Y23CM072",
-        "name": "DHEERAJA KARAMCHETI",
+    "Y23CM198": {
+        "uuid": "5190a424-1f50-487c-940e-5f82eee16313",
+        "name": "Yuktha Uppugunduru",
         "branch": "CSM"
     },
-    "23d5168b-db70-49e1-90b9-6b3e4e2379d3": {
-        "regd no": "Y23CS030",
-        "name": "Chinni Jayanth",
+    "Y23CS069": {
+        "uuid": "fce7053d-a1e9-424b-8d5e-acd989a05ab5",
+        "name": "Kodali Kamal Raghavendra Kumar",
         "branch": "CSE"
     },
-    "c3c5d4a5-1067-4d92-9c75-22446521ce7e": {
-        "regd no": "Y23CS025",
-        "name": "Cheedella Rahul Sai Sudheer",
-        "branch": "CSE"
-    },
-    "5b424e00-00c9-4be9-a8d3-21225520b9e5": {
-        "regd no": "L25CS417",
-        "name": "Shaik Sameera",
-        "branch": "CSE"
-    },
-    "d6c1feb4-e6bb-447d-9f3b-77ba1ff3d770": {
-        "regd no": "L25CS385",
-        "name": "CHAPPATI NAVEEN",
-        "branch": "CSE"
-    },
-    "1375650f-8c84-4686-ad5b-b0ed2a318905": {
-        "regd no": "Y23CM105",
-        "name": "M.Akhil Naik",
-        "branch": "CSM"
-    },
-    "69afc586-20bf-44d7-a97f-0831bbb12c95": {
-        "regd no": "Y24CM122",
-        "name": "N.Pallavi",
-        "branch": "CSM"
-    },
-    "09af9260-7858-40c9-b079-3728c31f606f": {
-        "regd no": "Y24CS326",
-        "name": "Rama krishna bhargav",
-        "branch": "CSE"
-    },
-    "bac70288-80b5-418f-9ad9-b20f87df6653": {
-        "regd no": "Y24CS060",
-        "name": "Yamini Madhumati",
-        "branch": "CSE"
-    },
-    "0c194e5a-32ca-4f4b-8889-c2b0e1fd2591": {
-        "regd no": "L24CM214",
-        "name": "Thota Neelaveni",
-        "branch": "CSM"
-    },
-    "18f71569-5b38-4e81-a857-057497b6732f": {
-        "regd no": "Y24CS236",
-        "name": "Neppalli Chaitanya",
-        "branch": "CSE"
-    },
-    "aab42d9f-d600-486a-a87f-f1100400a30a": {
-        "regd no": "Y24CM015",
-        "name": "avinash eka",
-        "branch": "CSM"
-    },
-    "9710d154-0faa-4e74-956f-d96d878a80ca": {
-        "regd no": "Y24CM183",
-        "name": "Uppala Moksha Tapaswi",
-        "branch": "CSM"
-    },
-    "266490ff-1f66-4542-b4f0-21f165321bfe": {
-        "regd no": "Y24CM166",
-        "name": "Vadde Thanusri",
-        "branch": "CSM"
-    },
-    "0f39e0ad-fde9-4cf7-83b0-2c51ab4606de": {
-        "regd no": "Y24CS321",
-        "name": "S.chethana Jyothi",
-        "branch": "CSE"
-    },
-    "9fdda623-f08b-4962-b9f6-a319cb6f2478": {
-        "regd no": "L25CS418",
-        "name": "Poojitha.s",
-        "branch": "CSE"
-    },
-    "d99fd758-e275-4e54-aa00-def080e346d3": {
-        "regd no": "7601016977",
-        "name": "9347940650",
-        "branch": "Unknown"
-    },
-    "21dfba23-2b1a-443a-b456-05156c42c0f2": {
-        "regd no": "Y24CM153",
-        "name": "RAYUDU RAJA NARASIMHA NAIDU",
-        "branch": "CSM"
-    },
-    "7e8b0e0c-51f6-4389-aaad-6ce5cf3afd34": {
-        "regd no": "Y23CO042",
-        "name": "Padala Mahalakshmi",
-        "branch": "CSO"
-    },
-    "0d3a963e-3bb5-4b0f-a268-86c2f991936b": {
-        "regd no": "Y24CS055",
-        "name": "Ram gopal",
-        "branch": "CSE"
-    },
-    "f0445042-a3cd-4b97-be1b-bbf9c36fdcfc": {
-        "regd no": "Y24CS359",
-        "name": "Vennampally Nithin",
-        "branch": "CSE"
-    },
-    "98a92d06-cfac-4154-b4b2-188f6432674d": {
-        "regd no": "Y24CS092",
-        "name": "Gogisetti Venkatalakshmi",
-        "branch": "CSE"
-    },
-    "794b4199-252e-490a-8872-c0df28f68caa": {
-        "regd no": "Y24CM033",
-        "name": "Lakshmi Kranthi Gaddam,Jahnavi Chelluri",
-        "branch": "CSM"
-    },
-    "d4c0d858-381b-4ddb-a520-a8a8720a617e": {
-        "regd no": "Y24CM159",
-        "name": "One eighty four",
-        "branch": "CSM"
-    },
-    "b61c9ec8-52ed-4f54-ac5b-700d0b2261cd": {
-        "regd no": "Y23CS034",
-        "name": "Symond Peter",
-        "branch": "CSE"
-    },
-    "159e2ea8-6bec-4b78-ab3b-84c51a56e92f": {
-        "regd no": "Y24CM079",
-        "name": "ram",
-        "branch": "CSM"
-    },
-    "1a300499-5a06-4f37-a349-663b9accb3f2": {
-        "regd no": "Y24CD103",
-        "name": "Gogisetti Anusha",
-        "branch": "CSD"
-    },
-    "db99997c-592c-4c53-b05a-14618e660c53": {
-        "regd no": "Y24CM199",
-        "name": "Lakshmi Reddy Mannem",
-        "branch": "CSM"
-    },
-    "7a4b5df7-39e1-4b2f-969e-97d043120352": {
-        "regd no": "Y24CM083",
-        "name": "K.Mahi raja sree",
-        "branch": "CSM"
-    },
-    "f6059c4c-298d-4cd0-90ae-5b1fe48e1510": {
-        "regd no": "Y23CS156",
-        "name": "SHAIK AKHIL AHAMMAD",
-        "branch": "CSE"
-    },
-    "e184bfea-42cc-4e2b-acd5-d51d410971b2": {
-        "regd no": "Y24CB022",
-        "name": "Gunti.Navyasri",
-        "branch": "CSBS"
-    },
-    "fe7c8270-ae6b-4f46-b68e-af746aca1cb2": {
-        "regd no": "Y24CM094",
-        "name": "k.Lakshmi sowmya",
-        "branch": "CSM"
-    },
-    "6b4c7eff-f24c-41a8-a440-216d757780df": {
-        "regd no": "Y24CM121",
-        "name": "N. SUMANTH",
-        "branch": "CSM"
-    },
-    "4319087b-a17c-4e90-b843-bbbac64108ae": {
-        "regd no": "Y24CM014",
-        "name": "yasaswini",
-        "branch": "CSM"
-    },
-    "755b6887-0424-4ccb-a2c0-d45447aa6c90": {
-        "regd no": "Y24CM163",
-        "name": "AYAZ",
-        "branch": "CSM"
-    },
-    "509c462d-0a65-48a6-9c40-7f5f4063ff67": {
-        "regd no": "Y24CB052",
-        "name": "Shaik Leiaf",
-        "branch": "CSBS"
-    },
-    "a2cddd3c-67e5-448a-b9be-7d3c2c29fd52": {
-        "regd no": "Y24CS237",
-        "name": "NIHARIKAA",
-        "branch": "CSE"
-    },
-    "c19c2247-adf6-49c0-bceb-c0ac8b28fa10": {
-        "regd no": "Y23CO058",
-        "name": "CHEBROLU BHAGYANAND",
-        "branch": "CSO"
-    },
-    "886f2267-b206-4a56-981a-d448ffe1689f": {
-        "regd no": "Y24CS048",
-        "name": "Bhavya sri",
-        "branch": "CSE"
-    },
-    "e00a8e23-029a-4f6f-8592-1564b9a76bb2": {
-        "regd no": "Y24CM155",
-        "name": "Harika",
-        "branch": "CSM"
-    },
-    "a21ae4f6-77a8-4e5f-ba9a-b7d74f79575b": {
-        "regd no": "Y24CS014",
-        "name": "AMBATI VASAVI",
-        "branch": "CSE"
-    },
-    "88c9ec15-cef3-4f7c-9711-72b43c5355fe": {
-        "regd no": "Y23CS018",
-        "name": "Bhaskar",
-        "branch": "CSE"
-    },
-    "c35f7bef-53bc-4866-9b46-91c9bca8c9eb": {
-        "regd no": "Y23CS077",
-        "name": "Varshi",
-        "branch": "CSE"
-    },
-    "d461d67d-9a6e-4fe1-9e4f-666c1fc8248c": {
-        "regd no": "Y23CD167",
-        "name": "Shaik Mahemood",
-        "branch": "CSD"
-    },
-    "63ea2283-f352-4292-a52c-51878ce15272": {
-        "regd no": "Y24CB026",
-        "name": "KVS TEJA",
-        "branch": "CSBS"
-    },
-    "fff8fae1-2bbc-4b0c-a91e-a1fe2ff43ea4": {
-        "regd no": "Y24CD001",
-        "name": "Aala Siva Bindu",
-        "branch": "CSD"
-    },
-    "7040efe5-b193-43bb-bb5c-42df1e3734a6": {
-        "regd no": "Y23CM102",
-        "name": "M.Layanvita",
-        "branch": "CSM"
-    },
-    "30955996-075c-4afd-84fb-7fcdd93fe4e0": {
-        "regd no": "Y24CM061",
-        "name": "Hemini Gondu",
-        "branch": "CSM"
-    },
-    "53ecab30-d50f-4e4b-af09-dfb164fb63f3": {
-        "regd no": "L24CS204",
-        "name": "VENKATESWARLU",
-        "branch": "CSE"
-    },
-    "087afca5-6e25-4f20-8096-70ba4f5d9c4b": {
-        "regd no": "Y23CM132",
-        "name": "P.Vamsi Krishna",
-        "branch": "CSM"
-    },
-    "26b256a4-bef8-4124-a9ae-7c9047637fec": {
-        "regd no": "Y24CM158",
-        "name": "harshith",
-        "branch": "CSM"
-    },
-    "83fdbd26-0edb-469a-825e-58273d9f6be9": {
-        "regd no": "Y24CS347",
-        "name": "Anusha",
-        "branch": "CSE"
-    },
-    "c128527e-e366-49e1-9f46-39b8faff947d": {
-        "regd no": "L25CS424",
-        "name": "Veeramma",
-        "branch": "CSE"
-    },
-    "18be7e95-1a4f-4ff5-a7f0-7572e8f3b42c": {
-        "regd no": "Y24CD082",
-        "name": "poojitha kandra",
-        "branch": "CSD"
-    },
-    "0dff81c4-bdde-49e2-82e7-cd0a19332670": {
-        "regd no": "Y24CS043",
+    "Y23CS021": {
+        "uuid": "654a0329-86ad-4067-96bd-01b9c8523a65",
         "name": "Vamsi Krishna",
         "branch": "CSE"
     },
-    "b650c082-fc03-4484-8986-3b1f3cad97b7": {
-        "regd no": "Y24CS238",
-        "name": "NUKAVARAPU HIMASREE",
+    "L25CS388": {
+        "uuid": "f9390547-4e6b-45a3-b988-fd6b6c72c864",
+        "name": "Divya Maanasa Desamala",
         "branch": "CSE"
     },
-    "d8b61c89-c91c-4ba9-89ca-ec17621d2ebf": {
-        "regd no": "Y24CS227",
-        "name": "Durga Sudhir Nalla",
+    "Y24CS107": {
+        "uuid": "8f8a34c4-b6b6-47c1-9fde-675b13251494",
+        "name": "Vinay",
         "branch": "CSE"
     },
-    "bb88bb6f-ef17-4e93-8588-88e6d5fb109d": {
-        "regd no": "L25CM211",
-        "name": "Sumaira Anjum",
+    "Y23CM100": {
+        "uuid": "4e1a3849-ac6b-4f89-9afa-d7d6146eb9f3",
+        "name": "Himavarsh Akshith Mamidi",
         "branch": "CSM"
     },
-    "61f996f5-38b2-43e9-b7f4-53fe9b6312c0": {
-        "regd no": "L25CS419",
-        "name": "Sunkara Lakshmi Venkata Siva Sai Ajay",
-        "branch": "CSE"
-    },
-    "52540a8d-7d71-48c1-8349-1cbe714da4d2": {
-        "regd no": "Y24CM043",
-        "name": "DARSI NAVEEN",
+    "Y24CM016": {
+        "uuid": "17b9ad54-c370-467e-a180-842ab617c7ea",
+        "name": "Balaga Gayatri",
         "branch": "CSM"
     },
-    "d751e304-aee3-4960-ad5f-c0bafd5aea22": {
-        "regd no": "Y24EC117",
-        "name": "Mani Teja",
-        "branch": "ECE"
+    "Y24CS319": {
+        "uuid": "064f2305-beb6-4ab2-93c6-01dd6043a349",
+        "name": "Saifuddin Shaik",
+        "branch": "CSE"
     },
-    "a52c604c-5f4d-419e-90c6-f50b07c592e1": {
-        "regd no": "Y24CM080",
-        "name": "K.Chandana Priya",
+    "Y24CS003": {
+        "uuid": "e7cddc98-e3bf-4efc-b2ae-82acd499a76b",
+        "name": "Addanki Deepika",
+        "branch": "CSE"
+    },
+    "Y23CM193": {
+        "uuid": "d25c30e0-9b6a-473d-94dc-5257e8a605e6",
+        "name": "Yandrapragada Susmitha",
         "branch": "CSM"
     },
-    "132f06a5-5856-4948-b969-2c0bcd6e5958": {
-        "regd no": "Y24CS371",
-        "name": "Y SAI NIKHIL TEJA",
+    "Y24CS224": {
+        "uuid": "7ba045fb-6c68-4e78-be72-88c1e9633064",
+        "name": "Eswar Manikanta Nakka",
         "branch": "CSE"
     },
-    "33ccf588-5ce2-44d9-bcd1-ab562e87313d": {
-        "regd no": "Y24CS019",
-        "name": "Annavarapu Pragathi",
-        "branch": "CSE"
-    },
-    "85d9c867-f2bf-47c8-b777-64f9c6cfd805": {
-        "regd no": "Y24CM098",
-        "name": "K.Renusree",
+    "Y24CM013": {
+        "uuid": "9cceb7a1-a59f-4cc1-b7dd-7abd4ddec04e",
+        "name": "Subbu Arudra",
         "branch": "CSM"
     },
-    "5f036990-0ba5-4dd1-8348-4b7655aecde3": {
-        "regd no": "Y24CS344",
-        "name": "Ullasa Rohith",
-        "branch": "CSE"
-    },
-    "f7d2d794-738c-42a3-8952-186e847e7799": {
-        "regd no": "Y24CS002",
-        "name": "Achina Tejaswi",
-        "branch": "CSE"
-    },
-    "4861a678-ec4c-44da-894b-29ea9a6db0c6": {
-        "regd no": "Y23CM080",
-        "name": "NITEESH MADHAV",
+    "Y24CM135": {
+        "uuid": "76217026-d88a-44d6-9170-11eff81a2040",
+        "name": "Patnana Sri Harshini",
         "branch": "CSM"
     },
-    "e29faf82-de7d-4234-b9e2-0004b9fafffe": {
-        "regd no": "Y24CM146",
-        "name": "neeraja",
+    "Y24CM186": {
+        "uuid": "32e25155-55d2-4c4b-b905-6ada7e2a1b3f",
+        "name": "shaik jahena",
         "branch": "CSM"
     },
-    "2328d6c0-6ddd-4cf2-815b-0da27bfcfbeb": {
-        "regd no": "Y24CM145",
-        "name": "Pasksith",
+    "Y24CS320": {
+        "uuid": "6aea6560-04b9-4c49-90d1-572996294150",
+        "name": "Sk Suraya Parveen",
+        "branch": "CSE"
+    },
+    "Y24CS263": {
+        "uuid": "5523a546-34d7-4c03-af6d-e68f94ea13ef",
+        "name": "Yudhishna Pendurthi",
+        "branch": "CSE"
+    },
+    "Y24CM0674": {
+        "uuid": "adb12983-a95f-423c-84f0-14d15cff7391",
+        "name": "Javisetty Kaveri",
         "branch": "CSM"
     },
-    "99d52349-aa41-413d-b7b7-46fde4c68f9c": {
-        "regd no": "Y24CS353",
-        "name": "T.Akash,V.Abhilash",
-        "branch": "CSE"
+    "Y24CM149": {
+        "uuid": "34d23c29-3523-47ee-89cf-02a4b2b58c21",
+        "name": "Pulikonda Giridhara Chary",
+        "branch": "CSM"
     },
-    "ab4a7622-35d8-4cc0-a9ce-9208f1c7ced1": {
-        "regd no": "Y24CS290",
-        "name": "Rakurthi Naveen Chandra Kowshik",
-        "branch": "CSE"
-    },
-    "5442dd29-0ee0-46d4-8061-8a2cbeb2ee65": {
-        "regd no": "Y24CO001",
-        "name": "Lakshmi lavanya",
+    "Y23CO034": {
+        "uuid": "2f9ee3f7-0abf-48d2-9154-9f1128d91ebb",
+        "name": "Manduri Aswitha Chowdary",
         "branch": "CSO"
     },
-    "b31d47f1-f74f-4206-a76b-bfdd889e9ce7": {
-        "regd no": "Y23CM059",
-        "name": "hara pramod",
-        "branch": "CSM"
-    },
-    "b7b15c6d-f343-4d6f-842d-7277ecaeb1f2": {
-        "regd no": "Y24CM081",
-        "name": "nathan",
-        "branch": "CSM"
-    },
-    "dbe0baa9-6279-4e56-8405-a840a57b3a43": {
-        "regd no": "Y24CM045",
-        "name": "Santhosh",
-        "branch": "CSM"
-    },
-    "800c378b-5e2e-424b-92f9-5a114f6256ed": {
-        "regd no": "Y24EC100",
-        "name": "Akhil",
-        "branch": "ECE"
-    },
-    "e86cecef-e147-4901-bcaa-cab4cee50802": {
-        "regd no": "Y24CM030",
-        "name": "Siri Chalikonda",
-        "branch": "CSM"
-    },
-    "509b926b-343c-4cd9-ade8-10e508004809": {
-        "regd no": "Y24CM056",
-        "name": "G Viswa Harshath",
-        "branch": "CSM"
-    },
-    "23808ecc-2b27-47e3-8eaf-8edc5908eb97": {
-        "regd no": "Y23IT035",
-        "name": "G. Yamini",
-        "branch": "IT"
-    },
-    "62d9dbaf-4d65-4745-b27b-3074e01e1fef": {
-        "regd no": "Y23CM056",
-        "name": "Aashrith Prabhav",
-        "branch": "CSM"
-    },
-    "708f0331-9b14-455c-b06f-ef9c896350d1": {
-        "regd no": "L24CM203",
-        "name": "Tejdeep Kadiri",
-        "branch": "CSM"
-    },
-    "ef49b365-c360-418c-99f0-83c465294c0f": {
-        "regd no": "Y24CM165",
-        "name": "Shaik. Charishma",
-        "branch": "CSM"
-    },
-    "8ecd849e-021e-4bd7-84fb-216ab437610d": {
-        "regd no": "Y23CM074",
-        "name": "Katta Jhansi",
-        "branch": "CSM"
-    },
-    "fa6b989b-c57d-46e0-94c7-f953633bf023": {
-        "regd no": "Y23CM173",
-        "name": "Thota Varshasripranitha",
-        "branch": "CSM"
-    },
-    "38859351-7049-4bff-8cc4-2900b345ed8a": {
-        "regd no": "L24CS211",
-        "name": "Poluri Mohan",
+    "Y24CS015": {
+        "uuid": "34ac46a6-48f6-4f7c-8f13-ed1b2a99ebd6",
+        "name": "Siva Narendra",
         "branch": "CSE"
     },
-    "f86de619-0a22-4787-9d52-222473f79f6f": {
-        "regd no": "Y23IT121",
-        "name": "Venna Hruthika, Vemula UshaSri",
-        "branch": "IT"
-    },
-    "6c9411de-f6b2-4a47-82e4-64ff66bd46b2": {
-        "regd no": "Y24CM078",
-        "name": "kakarla hari devi jyothika",
-        "branch": "CSM"
-    },
-    "d93b2c9e-aa45-4e33-ae63-a7020a32eca0": {
-        "regd no": "L24CM206",
-        "name": "N.IRFAN",
-        "branch": "CSM"
-    },
-    "f742f74e-31bb-4a3b-9946-b8709e955db9": {
-        "regd no": "Y24CS251",
-        "name": "P.indeevara shyam",
+    "Y24CS346": {
+        "uuid": "4ba9253b-6423-4210-87bf-155d3e9cdc5b",
+        "name": "URIMELLA YOUSAF",
         "branch": "CSE"
     },
-    "eb8c9471-4858-482b-8ead-7a51fd7c917a": {
-        "regd no": "Y23IT003",
-        "name": "alapati mukesh sai",
-        "branch": "IT"
-    },
-    "c534f648-9d81-47c1-9ff8-540f06386ffe": {
-        "regd no": "Y23IT019",
-        "name": "Bodempudi Mani Chandana",
-        "branch": "IT"
-    },
-    "e5be661c-7375-4f58-9e9d-67c77914ec37": {
-        "regd no": "Y24CS229",
-        "name": "Nalluri Mythri",
+    "Y24CS078": {
+        "uuid": "c52be83a-646c-4570-b909-4bcf9bfe5bba",
+        "name": "Lakshmi Lakshmi",
         "branch": "CSE"
     },
-    "707bc877-6fb4-4926-b867-89dee2f0d56a": {
-        "regd no": "Y24CS005",
-        "name": "ADIL SHAIK",
+    "Y24CM052": {
+        "uuid": "27aec680-83b5-4cf4-8986-c649df1b69ad",
+        "name": "Gaddam Lakshmi Kranthi",
+        "branch": "CSM"
+    },
+    "RACO": {
+        "uuid": "2cebc0db-c4e2-4569-8aaa-e8a446790f10",
+        "name": "Usurupati Jaswar Babu",
+        "branch": "Unknown"
+    },
+    "Y23CS050": {
+        "uuid": "5b344eba-f02b-461c-9f1b-c7940532b079",
+        "name": "Gangireddy Narendra Reddy",
         "branch": "CSE"
     },
-    "e4df14e7-c016-42f1-a5df-8d2f75338497": {
-        "regd no": "Y23CM155",
-        "name": "Dhanvi Varma",
+    "Y24CM079": {
+        "uuid": "159e2ea8-6bec-4b78-ab3b-84c51a56e92f",
+        "name": "ram",
         "branch": "CSM"
     },
-    "1f09b565-8a85-44fa-b73a-77ee71379cfa": {
-        "regd no": "Y24CS316",
-        "name": "Mohaseen",
+    "Y24CM060": {
+        "uuid": "f5854e72-1218-49c4-8200-be4669f1a1f7",
+        "name": "Gogisetti Anusha",
+        "branch": "CSM"
+    },
+    "Y24CM147": {
+        "uuid": "3948ceee-17c1-4ea9-961d-d141118c08a1",
+        "name": "PRASANNA PONNAM",
+        "branch": "CSM"
+    },
+    "Y24CM117": {
+        "uuid": "a016c7d9-89a5-4e0c-b99a-64763652789c",
+        "name": "rishitha Nagandla",
+        "branch": "CSM"
+    },
+    "Y23CS174": {
+        "uuid": "92cc1daf-8aef-4f88-8bee-fd20de52f56a",
+        "name": "Naveen Mani Sankar Reddy Tetala",
         "branch": "CSE"
     },
-    "47c9863b-f15d-4c11-9b68-01031b82dc2c": {
-        "regd no": "Y23IT036",
-        "name": "Poojitha",
-        "branch": "IT"
+    "Y24CB029": {
+        "uuid": "40775f61-b7bf-4351-bc59-7f6f3eef92e0",
+        "name": "Aswithasai Kandimalla Kandimalla",
+        "branch": "CSBS"
     },
-    "190c1f7e-ea25-430f-8de5-3b3d7c2b2bec": {
-        "regd no": "Y23CM009",
-        "name": "Navya Mani Sri",
+    "Y24CM125": {
+        "uuid": "be7543e7-8247-42e2-8641-686e7007cac8",
+        "name": "Meghana Nelluri",
         "branch": "CSM"
     },
-    "80c58d7a-4cf2-4a35-9ee5-98368591c343": {
-        "regd no": "Y23IT032",
-        "name": "Manohar,Gokul",
-        "branch": "IT"
-    },
-    "695234bf-652a-4883-8403-e3f82c4df274": {
-        "regd no": "Y24CM004",
-        "name": "VIJAY RAGHAVENDRA",
+    "Y24CM077": {
+        "uuid": "69bb9451-1b1a-4d4c-8f85-daa6c99cd1a5",
+        "name": "Kakarla Balaji",
         "branch": "CSM"
     },
-    "630f4280-1ba9-4577-abf4-cea5a2c17f18": {
-        "regd no": "L25CS390",
-        "name": "Emineni Naveen chandu",
-        "branch": "CSE"
-    },
-    "f65b7c79-c0e2-4806-8568-c8dd959c063d": {
-        "regd no": "Y24CS258",
-        "name": "P. Sri naga Prasanna",
-        "branch": "CSE"
-    },
-    "c668ccf8-2f37-4f61-ae1e-d62f0a32054f": {
-        "regd no": "Y23IT051",
-        "name": "Mounika Kasukurthi",
-        "branch": "IT"
-    },
-    "93a64b26-a24c-411a-9dff-c0544b730073": {
-        "regd no": "Y24CS337",
-        "name": "Thippana keerthana",
-        "branch": "CSE"
-    },
-    "c6ad0c9a-3c7a-462f-8c4d-0555deb82519": {
-        "regd no": "Y24CS226",
-        "name": "Purna chandra babu",
-        "branch": "CSE"
-    },
-    "844963f9-1697-4855-8eb9-da95d6f665a0": {
-        "regd no": "Y24CM065",
-        "name": "Jaswanth",
-        "branch": "CSM"
-    },
-    "1a5d785b-69fc-4766-8b98-ca716ad0552e": {
-        "regd no": "Y23CM165",
-        "name": "sriramineni swetha",
-        "branch": "CSM"
-    },
-    "90c6a09e-2b74-4810-9234-8d73b80acf02": {
-        "regd no": "Y24CM172",
-        "name": "sudanagunta gowri jagadeesh",
-        "branch": "CSM"
-    },
-    "13f06e34-1043-4809-b7a0-62db4574734a": {
-        "regd no": "Y24CS256",
-        "name": "Patnapu. Sireesha",
-        "branch": "CSE"
-    },
-    "d465a9bc-3e74-4aa7-ad14-589b2707d7cf": {
-        "regd no": "Y24CS232",
-        "name": "Mohana Durga Manaswini",
-        "branch": "CSE"
-    },
-    "5e930c9b-3f80-431f-84bd-b8e93e82fe6a": {
-        "regd no": "Y24CM091",
-        "name": "Varshitha",
-        "branch": "CSM"
-    },
-    "dc43f6ca-4167-4564-a41e-832ffe49cef7": {
-        "regd no": "Y24CM144",
-        "name": "P vignesh",
-        "branch": "CSM"
-    },
-    "824d54c8-724c-4f1c-842a-2d26477c4190": {
-        "regd no": "Y24CS327",
-        "name": "SAMBA",
-        "branch": "CSE"
-    },
-    "e8ea7b9d-c54d-4c94-b6d6-58d7533e0cbf": {
-        "regd no": "Y24CM067",
-        "name": "Anand",
-        "branch": "CSM"
-    },
-    "92351b20-9910-43a2-8396-dd37d2848fbe": {
-        "regd no": "Y24IT159",
-        "name": "Samiullah",
-        "branch": "IT"
-    },
-    "14ee22d5-8b18-48cf-97bd-f9dbaf4676d4": {
-        "regd no": "Y24CS349",
-        "name": "Vadlamudi Ramyasree",
-        "branch": "CSE"
-    },
-    "6fe88db5-660b-4a06-a68f-39ad6c07dc1b": {
-        "regd no": "L25CS409",
-        "name": "N. Hemanth Sai",
-        "branch": "CSE"
-    },
-    "08a89cbe-2d19-411c-b7b1-224b4e1b7978": {
-        "regd no": "Y23CM136",
-        "name": "Penmatsa Trishitha",
-        "branch": "CSM"
-    },
-    "4cdf1467-197d-4b10-8278-9dad6ca6b370": {
-        "regd no": "Y24EC122",
-        "name": "Bhavin Musala",
-        "branch": "ECE"
-    },
-    "22a499ee-8de9-4d5c-9333-e84a95c8ee0a": {
-        "regd no": "Y23CM112",
-        "name": "pavan kumar",
-        "branch": "CSM"
-    },
-    "ac8beaeb-04f5-40d8-aa66-dc14ab681e2f": {
-        "regd no": "Y24CS016",
-        "name": "A.jagadeeswari",
-        "branch": "CSE"
-    },
-    "4b0e6288-cbc6-4d73-a5d2-0534058f2fc8": {
-        "regd no": "Y24CS358",
-        "name": "V.Harsha Raghava Venkat",
-        "branch": "CSE"
-    },
-    "41b6d0a1-4ecf-4f93-9621-45595b47eba1": {
-        "regd no": "Y24CS330",
-        "name": "T.RISHI ,SD.AKMAL",
-        "branch": "CSE"
-    },
-    "a25a06c9-59af-4909-bf1b-344ea5c1ed3d": {
-        "regd no": "Y24CM198",
-        "name": "yashwanth dumpala",
-        "branch": "CSM"
-    },
-    "542429df-2ff5-4055-8f16-af710d4f72c3": {
-        "regd no": "L25CS421",
-        "name": "DINESH",
-        "branch": "CSE"
-    },
-    "85b3aae0-f923-489e-9822-700122e66215": {
-        "regd no": "Y24CS329",
-        "name": "Surrisetti Madhu Sudan",
-        "branch": "CSE"
-    },
-    "6c7eb10d-0fd8-4611-ae15-9247582290d2": {
-        "regd no": "Y24CS239",
-        "name": "Nune Chris Vikas Babu",
-        "branch": "CSE"
-    },
-    "9395da1e-4c8a-4774-8214-2c9d59ea765b": {
-        "regd no": "Y23CM096",
-        "name": "Kishore",
-        "branch": "CSM"
-    },
-    "abc4f622-3b54-4b07-ad8b-38738b629120": {
-        "regd no": "Y24CM095",
-        "name": "team varanasi",
-        "branch": "CSM"
-    },
-    "2c5ac033-0838-4e94-8dcd-f6f58631d142": {
-        "regd no": "Y24CM033",
-        "name": "Chaitra",
-        "branch": "CSM"
-    },
-    "aefbd885-de32-4e7c-9fdd-197df8a4accc": {
-        "regd no": "Y24CD086",
-        "name": "Pavan Kayakokula",
-        "branch": "CSD"
-    },
-    "9a8b439b-918b-4688-9ca0-236f7e71dde6": {
-        "regd no": "Y23CM076",
-        "name": "Deepak Naryana Katuru",
-        "branch": "CSM"
-    },
-    "dbd8f970-1e33-4ee1-ba5d-55d9193fee46": {
-        "regd no": "Y24CM086",
-        "name": "CHANDANA",
-        "branch": "CSM"
-    },
-    "b69072e0-0fd8-4485-aab6-1267d82a498c": {
-        "regd no": "Y24CM019",
-        "name": "B.Sampath",
-        "branch": "CSM"
-    },
-    "a1810ba3-f725-4fa8-aaa0-f607d7781e5b": {
-        "regd no": "Y24CS121",
-        "name": "chandu",
-        "branch": "CSE"
-    },
-    "23435a12-a2f7-46b3-9169-3bc90263b567": {
-        "regd no": "Y23IT048",
-        "name": "Kurra Sreeram,Kandimalla Sai Naveen",
-        "branch": "IT"
-    },
-    "e741f240-b8be-474c-8690-d827d2a71a7e": {
-        "regd no": "Y24CS283",
-        "name": "P.Jaswitha",
-        "branch": "CSE"
-    },
-    "43827a4b-7dbf-4ee1-a6f3-ded7173bf6a0": {
-        "regd no": "Y24CS020",
-        "name": "ANUMOLU MANI KISHORE",
-        "branch": "CSE"
-    },
-    "ae98d152-d240-4371-8db8-9f16fded3ad8": {
-        "regd no": "Y24CS267",
-        "name": "Deepika",
-        "branch": "CSE"
-    },
-    "547013ff-b4ac-44e6-b420-cb0f1a5ad750": {
-        "regd no": "L25CD203",
-        "name": "Harsha Vardhan Ramu",
-        "branch": "CSD"
-    },
-    "2f560004-d436-4832-ba57-a7f764cec17c": {
-        "regd no": "L24CM202",
-        "name": "Janga Manasa",
-        "branch": "CSM"
-    },
-    "f74efb8c-243d-495c-b492-9878eb7bd2ca": {
-        "regd no": "Y23CM125",
-        "name": "PADAMATA HEMANTH SUBHASH",
-        "branch": "CSM"
-    },
-    "48810df6-4e55-49c6-82ce-13b3f06e9781": {
-        "regd no": "Y24CM097",
-        "name": "Kota dinesh",
-        "branch": "CSM"
-    },
-    "100ce152-6df6-4feb-b55e-738af8fc5803": {
-        "regd no": "Y24CS233",
-        "name": "n.prudhvi teja",
-        "branch": "CSE"
-    },
-    "8b0291d2-7d34-4856-b09c-3bb365c4c3b0": {
-        "regd no": "Y23IT131",
-        "name": "Y.Varsha",
-        "branch": "IT"
-    },
-    "cdfd19ad-099f-4d63-be86-bf554291d71b": {
-        "regd no": "Y24CM017",
-        "name": "A.Revanth",
-        "branch": "CSM"
-    },
-    "df2486d7-8640-4378-842d-9d7cfbdcdf88": {
-        "regd no": "Y24CM087",
-        "name": "Gopi",
-        "branch": "CSM"
-    },
-    "61d46f22-84f5-4802-9055-e1ac94b5e730": {
-        "regd no": "Y24CS198",
-        "name": "chandana .Mandalapu",
-        "branch": "CSE"
-    },
-    "ab4572b0-8eb4-49e1-88f2-0462640fffcb": {
-        "regd no": "Y23IT038",
-        "name": "Tony.G",
-        "branch": "IT"
-    },
-    "588f2d10-0d0e-4660-bfa8-ea3664bc564f": {
-        "regd no": "Y23CM071",
-        "name": "KANNEKANTI DHARMA TEJA CHARI",
-        "branch": "CSM"
-    },
-    "497ff186-e1cd-4681-b314-26910012b6b5": {
-        "regd no": "Y24CM174",
-        "name": "Talluri Nireekshana",
-        "branch": "CSM"
-    },
-    "305f1a42-808e-4de0-98a1-62b1f869c7bc": {
-        "regd no": "Y24CM046",
-        "name": "Devarakonda Venkata Gopi Krishna",
-        "branch": "CSM"
-    },
-    "9c6246d8-41f5-4004-b755-d7a399565da3": {
-        "regd no": "Y24CS033",
-        "name": "Annamaiah Naik",
-        "branch": "CSE"
-    },
-    "fd52caca-af7b-48d5-8f0e-dc9f6198d748": {
-        "regd no": "Y24CM085",
-        "name": "K Srujan",
-        "branch": "CSM"
-    },
-    "fbaf7130-05eb-4dfe-b11a-c9d6ea594257": {
-        "regd no": "Y24CS240",
-        "name": "Nunna devakinandan",
-        "branch": "CSE"
-    },
-    "af81f026-cd44-4cd8-96e7-bd28e194aabd": {
-        "regd no": "Y24CS098",
-        "name": "Gorre.Aksha Kalyani",
-        "branch": "CSE"
-    },
-    "77d3314f-0ef4-4168-aeac-435922487e32": {
-        "regd no": "Y23CM078",
-        "name": "Rambabu Kavuri",
-        "branch": "CSM"
-    },
-    "43ceb78b-2ebd-4571-94e0-a81a412ef598": {
-        "regd no": "Y24CS176",
-        "name": "mahesh",
-        "branch": "CSE"
-    },
-    "d4b7e73e-3cc4-43b8-870c-ae834c06825f": {
-        "regd no": "L24CM212",
-        "name": "S.Pujitha",
-        "branch": "CSM"
-    },
-    "af065357-9e3e-4985-85e6-73e5e76f540e": {
-        "regd no": "Y24CM105",
-        "name": "Sd",
-        "branch": "CSM"
-    },
-    "8a2ed4ee-63a4-449b-96c4-ceef917bafda": {
-        "regd no": "Y24CM023",
-        "name": "B.Uday tharun kumar",
-        "branch": "CSM"
-    },
-    "e5efd733-d9d5-48f9-990f-f20c35f5102a": {
-        "regd no": "Y24CM104",
-        "name": "Krishna Mohan",
-        "branch": "CSM"
-    },
-    "a5f8b9a3-372e-4e7f-9565-052b10769ae9": {
-        "regd no": "T24CM31",
-        "name": "tudhum",
-        "branch": "CSM"
-    },
-    "fa078e4b-50c9-4065-b5da-7dc0132972b8": {
-        "regd no": "Y24CM008",
-        "name": "Durga Sravanthi",
-        "branch": "CSM"
-    },
-    "6f6889c4-2315-4523-b9fe-b42702c659c1": {
-        "regd no": "Y24CM057",
-        "name": "sri sai",
-        "branch": "CSM"
-    },
-    "46678902-ece4-4090-932f-5f28239e2a67": {
-        "regd no": "Y24CM047",
-        "name": "D.Chandu",
-        "branch": "CSM"
-    },
-    "27b7864c-2611-48a3-9e75-8a90f19c546a": {
-        "regd no": "Y24CM011",
-        "name": "ANIKALLA KOTI REDDY",
-        "branch": "CSM"
-    },
-    "c020f7fb-34f3-4574-aa74-a19985c56114": {
-        "regd no": "Y24CM069",
-        "name": "Guntur Rajesh",
-        "branch": "CSM"
-    },
-    "02e25cef-b950-45ab-b16d-0122e7706074": {
-        "regd no": "Y24CS009",
-        "name": "Saniya",
-        "branch": "CSE"
-    },
-    "6ade4977-d847-4e32-9d00-8b53db07d677": {
-        "regd no": "Y24CD123",
-        "name": "akash venkat",
-        "branch": "CSD"
-    },
-    "e286f1c1-44b3-45a7-8bec-1c5d115024b7": {
-        "regd no": "Y24IT116",
-        "name": "M.Chandana Sri",
-        "branch": "IT"
-    },
-    "f7a3ac97-0d35-455b-b506-d443711fdfde": {
-        "regd no": "Y24CS052",
-        "name": "Challa Guru Datta Sai",
-        "branch": "CSE"
-    },
-    "b7775d3c-a503-4e22-b8df-c38eb723dd80": {
-        "regd no": "Y23IT047",
-        "name": "Kamma Ramya",
-        "branch": "IT"
-    },
-    "5ede7a42-d3be-435a-906a-627454231a6a": {
-        "regd no": "Y23CM115",
-        "name": "Nallagatla Adithya",
-        "branch": "CSM"
-    },
-    "becbadcd-c617-464d-a2c2-a120832af2ab": {
-        "regd no": "Y24CM107",
-        "name": "Sashank Abhinay",
-        "branch": "CSM"
-    },
-    "e135bc6d-acf8-4b3a-9a1b-0bda526ca5e9": {
-        "regd no": "Y24CD075",
-        "name": "Sanjana kakumanu",
-        "branch": "CSD"
-    },
-    "e6f208a8-675c-4c80-a6f9-d4cbbb2d4097": {
-        "regd no": "Y24CM020",
-        "name": "Bandi Rakesh",
-        "branch": "CSM"
-    },
-    "d56e8990-2b4b-4d85-a17d-08c0ce89c795": {
-        "regd no": "Y24CS047",
-        "name": "B. DVN santhosh",
-        "branch": "CSE"
-    },
-    "05fc8a23-9656-443e-bf33-1bfa1327008b": {
-        "regd no": "L25IT201",
-        "name": "v.narasimharao",
-        "branch": "IT"
-    },
-    "b400730f-6990-462a-bd09-4c27d852e5c6": {
-        "regd no": "Y24CD121",
-        "name": "Neha Sri",
-        "branch": "CSD"
-    },
-    "ee5af894-10d9-4841-8cd1-09bf203e2cff": {
-        "regd no": "Y24CM177",
-        "name": "Jwalitha",
-        "branch": "CSM"
-    },
-    "73fe427a-cb06-4d28-af7c-000dada8a11c": {
-        "regd no": "Y24CS065",
-        "name": "DANDAMUDI BINDU SREE,DARA ANU DEEPTHI",
-        "branch": "CSE"
-    },
-    "e7804694-4322-445b-bd17-b45609acd964": {
-        "regd no": "Y24CM132",
-        "name": "mehul chowdary",
-        "branch": "CSM"
-    },
-    "da5724b0-ef05-46ab-ba38-f9969e9efecd": {
-        "regd no": "Y24IT090",
-        "name": "BHUVANESH MANGAM",
-        "branch": "IT"
-    },
-    "314a735e-9064-4734-b633-00a92f75cc2a": {
-        "regd no": "Y24CS336",
-        "name": "Dharmateja",
-        "branch": "CSE"
-    },
-    "71578000-3967-46c2-bf88-f9927dc0e4e2": {
-        "regd no": "Y24CM057",
+    "Y24CM057": {
+        "uuid": "71578000-3967-46c2-bf88-f9927dc0e4e2",
         "name": "pravallika",
         "branch": "CSM"
     },
-    "da91619b-57a3-4a97-b0f5-cbb496ec2299": {
-        "regd no": "Y23CM024",
-        "name": "AMRUTH ANNAN BALATHOTI",
+    "Y24CM192": {
+        "uuid": "011d6733-0c70-4df0-b578-1c2b06724506",
+        "name": "BALA RANGAIAH VATTIVELLA",
         "branch": "CSM"
     },
-    "1372db5f-4c5a-4540-99dd-95141a0ccfc2": {
-        "regd no": "Y24CS147",
-        "name": "KATIKALA RISHEELA",
+    "Y24CM162": {
+        "uuid": "95d6a354-29f3-4489-a4c2-640be048c5da",
+        "name": "Shaik Anjum",
+        "branch": "CSM"
+    },
+    "L25CS395": {
+        "uuid": "a75d8210-ba59-4514-868d-1904111932ae",
+        "name": "Karumanchi Divya srija",
         "branch": "CSE"
     },
-    "4a6738fd-7b75-4f7b-a682-fd52cd142a3d": {
-        "regd no": "Y23CM028",
-        "name": "Chejarla Nanditha",
+    "Y23CO005": {
+        "uuid": "2af46164-1649-4ff9-bc86-5731deb6304d",
+        "name": "CHEBROLU BHAGYANAND",
+        "branch": "CSO"
+    },
+    "Y24CS026": {
+        "uuid": "f23aedba-0aff-4f09-acaf-b364941605fa",
+        "name": "Thanmai sri Bandarupalli",
+        "branch": "CSE"
+    },
+    "Y24CM196": {
+        "uuid": "376b217f-535c-4ff1-b45e-6afa09571a80",
+        "name": "Harika Sangisetty",
         "branch": "CSM"
     },
-    "f860f31d-8515-4024-a45c-e90847bde16e": {
-        "regd no": "Y24CD098",
-        "name": "VISION CBN",
+    "Y24CS034": {
+        "uuid": "6a38c819-cd61-4404-b35d-df55dd51078b",
+        "name": "Bijjam Poshitha Sri",
+        "branch": "CSE"
+    },
+    "Y23CS020": {
+        "uuid": "5d7df32f-2efe-4a4b-9567-4d35fa1f465a",
+        "name": "Dilip Bodduluri",
+        "branch": "CSE"
+    },
+    "Y23CS075": {
+        "uuid": "ce7cf686-b98e-40fa-9011-1536f65d49bf",
+        "name": "kongara sir varshitha",
+        "branch": "CSE"
+    },
+    "Y23CD133": {
+        "uuid": "fc54a89d-3dbe-4d8c-856a-603a29c5de1a",
+        "name": "Mahemood Shaik",
         "branch": "CSD"
     },
-    "09546cb8-6968-4629-a826-837cef44c866": {
-        "regd no": "Y24CS303",
-        "name": "Shaik hafeez",
-        "branch": "CSE"
-    },
-    "b1b0e3cc-1cce-445b-a616-dd029a4a830d": {
-        "regd no": "Y24CM106",
-        "name": "Mamidi Abhishek",
-        "branch": "CSM"
-    },
-    "83d97eb3-70f4-43cf-8783-03ac12aeeb2e": {
-        "regd no": "Y24CM112",
-        "name": "K N S Keerthana",
-        "branch": "CSM"
-    },
-    "641a7f1e-5e8c-435e-a258-3b26fad671e5": {
-        "regd no": "Y24IT175",
-        "name": "GYM RATS",
-        "branch": "IT"
-    },
-    "2b088e7a-a150-413a-afeb-d48a7f63eb70": {
-        "regd no": "L25CB068",
-        "name": "Akhil",
+    "Y24CB030": {
+        "uuid": "7b41fff6-9ab9-4a29-883a-eca58efaf5be",
+        "name": "Kilari Keerthi",
         "branch": "CSBS"
     },
-    "53c2c6f3-4bef-437d-a022-ae854463b16c": {
-        "regd no": "Y24CS311",
-        "name": "Ismaiel",
+    "Y24CD030": {
+        "uuid": "6735f326-5aff-4843-b019-96aa36e4ad66",
+        "name": "Chilka Sahitya",
+        "branch": "CSD"
+    },
+    "Y23CM131": {
+        "uuid": "83885313-791c-4607-842e-382776edab93",
+        "name": "Paruchuri Madhulla Sree",
+        "branch": "CSM"
+    },
+    "Y24CM048": {
+        "uuid": "f1f89353-9816-4e69-9b95-4ae699022405",
+        "name": "Srilakshmi Dudduri",
+        "branch": "CSM"
+    },
+    "L24CS205": {
+        "uuid": "48f605a2-6ccd-465f-8d48-fe4b48442c7c",
+        "name": "Jonnadula Tarak Ram",
         "branch": "CSE"
     },
-    "c20a1f5a-cddd-461b-bf52-cd753eb4d0cc": {
-        "regd no": "Y24CM200",
-        "name": "HARSHITHA",
+    "Y23CM111": {
+        "uuid": "0598f15a-ed47-489a-8772-91304d49f538",
+        "name": "Poojith babu murakonda",
         "branch": "CSM"
     },
-    "e9b8f93b-01cd-44d8-b54d-e2a3fa5a7a51": {
-        "regd no": "Y24CM049",
-        "name": "D.Lakshmi likhitha",
+    "Y24CM051": {
+        "uuid": "fe472de8-0403-4aa7-b993-8525288918ff",
+        "name": "Etcherla Atchuta Rao",
         "branch": "CSM"
     },
-    "77307d5f-5960-49c5-b9ad-92d8b102b233": {
-        "regd no": "Y24CS199",
-        "name": "GRACY MARY",
+    "Y24CS315": {
+        "uuid": "4dcc3eeb-c62f-4b23-bbae-fd92f73a5c06",
+        "name": "Anusha Uyyala",
         "branch": "CSE"
     },
-    "d5a224d4-54dd-4faa-8def-d19c5c9319d5": {
-        "regd no": "Y24CM034",
-        "name": "CH LAKSHMI NAGA TEJA",
+    "Y24CS366": {
+        "uuid": "3cb37b08-47ef-4985-b0f2-efefdbba79ea",
+        "name": "Pradeepthi Yarlagadda",
+        "branch": "CSE"
+    },
+    "Y24CD095": {
+        "uuid": "9ea09721-ebfa-47b8-a253-0c654aac7789",
+        "name": "preethi kolluri kolluri",
+        "branch": "CSD"
+    },
+    "Y24CS023": {
+        "uuid": "3f93014f-ac3f-431d-b924-e1a014e1a8bd",
+        "name": "pushpendra Singh",
+        "branch": "CSE"
+    },
+    "Y24CS215": {
+        "uuid": "c1b22912-ab2f-4bfb-a3ad-d7a4859aafb2",
+        "name": "Meghana Mule",
+        "branch": "CSE"
+    },
+    "Y24CS225": {
+        "uuid": "d11eb43b-870d-4d08-9117-5359b297f17f",
+        "name": "Vasu Deva Rao Nakka",
+        "branch": "CSE"
+    },
+    "L25CM214": {
+        "uuid": "cb654af0-68f7-4a35-b7ea-48a2446d48d2",
+        "name": "Shaik Neeha",
         "branch": "CSM"
     },
-    "14b7ac50-29e1-469c-bfb8-9f2ec4793be3": {
-        "regd no": "Y24CM120",
-        "name": "amulya",
+    "L25CS415": {
+        "uuid": "db02b922-7116-412a-9416-aa4e44ea52d8",
+        "name": "Shaik Khaja Ayaz",
+        "branch": "CSE"
+    },
+    "Y24CM054": {
+        "uuid": "1f3661e6-a146-45ba-a104-cd6e2b45db3a",
+        "name": "Saimanoj Gajula",
         "branch": "CSM"
     },
-    "1ffba06e-5903-4bfa-9189-1d5e1114dec7": {
-        "regd no": "Y24IT093",
-        "name": "Parithosh",
+    "Y24EC098": {
+        "uuid": "c3bd42fe-bfa9-4f17-a1ec-51f0723b8f25",
+        "name": "Mani Teja Musunuri",
+        "branch": "ECE"
+    },
+    "Y24CM111": {
+        "uuid": "564bfea4-d5e6-45f1-b582-94f574b6e25d",
+        "name": "Satya Hasitha Tejaswini",
+        "branch": "CSM"
+    },
+    "L25CS423": {
+        "uuid": "55e9ca6c-c03a-4e7c-b481-89918cca35ad",
+        "name": "Tirumalasetti Veera Naga Sai Dhoni",
+        "branch": "CSE"
+    },
+    "Y24CS059": {
+        "uuid": "86ef9157-7778-47d0-a9b7-0d0a6ee09ce4",
+        "name": "Choudam Srikavya",
+        "branch": "CSE"
+    },
+    "Y24CM100": {
+        "uuid": "b4659c7c-8979-4f80-820f-f020464c9fc4",
+        "name": "shalini",
+        "branch": "CSM"
+    },
+    "Y24CS345": {
+        "uuid": "3078c845-5953-4971-bfb4-0dbac6b328b9",
+        "name": "Viswas Upputholla",
+        "branch": "CSE"
+    },
+    "Y24CS049": {
+        "uuid": "ac1a0eca-0f16-4bee-b8cf-85111379dc94",
+        "name": "Bulla Pavithra",
+        "branch": "CSE"
+    },
+    "Y23CM067": {
+        "uuid": "57f89224-d370-43f3-b2fe-3767e4e3848b",
+        "name": "Kanatham Geeshpath",
+        "branch": "CSM"
+    },
+    "Y24CM143": {
+        "uuid": "72d6ba9d-cea5-4006-9a26-38b57563e154",
+        "name": "Neeraja Polisetti",
+        "branch": "CSM"
+    },
+    "Y24CM140": {
+        "uuid": "b8e27590-369b-4515-81c8-8d08f0330999",
+        "name": "Prem Perikala",
+        "branch": "CSM"
+    },
+    "Y24CS331": {
+        "uuid": "4f5b1fbe-3205-4629-a021-e89736b28008",
+        "name": "Talluri Akash",
+        "branch": "CSE"
+    },
+    "Y24CM126": {
+        "uuid": "69a8a833-2d7f-406a-ad4f-1ed56dc71381",
+        "name": "Venkata Ganesh Nerella",
+        "branch": "CSM"
+    },
+    "Y24CO014": {
+        "uuid": "d73b6335-57a7-456d-b941-81e8e5227f45",
+        "name": "lakshmi lavanya",
+        "branch": "CSO"
+    },
+    "Y23CM037": {
+        "uuid": "f39f0514-ab38-421d-a96c-c54cd9c91115",
+        "name": "Hema Varun",
+        "branch": "CSM"
+    },
+    "Y24CM084": {
+        "uuid": "e9c19a3f-8037-420d-95c3-f7691288afb1",
+        "name": "Abhi",
+        "branch": "CSM"
+    },
+    "Y24CM062": {
+        "uuid": "96143711-ed29-4c4d-8abe-29c99683e6a2",
+        "name": "Sri Koushik",
+        "branch": "CSM"
+    },
+    "Y24CM103": {
+        "uuid": "000a194f-162f-4d44-a6cb-9f6c63c43b98",
+        "name": "Bhanu Chandar",
+        "branch": "CSM"
+    },
+    "Y24CM188": {
+        "uuid": "0ab653fd-9f95-49f6-b5c7-504ad45415bc",
+        "name": "Ushasri Valeti",
+        "branch": "CSM"
+    },
+    "Y24CM064": {
+        "uuid": "31610ad3-1ccb-4bb8-9e5e-cd4e162920d0",
+        "name": "Guddati Mohan Sai Kumar",
+        "branch": "CSM"
+    },
+    "Y23IT058": {
+        "uuid": "eadfa67d-c0d1-4e3a-9f1f-b79d451944af",
+        "name": "Ramya Lahari Kondapureddy",
         "branch": "IT"
     },
-    "e22401c5-4fbf-4fe1-95f7-61985af20b0d": {
-        "regd no": "Y24CB006",
-        "name": "hemanth kumar",
-        "branch": "CSBS"
-    },
-    "043cc3e0-38ad-4321-9f10-021be8bf5381": {
-        "regd no": "Y24CM151",
-        "name": "RATTI LOHITH DATTA",
-        "branch": "CSM"
-    },
-    "a2800f34-8e5e-4bcc-a630-01abc9f613db": {
-        "regd no": "L24CM201",
+    "L24CM201": {
+        "uuid": "a2800f34-8e5e-4bcc-a630-01abc9f613db",
         "name": "gunda raghavedra",
         "branch": "CSM"
     },
-    "80f7b181-1308-4e52-b15b-980dba5220f8": {
-        "regd no": "Y24CM102",
+    "Y23CM039": {
+        "uuid": "2d19c2dd-2371-49fe-9a8e-62bc910d7610",
+        "name": "Trinadh Chowdary",
+        "branch": "CSM"
+    },
+    "Y24CM182": {
+        "uuid": "8d105156-dc90-4b22-9626-bfb891e41273",
+        "name": "likhitha tummala",
+        "branch": "CSM"
+    },
+    "Y23CM089": {
+        "uuid": "71fd9809-115d-4c77-b8a9-ffafccbb9a34",
+        "name": "kusumanjali kotha",
+        "branch": "CSM"
+    },
+    "Y23CM183": {
+        "uuid": "57366686-b725-4fc0-b34c-7021ac8802bd",
+        "name": "Sai Sravani Varada",
+        "branch": "CSM"
+    },
+    "L24CS217": {
+        "uuid": "450e9735-b004-4944-82c6-248c095e22e5",
+        "name": "Tunuguntla Jaya raj Kumar",
+        "branch": "CSE"
+    },
+    "Y23IT124": {
+        "uuid": "be799966-2927-4d52-b165-e3b90e743c9a",
+        "name": "Hruthika Venna",
+        "branch": "IT"
+    },
+    "Y24CM131": {
+        "uuid": "d9ab6e80-4e10-4b64-bd6b-29447f38ce65",
+        "name": "Sai Gayathri",
+        "branch": "CSM"
+    },
+    "L24CM207": {
+        "uuid": "824f3371-bbc3-481c-906e-53f7f495351b",
+        "name": "Padala Dohith Reddy",
+        "branch": "CSM"
+    },
+    "Y24CS255": {
+        "uuid": "adeef6ae-3890-402a-8fc0-d58ef3ceaa99",
+        "name": "Kiran Teja",
+        "branch": "CSE"
+    },
+    "Y23IT034": {
+        "uuid": "1ac2a3fd-53a3-47ff-8b8c-37712d74fff1",
+        "name": "Pavan",
+        "branch": "IT"
+    },
+    "Y23IT061": {
+        "uuid": "26196241-56e8-42d0-8474-a80c6a235faa",
+        "name": "Bodempudi Mani Chandana",
+        "branch": "IT"
+    },
+    "Y24CS217": {
+        "uuid": "0251f578-f762-48f8-b397-6bdc96e9abe4",
+        "name": "Munthala Venkata Snehalatha Reddy",
+        "branch": "CSE"
+    },
+    "Y24CS010": {
+        "uuid": "3e3ff2bc-8fe7-46d6-83e0-096a31553be6",
+        "name": "Allinagara Achyuth Reddy",
+        "branch": "CSE"
+    },
+    "Y23CM148": {
+        "uuid": "d76c4ee0-1c51-4a0d-834c-c537a018603b",
+        "name": "Hemalatha Ravulapalli",
+        "branch": "CSM"
+    },
+    "Y24CS314": {
+        "uuid": "0921ed11-7e00-4ac8-9244-1dccfc2cda99",
+        "name": "KarishmaKarim Shaik Shaik",
+        "branch": "CSE"
+    },
+    "Y23IT052": {
+        "uuid": "d3ca5fa0-be86-4d49-8435-1be74983dbc8",
+        "name": "Katabathuni Tejaswi",
+        "branch": "IT"
+    },
+    "Y23CM010": {
+        "uuid": "ee14730a-c8f6-4cb5-8ee0-c58f90a001d1",
+        "name": "Annamneni Manvitha Lakshmi",
+        "branch": "CSM"
+    },
+    "Y23IT005": {
+        "uuid": "6c4dabf9-ef7e-4765-9c3b-d8b50b2fa6b3",
+        "name": "Angalakuduru Manohar",
+        "branch": "IT"
+    },
+    "Y24CM007": {
+        "uuid": "be3f375a-a784-4aea-9e67-219c21d4ba09",
+        "name": "ALLAM VIJAY RAGHAVENDRA",
+        "branch": "CSM"
+    },
+    "Y24CS159": {
+        "uuid": "fdf75573-1a67-441f-be77-ca5822e8e47b",
+        "name": "Kommuri Jaswanth",
+        "branch": "CSE"
+    },
+    "Y24CB044": {
+        "uuid": "7d88af62-4ea1-4b61-98c0-1a115a39e864",
+        "name": "Divya Pavani Pentela",
+        "branch": "CSBS"
+    },
+    "Y23IT064": {
+        "uuid": "78a84c34-95e0-4cbe-b580-a7be581624c2",
+        "name": "parnika makineni makineni",
+        "branch": "IT"
+    },
+    "Y24CS325": {
+        "uuid": "42d17927-d42e-43d7-9a82-bc642e7c6d99",
+        "name": "Gopika Somepalli",
+        "branch": "CSE"
+    },
+    "Y24CS194": {
+        "uuid": "69a0a24d-2a69-4d04-b9cd-2cc0906f13e4",
+        "name": "Teja Sai",
+        "branch": "CSE"
+    },
+    "Y24EC188": {
+        "uuid": "8f4305b6-51fa-410d-9173-acbd08b1d4ce",
+        "name": "Anjaneya Prasad V",
+        "branch": "ECE"
+    },
+    "Y23CM175": {
+        "uuid": "a4faebd5-44ad-4e34-8307-3072db64e9e3",
+        "name": "Sriramineni Swetha",
+        "branch": "CSM"
+    },
+    "Y24CM150": {
+        "uuid": "3994fff6-8e58-439c-8960-0a2dd9fd6426",
+        "name": "JAGADEESH",
+        "branch": "CSM"
+    },
+    "Y24CS278": {
+        "uuid": "43e78615-350b-4d9e-a321-a79711df9573",
+        "name": "Poreddy Vara Lakshmi",
+        "branch": "CSE"
+    },
+    "Y24CS223": {
+        "uuid": "2905664d-0a97-42c6-87ec-ff5e11527faa",
+        "name": "Mohana Durga Manaswini Nagireddy",
+        "branch": "CSE"
+    },
+    "Y24CM089": {
+        "uuid": "7803f76a-f93a-4426-95c9-9e9e71cd8d6e",
+        "name": "Kola Pranathi",
+        "branch": "CSM"
+    },
+    "Y24CM133": {
+        "uuid": "4bc01f19-e50f-4940-a8ce-d7232288b999",
+        "name": "Pasam Bhanu narendhara reddy",
+        "branch": "CSM"
+    },
+    "Y24CS361": {
+        "uuid": "3a48cb69-098c-4a83-8609-4869f5177d08",
+        "name": "Rupas Vundavalli",
+        "branch": "CSE"
+    },
+    "Y24CM042": {
+        "uuid": "c7b87ee5-3d78-4297-b66f-f18406bbb629",
+        "name": "Anand Sai Venkat Chowdari",
+        "branch": "CSM"
+    },
+    "Y24IT157": {
+        "uuid": "70b70dda-0040-4878-8257-b6890db1468c",
+        "name": "Samiullah",
+        "branch": "IT"
+    },
+    "Y24CS365": {
+        "uuid": "847bd7c8-8e26-4f68-b6ec-b0592b22ea91",
+        "name": "Yaramachu Sudheshna",
+        "branch": "CSE"
+    },
+    "Y24CS047": {
+        "uuid": "d56e8990-2b4b-4d85-a17d-08c0ce89c795",
+        "name": "B. DVN santhosh",
+        "branch": "CSE"
+    },
+    "Y23CM166": {
+        "uuid": "9c6aeeb3-1ac9-428d-8ddb-b1e73effef66",
+        "name": "Swarna Lalitha Sri",
+        "branch": "CSM"
+    },
+    "Y24EC116": {
+        "uuid": "5daa7ad4-625e-403b-a285-efec36334f84",
+        "name": "Bhavin Musala Musala",
+        "branch": "ECE"
+    },
+    "Y23CM079": {
+        "uuid": "5829d1e8-36c3-480c-803e-9e1e0a663f22",
+        "name": "Kenguva Kalki tarun",
+        "branch": "CSM"
+    },
+    "Y24CS008": {
+        "uuid": "268bbb27-ee84-455a-a7b1-9190138a4a02",
+        "name": "Rishika Chowdary Alla",
+        "branch": "CSE"
+    },
+    "Y24CS313": {
+        "uuid": "860d7dff-4708-413b-9b0a-d9f40e283121",
+        "name": "Kareem Shaik",
+        "branch": "CSE"
+    },
+    "Y24CS343": {
+        "uuid": "41c90491-9fa3-4c63-9512-e9ab68753ba0",
+        "name": "Syed Akmal",
+        "branch": "CSE"
+    },
+    "Y24CM137": {
+        "uuid": "71b3ef47-83c6-4f49-92b5-a2b70f05a2c5",
+        "name": "srinivasarao pemmasani",
+        "branch": "CSM"
+    },
+    "L25CS376": {
+        "uuid": "74f648b1-37ec-4e61-96a1-cd136dd168ed",
+        "name": "Dinesh",
+        "branch": "CSE"
+    },
+    "Y24CS355": {
+        "uuid": "5f2e64b0-c9f4-43d9-a513-511127892efe",
+        "name": "Vattikonda Sai Akhil",
+        "branch": "CSE"
+    },
+    "Y24CS196": {
+        "uuid": "967fba0e-8039-4bed-a8b1-d309fb5bba40",
+        "name": "yaswanth",
+        "branch": "CSE"
+    },
+    "Y23CM123": {
+        "uuid": "e6a13866-7d3d-4d30-bbd9-a41c130aab3a",
+        "name": "Sameer Noorbasha",
+        "branch": "CSM"
+    },
+    "Y24CM071": {
+        "uuid": "47bf54fe-a36b-4dec-9f70-84a157e05cce",
+        "name": "vamsi krishna",
+        "branch": "CSM"
+    },
+    "Y24CM024": {
+        "uuid": "9ef054c1-2372-4f7c-9f3a-af700102dddb",
+        "name": "Bhimanadhuni Chaitra Prameela",
+        "branch": "CSM"
+    },
+    "Y24CD087": {
+        "uuid": "3fe0f17d-c5e4-4140-9fa4-5cc8283a6753",
+        "name": "Yoshith Babby Kesari",
+        "branch": "CSD"
+    },
+    "Y23CM097": {
+        "uuid": "7c1b2cef-f016-4dbe-9140-1c0486236249",
+        "name": "Anil Kumar Maganti",
+        "branch": "CSM"
+    },
+    "Y24CM110": {
+        "uuid": "82e5509b-26f1-4206-bffc-6e8578bc2170",
+        "name": "Aswitha Mareedu",
+        "branch": "CSM"
+    },
+    "Y24CM021": {
+        "uuid": "bcf6dcd4-e8fc-489b-85ab-d24905e3a45a",
+        "name": "Madhu Sudhan",
+        "branch": "CSM"
+    },
+    "Y24CS090": {
+        "uuid": "83ffc2fe-dda3-4f02-a13b-e87aa75a3158",
+        "name": "Chandra shekhar Kadiyam",
+        "branch": "CSE"
+    },
+    "Y23IT062": {
+        "uuid": "f6d82a20-e840-4701-89f8-b95548b94ea4",
+        "name": "Kurra Sreeram",
+        "branch": "IT"
+    },
+    "Y24CS279": {
+        "uuid": "11ad0500-5c4c-4cb2-a8fa-68f4933064ed",
+        "name": "Potla Sivani",
+        "branch": "CSE"
+    },
+    "Y24CS028": {
+        "uuid": "076b7a64-a50a-4877-973e-42adac82eb66",
+        "name": "BANDI MAHIDHAR REDDY",
+        "branch": "CSE"
+    },
+    "Y24CS267": {
+        "uuid": "ae98d152-d240-4371-8db8-9f16fded3ad8",
+        "name": "Deepika",
+        "branch": "CSE"
+    },
+    "GANESH": {
+        "uuid": "d7047abb-39cf-469a-95ec-e29c476dc070",
+        "name": "HarshaVardhan Ramu Kanna Kanna",
+        "branch": "Unknown"
+    },
+    "Y23CM032": {
+        "uuid": "b6c5323c-570d-4f79-9908-fed189c71c4a",
+        "name": "Pranamya Chunduri",
+        "branch": "CSM"
+    },
+    "Y23CM124": {
+        "uuid": "d6be749a-18f9-439d-8373-de4c41505814",
+        "name": "Padamata Hemanth Subhash",
+        "branch": "CSM"
+    },
+    "Y24CM075": {
+        "uuid": "21a76947-e278-4118-8433-985e35ec51c8",
+        "name": "FIN SHOT",
+        "branch": "CSM"
+    },
+    "Y24CS188": {
+        "uuid": "34d23d80-759d-4e3a-92d3-fac25e4ca849",
+        "name": "Mahammed Abdul Khadar",
+        "branch": "CSE"
+    },
+    "Y23IT088": {
+        "uuid": "c59edb35-f72b-463d-a191-0bde39eebeb8",
+        "name": "AFRIN PATHAN",
+        "branch": "IT"
+    },
+    "Y24CM005": {
+        "uuid": "518d5b65-fae2-4880-a8f9-141c8c4f7435",
+        "name": "Revanthnaidu Alahari",
+        "branch": "CSM"
+    },
+    "Y24CM116": {
+        "uuid": "354c1316-45ee-49b6-9a06-78ecdc84e3c2",
+        "name": "Harsha Teja Mugala",
+        "branch": "CSM"
+    },
+    "Y24CS207": {
+        "uuid": "bce1fa51-d5a6-43eb-a3b0-f9ed80dc66eb",
+        "name": "Gayathri miriyampalli",
+        "branch": "CSE"
+    },
+    "Y23IT009": {
+        "uuid": "74b8cc1d-0d05-4d51-a02a-15957497923e",
+        "name": "BANDAPALLY SRI HARSHA SRI HARSHA",
+        "branch": "IT"
+    },
+    "Y23CM083": {
+        "uuid": "46df7dce-0b2d-4b10-8a96-70daf3581b33",
+        "name": "Komaragiri Bhanu Prakash Babu",
+        "branch": "CSM"
+    },
+    "Y24CM190": {
+        "uuid": "3a59687b-b669-42f3-af91-d9e617e47807",
+        "name": "Gayathri Vallepu",
+        "branch": "CSM"
+    },
+    "Y24CM039": {
+        "uuid": "c6f1ea10-2d66-4e76-bf98-1debfaf383f6",
+        "name": "rakesh Chitteti",
+        "branch": "CSM"
+    },
+    "Y24CS039": {
+        "uuid": "7a409861-3084-4920-8660-9474287b7581",
+        "name": "Aravind Boddikondla Boddikondla",
+        "branch": "CSE"
+    },
+    "Y24CM127": {
+        "uuid": "d12e9cb8-4a4a-4101-97f3-1392f4a453c2",
+        "name": "P V Sumanth Reddy",
+        "branch": "CSM"
+    },
+    "Y24CS248": {
+        "uuid": "ae70c168-2934-4838-b14d-78dfc13b8dd0",
+        "name": "Krishna Chaitanya Panga",
+        "branch": "CSE"
+    },
+    "JAMPANI.THANVITHA CHOWDARY": {
+        "uuid": "a7be84ea-f3a6-4af0-8ead-5b127a4d9ace",
+        "name": "thanvitha chowdary",
+        "branch": "Unknown"
+    },
+    "Y23CM116": {
+        "uuid": "703fe760-6df1-4993-81bf-2304d2392f99",
+        "name": "Shivaraj Nallagorla",
+        "branch": "CSM"
+    },
+    "L25CS391": {
+        "uuid": "b6f9af79-8b35-4fe9-b478-bf37bb846ef7",
+        "name": "Surya prakash Geddada",
+        "branch": "CSE"
+    },
+    "Y23CM156": {
+        "uuid": "d74c0808-235d-4309-a2d0-3d00a55dc5dc",
+        "name": "Hanishma Shaik",
+        "branch": "CSM"
+    },
+    "Y24CM128": {
+        "uuid": "f7d6ff7b-e680-4075-a7ee-3cfe4d1d1720",
+        "name": "Pagidi Swetha",
+        "branch": "CSM"
+    },
+    "Y24CM036": {
+        "uuid": "3020c41c-f728-4877-a8c2-b838bbb6dc9a",
+        "name": "Chimmiri Lokesh Lokesh",
+        "branch": "CSM"
+    },
+    "Y24CM081": {
+        "uuid": "b7b15c6d-f343-4d6f-842d-7277ecaeb1f2",
+        "name": "nathan",
+        "branch": "CSM"
+    },
+    "Y24CM040": {
+        "uuid": "8ff86e69-8ddb-4a9b-b6ec-8871e74d8258",
+        "name": "Chitturi BHANU",
+        "branch": "CSM"
+    },
+    "Y24CM038": {
+        "uuid": "a78a6d4e-30aa-4dbf-9b8b-487066d158ec",
+        "name": "Gangothri Chittemreddy",
+        "branch": "CSM"
+    },
+    "Y24CM014": {
+        "uuid": "4319087b-a17c-4e90-b843-bbbac64108ae",
+        "name": "yasaswini",
+        "branch": "CSM"
+    },
+    "Y24CM053": {
+        "uuid": "745a888b-47b4-42af-935a-b9554cecb32a",
+        "name": "Dontha Chandu",
+        "branch": "CSM"
+    },
+    "Y24CM063": {
+        "uuid": "6c465512-3817-4fa9-99f2-871beaaf3eaa",
+        "name": "charan teja gudavalli gudavalli",
+        "branch": "CSM"
+    },
+    "Y24CMO70": {
+        "uuid": "e718071b-13bf-407f-8f5e-3c402696520b",
+        "name": "KRISHNA MANOHAR IPPILI",
+        "branch": "CSM"
+    },
+    "Y24CS018": {
+        "uuid": "fca2f8e9-93c4-4cc2-9cc6-72a781d5c546",
+        "name": "Hrudayanjali",
+        "branch": "CSE"
+    },
+    "Y24CD127": {
+        "uuid": "82a0fa24-d44d-49c6-831e-22dfb7817c0c",
+        "name": "Akash Venkat Musyam",
+        "branch": "CSD"
+    },
+    "Y24IT083": {
+        "uuid": "8dd4b97c-5303-40c4-8fef-01770a4abe3c",
+        "name": "Chandana Sri Maddineni",
+        "branch": "IT"
+    },
+    "Y24CS050": {
+        "uuid": "f735424f-cf68-4106-b1e2-3aac2ea2391e",
+        "name": "Chaganti Leela Vishnu Vardhan",
+        "branch": "CSE"
+    },
+    "Y23IT044": {
+        "uuid": "b53ba836-31d8-45e9-ba95-d39550b9c601",
+        "name": "Jadda Lasya Priya",
+        "branch": "IT"
+    },
+    "Y23CM082": {
+        "uuid": "123bce28-1d94-42f2-881d-5979753289cd",
+        "name": "Kollu Hemasesha Sai",
+        "branch": "CSM"
+    },
+    "Y24CM108": {
+        "uuid": "7f75c395-faa5-49b3-bf87-27e5ffe8760b",
+        "name": "Mandalapu Kiran Kumar",
+        "branch": "CSM"
+    },
+    "Y24CD069": {
+        "uuid": "1f564638-1625-408f-9327-a6a184612f43",
+        "name": "Sri Vidhya Jasti",
+        "branch": "CSD"
+    },
+    "Y24CM010": {
+        "uuid": "05664c3d-df1c-4e92-88b2-75aa53185197",
+        "name": "Andhavarapu Hari babu",
+        "branch": "CSM"
+    },
+    "Y24CS038": {
+        "uuid": "cd0534fe-470f-4b32-812a-0c1ea84a184f",
+        "name": "Vinay Eswar",
+        "branch": "CSE"
+    },
+    "L25IT207": {
+        "uuid": "0add49c5-37ab-42cc-aa81-76977bc03254",
+        "name": "Narasimha rao Varakala",
+        "branch": "IT"
+    },
+    "Y24CD117": {
+        "uuid": "62bae6a0-660a-40f5-bca0-3c22ccb97b43",
+        "name": "Sony Marasu",
+        "branch": "CSD"
+    },
+    "Y24CM177": {
+        "uuid": "ee5af894-10d9-4841-8cd1-09bf203e2cff",
+        "name": "Jwalitha",
+        "branch": "CSM"
+    },
+    "Y24CS064": {
+        "uuid": "decc3f7c-e662-4caf-a1ca-9e79e21bfac2",
+        "name": "Bindu sree Dandamudi",
+        "branch": "CSE"
+    },
+    "Y24CM123": {
+        "uuid": "89da4abb-2ff1-4cc7-bb7c-6b2839a31bbb",
+        "name": "MADHU NEELAM",
+        "branch": "CSM"
+    },
+    "Y24IT097": {
+        "uuid": "e76c38ba-cf8b-4fd4-9109-4bfde0829eda",
+        "name": "SRAVAN MARTURI",
+        "branch": "IT"
+    },
+    "Y24CS328": {
+        "uuid": "be1eeb7f-745f-456e-9629-651a588dee85",
+        "name": "DHARMATEJA SRISTI",
+        "branch": "CSE"
+    },
+    "Y24CM031": {
+        "uuid": "e92f5bc1-3852-412a-9450-7d5dc4a5c1bb",
+        "name": "charitha sri gosala gosala",
+        "branch": "CSM"
+    },
+    "L24CM199": {
+        "uuid": "babb7069-5c90-424f-b350-bafef465d8d0",
+        "name": "Challa Venkateswara Rao",
+        "branch": "CSM"
+    },
+    "Y24CM002": {
+        "uuid": "29462ca7-0c1b-42e2-92aa-62b8f01b34f2",
+        "name": "Dedeepya Agaramsetty",
+        "branch": "CSM"
+    },
+    "Y23CM050": {
+        "uuid": "01d8db1a-8242-4a30-8e2a-e431a7bca5bc",
+        "name": "Ghanta Jhansi Sandeepthi",
+        "branch": "CSM"
+    },
+    "L25CD212": {
+        "uuid": "8ad0a351-4943-4fb7-848b-02deb185dc96",
+        "name": "N SAI KIRAN",
+        "branch": "CSD"
+    },
+    "Y24CS309": {
+        "uuid": "158c997e-9965-4e64-a580-d93eceebbafd",
+        "name": "firoz",
+        "branch": "CSE"
+    },
+    "Y24CM072": {
+        "uuid": "154d0f84-9ec0-4dc0-a0fc-12aba68e1bd7",
+        "name": "Jammula Venkata Varun Teja",
+        "branch": "CSM"
+    },
+    "METTU PAVITHRA": {
+        "uuid": "9b227b37-522f-4430-824d-e5e7f268d89f",
+        "name": "keerthana kandimalla",
+        "branch": "Unknown"
+    },
+    "Y24IT170": {
+        "uuid": "e70d90e6-7da3-43d4-bcc5-943003dc34ec",
+        "name": "Goutham Bala Harsha Yepuri Yepuri",
+        "branch": "IT"
+    },
+    "AFROZ": {
+        "uuid": "4515e20e-bb90-4f7c-8ce5-dd549253cb14",
+        "name": "Shaik Afroz",
+        "branch": "Unknown"
+    },
+    "Y24CS305": {
+        "uuid": "57743f18-d0b6-47ea-8147-81f68b6ae88f",
+        "name": "Gulam Nabi",
+        "branch": "CSE"
+    },
+    "Y24CM193": {
+        "uuid": "d71d9e98-25b0-475b-8224-5d86a85d216f",
+        "name": "Pravallika Venna",
+        "branch": "CSM"
+    },
+    "Y24CM026": {
+        "uuid": "7f65e9bb-f3ff-44b0-a211-83ad5b919abe",
+        "name": "Boddu Pavithra",
+        "branch": "CSM"
+    },
+    "Y24CS206": {
+        "uuid": "fabc6534-b2a2-499f-807c-e6f6521842b2",
+        "name": "Merugumala Charitha",
+        "branch": "CSE"
+    },
+    "Y24CM197": {
+        "uuid": "c400636b-bc4f-45d2-b4f1-05d15b614d56",
+        "name": "Yarlagadda Thoran Sri Sai",
+        "branch": "CSM"
+    },
+    "Y24CM119": {
+        "uuid": "0319f412-05c6-48cc-a829-28d20c281e66",
+        "name": "Navya Nandi",
+        "branch": "CSM"
+    },
+    "Y24IT086": {
+        "uuid": "cda11bfe-79de-462b-84c5-b176ba05ca92",
+        "name": "Malemtati Jathin",
+        "branch": "IT"
+    },
+    "Y24CB033": {
+        "uuid": "914f8be8-3c79-4cc2-8710-6124d9885833",
+        "name": "Hemanth Kumar",
+        "branch": "CSBS"
+    },
+    "Y24CM157": {
+        "uuid": "7e3ed835-1e00-4fc8-849b-f1eb8d393372",
+        "name": "Sara Sateesh",
+        "branch": "CSM"
+    },
+    "L24CM204": {
+        "uuid": "c824ddac-8a45-4234-b5fa-a56ccc64ef1d",
+        "name": "Medam Baji",
+        "branch": "CSM"
+    },
+    "Y24CM138": {
+        "uuid": "7526ad5c-87aa-4a31-ad3f-65b39430c6d6",
+        "name": "CHANAKYA VEERA PERAVALI",
+        "branch": "CSM"
+    },
+    "Y24CM059": {
+        "uuid": "bf45637e-11b2-4e1f-b5e4-8ae198325bdd",
+        "name": "Jaya chandra giddaluru",
+        "branch": "CSM"
+    },
+    "Y24CS045": {
+        "uuid": "04e50506-94a5-4aa4-a8d5-536a02b59d53",
+        "name": "Lahari",
+        "branch": "CSE"
+    },
+    "Y24CM124": {
+        "uuid": "e74eb742-a5ab-4f30-a359-288cfb95508c",
+        "name": "Nelature Jyotendra Nikil Simha Reddy",
+        "branch": "CSM"
+    },
+    "9642364541": {
+        "uuid": "41ff3b49-77ea-475c-a6d4-7ab766f344d8",
+        "name": "D.bhavishya",
+        "branch": "Unknown"
+    },
+    "Y24CM173": {
+        "uuid": "0f15266d-2d1d-4b9b-a259-6fb20ba22632",
+        "name": "Niranjan sukamanchi",
+        "branch": "CSM"
+    },
+    "Y23EC198": {
+        "uuid": "44070dbb-c7c1-4690-a5a1-bb7411b20626",
+        "name": "THOKALA NIKHILA AMBIKA",
+        "branch": "ECE"
+    },
+    "Y24CM055": {
+        "uuid": "206c9303-5698-4bd3-ba44-a577e8357b54",
+        "name": "karthik",
+        "branch": "CSM"
+    },
+    "Y24CM099": {
+        "uuid": "8bd3e70a-7887-42f7-baaa-1908ab70fddd",
+        "name": "rakesh",
+        "branch": "CSM"
+    },
+    "Y24CM044": {
+        "uuid": "73064ec7-7b36-46eb-9aa4-994aa2503c28",
+        "name": "DARSI YASWANTH",
+        "branch": "CSM"
+    },
+    "L25CS392": {
+        "uuid": "cd260c7e-63aa-4c21-a444-3c30c90d4cc5",
+        "name": "Tharuni",
+        "branch": "CSE"
+    },
+    "Y23IT024": {
+        "uuid": "ab5d4d75-0f77-47b4-bf31-dab6a130c0ee",
+        "name": "Madhuri Chennuri",
+        "branch": "IT"
+    },
+    "Y24CM179": {
+        "uuid": "35d9cc38-edd0-4e7f-bace-862334da0de4",
+        "name": "THIRUVALLURI MEGHANATH",
+        "branch": "CSM"
+    },
+    "Y24CS170": {
+        "uuid": "d95569b3-b833-40e3-a148-b33fc34f7784",
+        "name": "Kotha Venkatesh",
+        "branch": "CSE"
+    },
+    "Y24IT133": {
+        "uuid": "d32ff918-5de8-4ab7-ac6f-19f97b50f14a",
+        "name": "J prudhvi raj",
+        "branch": "IT"
+    },
+    "Y24CM175": {
+        "uuid": "de47b9f0-1a82-4e0e-8e9b-7c1193787fad",
+        "name": "VISIONX",
+        "branch": "CSM"
+    },
+    "Y23CM011": {
+        "uuid": "56d79289-4f31-48d0-8144-8c211c0981a4",
+        "name": "Athinti Navyasri",
+        "branch": "CSM"
+    },
+    "Y24CD099": {
+        "uuid": "28c8cb60-66a7-461d-b30b-6e59dc12c2fe",
+        "name": "NIKHITHA",
+        "branch": "CSD"
+    },
+    "Y24CS247": {
+        "uuid": "b4be6560-ce9b-4e85-bbe4-e26f3d2e3580",
+        "name": "P.Devi",
+        "branch": "CSE"
+    },
+    "Y23CO014": {
+        "uuid": "376258f3-66fc-423b-8b43-a1534c48c7db",
+        "name": "Niharika.G",
+        "branch": "CSO"
+    },
+    "L25CS398": {
+        "uuid": "3a5c46fa-b2d3-4230-a2c1-0982c718ca1d",
+        "name": "Pranayanjali",
+        "branch": "CSE"
+    },
+    "Y24CM194": {
+        "uuid": "ae6a491c-445f-4453-8a17-68b1e901064c",
+        "name": "V Siva Rama Krishna Reddy",
+        "branch": "CSM"
+    },
+    "Y24CB031": {
+        "uuid": "ae651189-8ea6-4af1-8efb-7c46657a1bf2",
+        "name": "Harshitha lakkakula",
+        "branch": "CSBS"
+    },
+    "Y23CO025": {
+        "uuid": "f10216ae-9dda-44cb-8fdb-cfc29988f178",
+        "name": "bhavani prasad",
+        "branch": "CSO"
+    },
+    "L25CS382": {
+        "uuid": "f8e4bd0f-0344-43ee-817c-4bceb36630cd",
+        "name": "B.Viveka",
+        "branch": "CSE"
+    },
+    "Y23IT067": {
+        "uuid": "8850529b-c7c5-41e8-9ceb-c0e5c125eb9f",
+        "name": "NAGA BRAHMA CHARYULU BETHAPUDI, SIVA SAI KUMAR MALAVATHU",
+        "branch": "IT"
+    },
+    "Y23CD172": {
+        "uuid": "52818716-cdbf-4652-8e0c-637ca3b3ada1",
+        "name": "Shaik Zaid",
+        "branch": "CSD"
+    },
+    "Y24CM082": {
+        "uuid": "336b3311-d3e0-44ea-9d06-db6731584e54",
+        "name": "K.Sanjitha",
+        "branch": "CSM"
+    },
+    "Y23CM160": {
+        "uuid": "dbfbb957-df9e-46c5-b3a4-43c8d0127cca",
+        "name": "Shaik Farhana",
+        "branch": "CSM"
+    },
+    "Y24CM154": {
+        "uuid": "93d932c0-29a5-4c9f-bf8c-be58481ad835",
+        "name": "Joshitha Sammeta",
+        "branch": "CSM"
+    },
+    "Y23CM147": {
+        "uuid": "97bbb382-dd54-4eb8-99d0-dd124b88b57f",
+        "name": "Vadlamudi Reshma Chowdary",
+        "branch": "CSM"
+    },
+    "Y24CM191": {
+        "uuid": "4af47f73-38cb-4ab0-898d-80de7d75416a",
+        "name": "V.Lokesh",
+        "branch": "CSM"
+    },
+    "Y24CM171": {
+        "uuid": "de12e17f-be34-4bb8-9f83-e083c20b5acf",
+        "name": "SK.SAMEULLAH",
+        "branch": "CSM"
+    },
+    "Y24IT129": {
+        "uuid": "4c6f58a8-87db-4908-9367-50aa383bb8a7",
+        "name": "Kowshik polisetty",
+        "branch": "IT"
+    },
+    "Y23CM085": {
+        "uuid": "fd3dfd5e-26f6-464c-a622-97520c972860",
+        "name": "Kommineni Prasatya Syam",
+        "branch": "CSM"
+    },
+    "Y24CB035": {
+        "uuid": "1ecd348f-2f05-4127-92b2-be11d5ed178d",
+        "name": "YASASWI MANDADAPU",
+        "branch": "CSBS"
+    },
+    "Y24CB027": {
+        "uuid": "d5724dc0-aa74-4162-ab6c-8127273231d9",
+        "name": "K Nikitha",
+        "branch": "CSBS"
+    },
+    "Y23CO032": {
+        "uuid": "faf919fb-fbfb-460b-9c1b-36f2d0918c9f",
+        "name": "Mahbu Subhani Shaik",
+        "branch": "CSO"
+    },
+    "Y23CM073": {
+        "uuid": "0ad6d441-fe33-4685-89e3-b0a138faa3ae",
+        "name": "LAKSHMI NARAYANA,DEVENDRA NADH",
+        "branch": "CSM"
+    },
+    "Y23IT017": {
+        "uuid": "6731a992-17ee-4565-bd24-e99548e73f61",
+        "name": "Boddapati Purna chandra rao",
+        "branch": "IT"
+    },
+    "Y23IT053": {
+        "uuid": "b85bb958-64cf-4879-b200-717cd33e9e2a",
+        "name": "Swarnika Katakamsetty",
+        "branch": "IT"
+    },
+    "Y23IT057": {
+        "uuid": "4a7e27a1-aa1d-49f2-b3e4-74350bc9a218",
+        "name": "K Srilakshmi",
+        "branch": "IT"
+    },
+    "Y23CS027": {
+        "uuid": "fe0449f4-180a-4bc6-936c-ff9c8094dc5f",
+        "name": "Harsha",
+        "branch": "CSE"
+    },
+    "Y24CM185": {
+        "uuid": "1314bb33-2544-436c-9dde-7311cdda71f6",
+        "name": "Uyyala Saranya",
+        "branch": "CSM"
+    },
+    "L25CS414": {
+        "uuid": "c83fd805-d208-4aea-bcc5-c7c7b684bfe1",
+        "name": "Sravani",
+        "branch": "CSE"
+    },
+    "Y23CM104": {
+        "uuid": "3760cf00-d664-497e-a3e6-85c1e2925f77",
+        "name": "Meda Naga Lakshmi",
+        "branch": "CSM"
+    },
+    "Y24CS372": {
+        "uuid": "ca2e8f40-931f-4d98-97d7-42758a53d29c",
+        "name": "Yesupagu pallavi",
+        "branch": "CSE"
+    },
+    "L25CM212": {
+        "uuid": "94d43bc9-5adf-4d66-a5f6-1a7b626436b2",
+        "name": "NAGENDLA BHARGAVI",
+        "branch": "CSM"
+    },
+    "Y24CM141": {
+        "uuid": "adf158ad-405a-45fd-a5f4-9a63978f4a72",
+        "name": "Peyusha Hindu Pottoori",
+        "branch": "CSM"
+    },
+    "Y24CS190": {
+        "uuid": "2724aa39-80e4-4f2d-8a3b-5e4f54a4d7d0",
+        "name": "Majji Sai Sanjay",
+        "branch": "CSE"
+    },
+    "Y24CS040": {
+        "uuid": "0903f673-2fdf-4858-99ec-d1ee6a804cbe",
+        "name": "B. Praneetha Reddy",
+        "branch": "CSE"
+    },
+    "L25CS416": {
+        "uuid": "6353d288-df3a-457c-b080-8e402d7da95b",
+        "name": "Shaik Ramzan",
+        "branch": "CSE"
+    },
+    "L25CM210": {
+        "uuid": "a66d788e-dd7a-4e48-8e1b-871da3dea074",
+        "name": "KUNCHALA ABHILASH",
+        "branch": "CSM"
+    },
+    "L25CB069": {
+        "uuid": "160bb243-a3de-423c-8283-82ceada30d9e",
+        "name": "venkateswara Rao",
+        "branch": "CSBS"
+    },
+    "Y24CS364": {
+        "uuid": "81e9d0ff-855e-47c2-9f75-1853378656e9",
+        "name": "Yamakoti Durga Venkatesh",
+        "branch": "CSE"
+    },
+    "Y24CM195": {
+        "uuid": "87872b44-ab72-4c56-8044-255a5e601c4b",
+        "name": "Virupaksham Sasidhar Raju",
+        "branch": "CSM"
+    },
+    "Y24CB005": {
+        "uuid": "3a5e0ae9-c81f-4f4e-9c34-718d42201f77",
+        "name": "Santhosh",
+        "branch": "CSBS"
+    },
+    "Y23CS072": {
+        "uuid": "a44c1bf4-3e27-42e8-9e94-086b2402ac92",
+        "name": "Repala Shanmukha Sai Sandeep",
+        "branch": "CSE"
+    },
+    "L24CS207": {
+        "uuid": "f87bf980-c493-4f70-bfbc-da455df80c1e",
+        "name": "SAI RAM",
+        "branch": "CSE"
+    },
+    "Y23CM144": {
+        "uuid": "bb427a28-c9f4-45ac-8cb1-db657a02f748",
+        "name": "LIKHITHA PUNDHE",
+        "branch": "CSM"
+    },
+    "Y23IT021": {
+        "uuid": "8d92a142-5748-4ff4-877c-6e5ad9b280df",
+        "name": "BONDALAPATI ARUNA",
+        "branch": "IT"
+    },
+    "L24CM215": {
+        "uuid": "d28cce8b-f5dd-4338-8360-587bccf907e6",
+        "name": "Thurakapalli Srikanth",
+        "branch": "CSM"
+    },
+    "Y23CO003": {
+        "uuid": "dbe71dcd-df58-4aeb-ae3f-dcce61d6e9f5",
+        "name": "PraPoo",
+        "branch": "CSO"
+    },
+    "Y24CM058": {
+        "uuid": "52042a9d-7180-4622-908d-bf7ff429394f",
+        "name": "Kowshika Ganta",
+        "branch": "CSM"
+    },
+    "Y23CB047": {
+        "uuid": "70271c82-e5fb-444a-8bc3-42e81e1643c2",
+        "name": "Rajanala Shanmukha Mythreya",
+        "branch": "CSBS"
+    },
+    "Y24CM134": {
+        "uuid": "5f32a9d7-0951-4024-a245-eaa715e1670c",
+        "name": "p.dinesh chowdary",
+        "branch": "CSM"
+    },
+    "Y23CS085": {
+        "uuid": "e7805dd2-7392-4180-b40a-da972477b3dc",
+        "name": "Kurapati spurthi",
+        "branch": "CSE"
+    },
+    "Y23IT001": {
+        "uuid": "93016d92-5012-4c85-80e7-cb6b0c9670ed",
+        "name": "Bachina Eakshitha Chowdary",
+        "branch": "IT"
+    },
+    "Y23CO019": {
+        "uuid": "3b105b7b-5297-4565-9c0c-422499a82605",
+        "name": "K. Sai VRK",
+        "branch": "CSO"
+    },
+    "Y23CS167": {
+        "uuid": "8efd94bf-792a-41e8-b45a-44dde3c7aaf9",
+        "name": "Suddamalla Tharun",
+        "branch": "CSE"
+    },
+    "Y23CM161": {
+        "uuid": "ae17f34d-286f-4b87-a210-0ec276541506",
+        "name": "DHANASRI",
+        "branch": "CSM"
+    },
+    "6281437405": {
+        "uuid": "868c3d56-2fcf-42d8-aa41-37544056583c",
+        "name": "Ajay Raju .B",
+        "branch": "Unknown"
+    },
+    "Y24CB010": {
+        "uuid": "e940ca94-d074-430e-b0e2-e9e934d77ad9",
+        "name": "cherukuri Krishnaja",
+        "branch": "CSBS"
+    },
+    "Y24CS249": {
+        "uuid": "cc99efa7-e76d-437b-8ecf-7e82644668dc",
+        "name": "P.Vijay Kumar",
+        "branch": "CSE"
+    },
+    "Y24CS041": {
+        "uuid": "5ea2378b-8f8d-40a5-a532-547f26091393",
+        "name": "Lohitha",
+        "branch": "CSE"
+    },
+    "Y24CS268": {
+        "uuid": "3629a287-11d5-4399-918e-5c9f4d34dff2",
+        "name": "P.Sandhya",
+        "branch": "CSE"
+    },
+    "Y24CS354": {
+        "uuid": "12eb7e55-3ee5-4e31-ae5b-e2a3de759a73",
+        "name": "Kartheek kumar, Vishnu Vardhan",
+        "branch": "CSE"
+    },
+    "Y24CS273": {
+        "uuid": "c3902d46-7822-4531-ac74-15450214015c",
+        "name": "Bhavitha",
+        "branch": "CSE"
+    },
+    "Y24CS031": {
+        "uuid": "1ed503b8-696f-40de-a760-b449f8d7f63b",
+        "name": "Akhila Bevara",
+        "branch": "CSE"
+    },
+    "Y24IT102": {
+        "uuid": "4dd952ed-a966-4d8a-b13f-c5bec1d6bd7b",
+        "name": "Murakonda Varun",
+        "branch": "IT"
+    },
+    "Y23CM194": {
+        "uuid": "aee14f3c-3baf-4b1c-8cf4-3f0da3c77be1",
+        "name": "THARUN",
+        "branch": "CSM"
+    },
+    "Y23CS135": {
+        "uuid": "3d725b15-0632-44ee-aaa2-8e1fbdb93e87",
+        "name": "PENTELA YASMEIN SAI",
+        "branch": "CSE"
+    },
+    "Y24CM115": {
+        "uuid": "906a568b-1085-464e-8ae0-13686e9b0c82",
+        "name": "M. VEDA PHANI RISHI",
+        "branch": "CSM"
+    },
+    "L25CM207": {
+        "uuid": "41a77d82-2e4e-41a0-8fb6-2a704867faae",
+        "name": "KANCHARLA SAI SWAPNA",
+        "branch": "CSM"
+    },
+    "Y24CS312": {
+        "uuid": "509c5d20-415f-4627-a236-a1d2c407c310",
+        "name": "Shaik javeed",
+        "branch": "CSE"
+    },
+    "Y24CS209": {
+        "uuid": "8bb30939-7845-4347-a24a-b6000ea6ade9",
+        "name": "Gagandeep ,Balakrishna",
+        "branch": "CSE"
+    },
+    "Y23CO010": {
+        "uuid": "fc66ef40-4aad-405c-bf85-61bb637eabc6",
+        "name": "Doppalapudi Srilekha",
+        "branch": "CSO"
+    },
+    "Y23CM113": {
+        "uuid": "8fe128a4-5040-4c27-ab30-257a0dd711c6",
+        "name": "NADENDLA BALASAI PAVAN",
+        "branch": "CSM"
+    },
+    "L25CM216": {
+        "uuid": "a6057c4d-bcef-4498-b602-9716b87c2919",
+        "name": "CHANDRA SEKHAR",
+        "branch": "CSM"
+    },
+    "Y23CM151": {
+        "uuid": "442d1103-9b90-40a4-a211-960abf10b541",
+        "name": "Lahari",
+        "branch": "CSM"
+    },
+    "Y24CM92": {
+        "uuid": "3538f75b-42c6-42f1-8262-3d1f655d8413",
+        "name": "M.Bhargavi",
+        "branch": "CSM"
+    },
+    "Y24CM130": {
+        "uuid": "42510189-c253-4f45-a14f-e819e2c233f3",
+        "name": "p ganesh babu",
+        "branch": "CSM"
+    },
+    "Y24CM129": {
+        "uuid": "ffebb035-b4cc-46e8-a64b-d82f6cefc743",
+        "name": "Anjali",
+        "branch": "CSM"
+    },
+    "Y23CM195": {
+        "uuid": "1ab673c7-cba0-49f7-9c0e-bed493b83b75",
+        "name": "Y. Guna Priya",
+        "branch": "CSM"
+    },
+    "Y23CM033": {
+        "uuid": "6e3d7631-ef58-4b81-bf4b-c0ced4aed89f",
+        "name": "Dacharla Mahalakshmi",
+        "branch": "CSM"
+    },
+    "Y24CM037": {
+        "uuid": "7bc7969a-381d-4558-9e3b-0f6e6a552fd6",
+        "name": "Chitikila Naga Vinitha",
+        "branch": "CSM"
+    },
+    "Y24CS210": {
+        "uuid": "7f7e4eff-725c-4e84-b401-35d2bcc152f9",
+        "name": "Modugula Kathyayani",
+        "branch": "CSE"
+    },
+    "Y23IT004": {
+        "uuid": "fbc811cd-c268-4a5c-834c-199502ea2c4f",
+        "name": "UPENDRA REDDY AMBATI",
+        "branch": "IT"
+    },
+    "Y24CS115": {
+        "uuid": "7faa6db9-44c0-4866-9dc0-4dedfda76928",
+        "name": "Jalla Sree Lakshmi",
+        "branch": "CSE"
+    },
+    "Y23CM020": {
+        "uuid": "b75c9c2b-bcf4-4d6d-9fca-cb93d6aaf32b",
+        "name": "Bodapati Kusuma Sita",
+        "branch": "CSM"
+    },
+    "Y24CS218": {
+        "uuid": "f975b85b-0021-4840-b092-4a99adb28d78",
+        "name": "Mupparaju Bhavani",
+        "branch": "CSE"
+    },
+    "Y23CM174": {
+        "uuid": "4cb397e1-d5f1-41c1-92bb-85b6f6fd3ca8",
+        "name": "MAHITHA THUMATI",
+        "branch": "CSM"
+    },
+    "Y23CM072": {
+        "uuid": "fc961ed9-0d70-48b0-bf53-efa811c07edd",
+        "name": "DHEERAJA KARAMCHETI",
+        "branch": "CSM"
+    },
+    "Y23CS030": {
+        "uuid": "23d5168b-db70-49e1-90b9-6b3e4e2379d3",
+        "name": "Chinni Jayanth",
+        "branch": "CSE"
+    },
+    "Y23CS025": {
+        "uuid": "c3c5d4a5-1067-4d92-9c75-22446521ce7e",
+        "name": "Cheedella Rahul Sai Sudheer",
+        "branch": "CSE"
+    },
+    "L25CS417": {
+        "uuid": "5b424e00-00c9-4be9-a8d3-21225520b9e5",
+        "name": "Shaik Sameera",
+        "branch": "CSE"
+    },
+    "L25CS385": {
+        "uuid": "d6c1feb4-e6bb-447d-9f3b-77ba1ff3d770",
+        "name": "CHAPPATI NAVEEN",
+        "branch": "CSE"
+    },
+    "Y23CM105": {
+        "uuid": "1375650f-8c84-4686-ad5b-b0ed2a318905",
+        "name": "M.Akhil Naik",
+        "branch": "CSM"
+    },
+    "Y24CM122": {
+        "uuid": "69afc586-20bf-44d7-a97f-0831bbb12c95",
+        "name": "N.Pallavi",
+        "branch": "CSM"
+    },
+    "Y24CS326": {
+        "uuid": "09af9260-7858-40c9-b079-3728c31f606f",
+        "name": "Rama krishna bhargav",
+        "branch": "CSE"
+    },
+    "Y24CS060": {
+        "uuid": "bac70288-80b5-418f-9ad9-b20f87df6653",
+        "name": "Yamini Madhumati",
+        "branch": "CSE"
+    },
+    "L24CM214": {
+        "uuid": "0c194e5a-32ca-4f4b-8889-c2b0e1fd2591",
+        "name": "Thota Neelaveni",
+        "branch": "CSM"
+    },
+    "Y24CS236": {
+        "uuid": "18f71569-5b38-4e81-a857-057497b6732f",
+        "name": "Neppalli Chaitanya",
+        "branch": "CSE"
+    },
+    "Y24CM015": {
+        "uuid": "aab42d9f-d600-486a-a87f-f1100400a30a",
+        "name": "avinash eka",
+        "branch": "CSM"
+    },
+    "Y24CM183": {
+        "uuid": "9710d154-0faa-4e74-956f-d96d878a80ca",
+        "name": "Uppala Moksha Tapaswi",
+        "branch": "CSM"
+    },
+    "Y24CM166": {
+        "uuid": "266490ff-1f66-4542-b4f0-21f165321bfe",
+        "name": "Vadde Thanusri",
+        "branch": "CSM"
+    },
+    "Y24CS321": {
+        "uuid": "0f39e0ad-fde9-4cf7-83b0-2c51ab4606de",
+        "name": "S.chethana Jyothi",
+        "branch": "CSE"
+    },
+    "L25CS418": {
+        "uuid": "9fdda623-f08b-4962-b9f6-a319cb6f2478",
+        "name": "Poojitha.s",
+        "branch": "CSE"
+    },
+    "7601016977": {
+        "uuid": "d99fd758-e275-4e54-aa00-def080e346d3",
+        "name": "9347940650",
+        "branch": "Unknown"
+    },
+    "Y24CM153": {
+        "uuid": "21dfba23-2b1a-443a-b456-05156c42c0f2",
+        "name": "RAYUDU RAJA NARASIMHA NAIDU",
+        "branch": "CSM"
+    },
+    "Y23CO042": {
+        "uuid": "7e8b0e0c-51f6-4389-aaad-6ce5cf3afd34",
+        "name": "Padala Mahalakshmi",
+        "branch": "CSO"
+    },
+    "Y24CS055": {
+        "uuid": "0d3a963e-3bb5-4b0f-a268-86c2f991936b",
+        "name": "Ram gopal",
+        "branch": "CSE"
+    },
+    "Y24CS359": {
+        "uuid": "f0445042-a3cd-4b97-be1b-bbf9c36fdcfc",
+        "name": "Vennampally Nithin",
+        "branch": "CSE"
+    },
+    "Y24CS092": {
+        "uuid": "98a92d06-cfac-4154-b4b2-188f6432674d",
+        "name": "Gogisetti Venkatalakshmi",
+        "branch": "CSE"
+    },
+    "Y24CM033": {
+        "uuid": "2c5ac033-0838-4e94-8dcd-f6f58631d142",
+        "name": "Chaitra",
+        "branch": "CSM"
+    },
+    "Y24CM159": {
+        "uuid": "d4c0d858-381b-4ddb-a520-a8a8720a617e",
+        "name": "One eighty four",
+        "branch": "CSM"
+    },
+    "Y23CS034": {
+        "uuid": "b61c9ec8-52ed-4f54-ac5b-700d0b2261cd",
+        "name": "Symond Peter",
+        "branch": "CSE"
+    },
+    "Y24CD103": {
+        "uuid": "1a300499-5a06-4f37-a349-663b9accb3f2",
+        "name": "Gogisetti Anusha",
+        "branch": "CSD"
+    },
+    "Y24CM199": {
+        "uuid": "db99997c-592c-4c53-b05a-14618e660c53",
+        "name": "Lakshmi Reddy Mannem",
+        "branch": "CSM"
+    },
+    "Y24CM083": {
+        "uuid": "7a4b5df7-39e1-4b2f-969e-97d043120352",
+        "name": "K.Mahi raja sree",
+        "branch": "CSM"
+    },
+    "Y23CS156": {
+        "uuid": "f6059c4c-298d-4cd0-90ae-5b1fe48e1510",
+        "name": "SHAIK AKHIL AHAMMAD",
+        "branch": "CSE"
+    },
+    "Y24CB022": {
+        "uuid": "e184bfea-42cc-4e2b-acd5-d51d410971b2",
+        "name": "Gunti.Navyasri",
+        "branch": "CSBS"
+    },
+    "Y24CM094": {
+        "uuid": "fe7c8270-ae6b-4f46-b68e-af746aca1cb2",
+        "name": "k.Lakshmi sowmya",
+        "branch": "CSM"
+    },
+    "Y24CM121": {
+        "uuid": "6b4c7eff-f24c-41a8-a440-216d757780df",
+        "name": "N. SUMANTH",
+        "branch": "CSM"
+    },
+    "Y24CM163": {
+        "uuid": "755b6887-0424-4ccb-a2c0-d45447aa6c90",
+        "name": "AYAZ",
+        "branch": "CSM"
+    },
+    "Y24CB052": {
+        "uuid": "509c462d-0a65-48a6-9c40-7f5f4063ff67",
+        "name": "Shaik Leiaf",
+        "branch": "CSBS"
+    },
+    "Y24CS237": {
+        "uuid": "a2cddd3c-67e5-448a-b9be-7d3c2c29fd52",
+        "name": "NIHARIKAA",
+        "branch": "CSE"
+    },
+    "Y23CO058": {
+        "uuid": "c19c2247-adf6-49c0-bceb-c0ac8b28fa10",
+        "name": "CHEBROLU BHAGYANAND",
+        "branch": "CSO"
+    },
+    "Y24CS048": {
+        "uuid": "886f2267-b206-4a56-981a-d448ffe1689f",
+        "name": "Bhavya sri",
+        "branch": "CSE"
+    },
+    "Y24CM155": {
+        "uuid": "e00a8e23-029a-4f6f-8592-1564b9a76bb2",
+        "name": "Harika",
+        "branch": "CSM"
+    },
+    "Y24CS014": {
+        "uuid": "a21ae4f6-77a8-4e5f-ba9a-b7d74f79575b",
+        "name": "AMBATI VASAVI",
+        "branch": "CSE"
+    },
+    "Y23CS018": {
+        "uuid": "88c9ec15-cef3-4f7c-9711-72b43c5355fe",
+        "name": "Bhaskar",
+        "branch": "CSE"
+    },
+    "Y23CS077": {
+        "uuid": "c35f7bef-53bc-4866-9b46-91c9bca8c9eb",
+        "name": "Varshi",
+        "branch": "CSE"
+    },
+    "Y23CD167": {
+        "uuid": "d461d67d-9a6e-4fe1-9e4f-666c1fc8248c",
+        "name": "Shaik Mahemood",
+        "branch": "CSD"
+    },
+    "Y24CB026": {
+        "uuid": "63ea2283-f352-4292-a52c-51878ce15272",
+        "name": "KVS TEJA",
+        "branch": "CSBS"
+    },
+    "Y24CD001": {
+        "uuid": "fff8fae1-2bbc-4b0c-a91e-a1fe2ff43ea4",
+        "name": "Aala Siva Bindu",
+        "branch": "CSD"
+    },
+    "Y23CM102": {
+        "uuid": "7040efe5-b193-43bb-bb5c-42df1e3734a6",
+        "name": "M.Layanvita",
+        "branch": "CSM"
+    },
+    "Y24CM061": {
+        "uuid": "30955996-075c-4afd-84fb-7fcdd93fe4e0",
+        "name": "Hemini Gondu",
+        "branch": "CSM"
+    },
+    "L24CS204": {
+        "uuid": "53ecab30-d50f-4e4b-af09-dfb164fb63f3",
+        "name": "VENKATESWARLU",
+        "branch": "CSE"
+    },
+    "Y23CM132": {
+        "uuid": "087afca5-6e25-4f20-8096-70ba4f5d9c4b",
+        "name": "P.Vamsi Krishna",
+        "branch": "CSM"
+    },
+    "Y24CM158": {
+        "uuid": "26b256a4-bef8-4124-a9ae-7c9047637fec",
+        "name": "harshith",
+        "branch": "CSM"
+    },
+    "Y24CS347": {
+        "uuid": "83fdbd26-0edb-469a-825e-58273d9f6be9",
+        "name": "Anusha",
+        "branch": "CSE"
+    },
+    "L25CS424": {
+        "uuid": "c128527e-e366-49e1-9f46-39b8faff947d",
+        "name": "Veeramma",
+        "branch": "CSE"
+    },
+    "Y24CD082": {
+        "uuid": "18be7e95-1a4f-4ff5-a7f0-7572e8f3b42c",
+        "name": "poojitha kandra",
+        "branch": "CSD"
+    },
+    "Y24CS043": {
+        "uuid": "0dff81c4-bdde-49e2-82e7-cd0a19332670",
+        "name": "Vamsi Krishna",
+        "branch": "CSE"
+    },
+    "Y24CS238": {
+        "uuid": "b650c082-fc03-4484-8986-3b1f3cad97b7",
+        "name": "NUKAVARAPU HIMASREE",
+        "branch": "CSE"
+    },
+    "Y24CS227": {
+        "uuid": "d8b61c89-c91c-4ba9-89ca-ec17621d2ebf",
+        "name": "Durga Sudhir Nalla",
+        "branch": "CSE"
+    },
+    "L25CM211": {
+        "uuid": "bb88bb6f-ef17-4e93-8588-88e6d5fb109d",
+        "name": "Sumaira Anjum",
+        "branch": "CSM"
+    },
+    "L25CS419": {
+        "uuid": "61f996f5-38b2-43e9-b7f4-53fe9b6312c0",
+        "name": "Sunkara Lakshmi Venkata Siva Sai Ajay",
+        "branch": "CSE"
+    },
+    "Y24CM043": {
+        "uuid": "52540a8d-7d71-48c1-8349-1cbe714da4d2",
+        "name": "DARSI NAVEEN",
+        "branch": "CSM"
+    },
+    "Y24EC117": {
+        "uuid": "d751e304-aee3-4960-ad5f-c0bafd5aea22",
+        "name": "Mani Teja",
+        "branch": "ECE"
+    },
+    "Y24CM080": {
+        "uuid": "a52c604c-5f4d-419e-90c6-f50b07c592e1",
+        "name": "K.Chandana Priya",
+        "branch": "CSM"
+    },
+    "Y24CS371": {
+        "uuid": "132f06a5-5856-4948-b969-2c0bcd6e5958",
+        "name": "Y SAI NIKHIL TEJA",
+        "branch": "CSE"
+    },
+    "Y24CS019": {
+        "uuid": "33ccf588-5ce2-44d9-bcd1-ab562e87313d",
+        "name": "Annavarapu Pragathi",
+        "branch": "CSE"
+    },
+    "Y24CM098": {
+        "uuid": "85d9c867-f2bf-47c8-b777-64f9c6cfd805",
+        "name": "K.Renusree",
+        "branch": "CSM"
+    },
+    "Y24CS344": {
+        "uuid": "5f036990-0ba5-4dd1-8348-4b7655aecde3",
+        "name": "Ullasa Rohith",
+        "branch": "CSE"
+    },
+    "Y24CS002": {
+        "uuid": "f7d2d794-738c-42a3-8952-186e847e7799",
+        "name": "Achina Tejaswi",
+        "branch": "CSE"
+    },
+    "Y23CM080": {
+        "uuid": "4861a678-ec4c-44da-894b-29ea9a6db0c6",
+        "name": "NITEESH MADHAV",
+        "branch": "CSM"
+    },
+    "Y24CM146": {
+        "uuid": "e29faf82-de7d-4234-b9e2-0004b9fafffe",
+        "name": "neeraja",
+        "branch": "CSM"
+    },
+    "Y24CM145": {
+        "uuid": "2328d6c0-6ddd-4cf2-815b-0da27bfcfbeb",
+        "name": "Pasksith",
+        "branch": "CSM"
+    },
+    "Y24CS353": {
+        "uuid": "99d52349-aa41-413d-b7b7-46fde4c68f9c",
+        "name": "T.Akash,V.Abhilash",
+        "branch": "CSE"
+    },
+    "Y24CS290": {
+        "uuid": "ab4a7622-35d8-4cc0-a9ce-9208f1c7ced1",
+        "name": "Rakurthi Naveen Chandra Kowshik",
+        "branch": "CSE"
+    },
+    "Y24CO001": {
+        "uuid": "5442dd29-0ee0-46d4-8061-8a2cbeb2ee65",
+        "name": "Lakshmi lavanya",
+        "branch": "CSO"
+    },
+    "Y23CM059": {
+        "uuid": "b31d47f1-f74f-4206-a76b-bfdd889e9ce7",
+        "name": "hara pramod",
+        "branch": "CSM"
+    },
+    "Y24CM045": {
+        "uuid": "dbe0baa9-6279-4e56-8405-a840a57b3a43",
+        "name": "Santhosh",
+        "branch": "CSM"
+    },
+    "Y24EC100": {
+        "uuid": "800c378b-5e2e-424b-92f9-5a114f6256ed",
+        "name": "Akhil",
+        "branch": "ECE"
+    },
+    "Y24CM030": {
+        "uuid": "e86cecef-e147-4901-bcaa-cab4cee50802",
+        "name": "Siri Chalikonda",
+        "branch": "CSM"
+    },
+    "Y24CM056": {
+        "uuid": "509b926b-343c-4cd9-ade8-10e508004809",
+        "name": "G Viswa Harshath",
+        "branch": "CSM"
+    },
+    "Y23IT035": {
+        "uuid": "23808ecc-2b27-47e3-8eaf-8edc5908eb97",
+        "name": "G. Yamini",
+        "branch": "IT"
+    },
+    "Y23CM056": {
+        "uuid": "62d9dbaf-4d65-4745-b27b-3074e01e1fef",
+        "name": "Aashrith Prabhav",
+        "branch": "CSM"
+    },
+    "L24CM203": {
+        "uuid": "708f0331-9b14-455c-b06f-ef9c896350d1",
+        "name": "Tejdeep Kadiri",
+        "branch": "CSM"
+    },
+    "Y24CM165": {
+        "uuid": "ef49b365-c360-418c-99f0-83c465294c0f",
+        "name": "Shaik. Charishma",
+        "branch": "CSM"
+    },
+    "Y23CM074": {
+        "uuid": "8ecd849e-021e-4bd7-84fb-216ab437610d",
+        "name": "Katta Jhansi",
+        "branch": "CSM"
+    },
+    "Y23CM173": {
+        "uuid": "fa6b989b-c57d-46e0-94c7-f953633bf023",
+        "name": "Thota Varshasripranitha",
+        "branch": "CSM"
+    },
+    "L24CS211": {
+        "uuid": "38859351-7049-4bff-8cc4-2900b345ed8a",
+        "name": "Poluri Mohan",
+        "branch": "CSE"
+    },
+    "Y23IT121": {
+        "uuid": "f86de619-0a22-4787-9d52-222473f79f6f",
+        "name": "Venna Hruthika, Vemula UshaSri",
+        "branch": "IT"
+    },
+    "Y24CM078": {
+        "uuid": "6c9411de-f6b2-4a47-82e4-64ff66bd46b2",
+        "name": "kakarla hari devi jyothika",
+        "branch": "CSM"
+    },
+    "L24CM206": {
+        "uuid": "d93b2c9e-aa45-4e33-ae63-a7020a32eca0",
+        "name": "N.IRFAN",
+        "branch": "CSM"
+    },
+    "Y24CS251": {
+        "uuid": "f742f74e-31bb-4a3b-9946-b8709e955db9",
+        "name": "P.indeevara shyam",
+        "branch": "CSE"
+    },
+    "Y23IT003": {
+        "uuid": "eb8c9471-4858-482b-8ead-7a51fd7c917a",
+        "name": "alapati mukesh sai",
+        "branch": "IT"
+    },
+    "Y23IT019": {
+        "uuid": "c534f648-9d81-47c1-9ff8-540f06386ffe",
+        "name": "Bodempudi Mani Chandana",
+        "branch": "IT"
+    },
+    "Y24CS229": {
+        "uuid": "e5be661c-7375-4f58-9e9d-67c77914ec37",
+        "name": "Nalluri Mythri",
+        "branch": "CSE"
+    },
+    "Y24CS005": {
+        "uuid": "707bc877-6fb4-4926-b867-89dee2f0d56a",
+        "name": "ADIL SHAIK",
+        "branch": "CSE"
+    },
+    "Y23CM155": {
+        "uuid": "e4df14e7-c016-42f1-a5df-8d2f75338497",
+        "name": "Dhanvi Varma",
+        "branch": "CSM"
+    },
+    "Y24CS316": {
+        "uuid": "1f09b565-8a85-44fa-b73a-77ee71379cfa",
+        "name": "Mohaseen",
+        "branch": "CSE"
+    },
+    "Y23IT036": {
+        "uuid": "47c9863b-f15d-4c11-9b68-01031b82dc2c",
+        "name": "Poojitha",
+        "branch": "IT"
+    },
+    "Y23CM009": {
+        "uuid": "190c1f7e-ea25-430f-8de5-3b3d7c2b2bec",
+        "name": "Navya Mani Sri",
+        "branch": "CSM"
+    },
+    "Y23IT032": {
+        "uuid": "80c58d7a-4cf2-4a35-9ee5-98368591c343",
+        "name": "Manohar,Gokul",
+        "branch": "IT"
+    },
+    "Y24CM004": {
+        "uuid": "695234bf-652a-4883-8403-e3f82c4df274",
+        "name": "VIJAY RAGHAVENDRA",
+        "branch": "CSM"
+    },
+    "L25CS390": {
+        "uuid": "630f4280-1ba9-4577-abf4-cea5a2c17f18",
+        "name": "Emineni Naveen chandu",
+        "branch": "CSE"
+    },
+    "Y24CS258": {
+        "uuid": "f65b7c79-c0e2-4806-8568-c8dd959c063d",
+        "name": "P. Sri naga Prasanna",
+        "branch": "CSE"
+    },
+    "Y23IT051": {
+        "uuid": "c668ccf8-2f37-4f61-ae1e-d62f0a32054f",
+        "name": "Mounika Kasukurthi",
+        "branch": "IT"
+    },
+    "Y24CS337": {
+        "uuid": "93a64b26-a24c-411a-9dff-c0544b730073",
+        "name": "Thippana keerthana",
+        "branch": "CSE"
+    },
+    "Y24CS226": {
+        "uuid": "c6ad0c9a-3c7a-462f-8c4d-0555deb82519",
+        "name": "Purna chandra babu",
+        "branch": "CSE"
+    },
+    "Y24CM065": {
+        "uuid": "844963f9-1697-4855-8eb9-da95d6f665a0",
+        "name": "Jaswanth",
+        "branch": "CSM"
+    },
+    "Y23CM165": {
+        "uuid": "1a5d785b-69fc-4766-8b98-ca716ad0552e",
+        "name": "sriramineni swetha",
+        "branch": "CSM"
+    },
+    "Y24CM172": {
+        "uuid": "90c6a09e-2b74-4810-9234-8d73b80acf02",
+        "name": "sudanagunta gowri jagadeesh",
+        "branch": "CSM"
+    },
+    "Y24CS256": {
+        "uuid": "13f06e34-1043-4809-b7a0-62db4574734a",
+        "name": "Patnapu. Sireesha",
+        "branch": "CSE"
+    },
+    "Y24CS232": {
+        "uuid": "d465a9bc-3e74-4aa7-ad14-589b2707d7cf",
+        "name": "Mohana Durga Manaswini",
+        "branch": "CSE"
+    },
+    "Y24CM091": {
+        "uuid": "5e930c9b-3f80-431f-84bd-b8e93e82fe6a",
+        "name": "Varshitha",
+        "branch": "CSM"
+    },
+    "Y24CM144": {
+        "uuid": "dc43f6ca-4167-4564-a41e-832ffe49cef7",
+        "name": "P vignesh",
+        "branch": "CSM"
+    },
+    "Y24CS327": {
+        "uuid": "824d54c8-724c-4f1c-842a-2d26477c4190",
+        "name": "SAMBA",
+        "branch": "CSE"
+    },
+    "Y24CM067": {
+        "uuid": "e8ea7b9d-c54d-4c94-b6d6-58d7533e0cbf",
+        "name": "Anand",
+        "branch": "CSM"
+    },
+    "Y24IT159": {
+        "uuid": "92351b20-9910-43a2-8396-dd37d2848fbe",
+        "name": "Samiullah",
+        "branch": "IT"
+    },
+    "Y24CS349": {
+        "uuid": "14ee22d5-8b18-48cf-97bd-f9dbaf4676d4",
+        "name": "Vadlamudi Ramyasree",
+        "branch": "CSE"
+    },
+    "L25CS409": {
+        "uuid": "6fe88db5-660b-4a06-a68f-39ad6c07dc1b",
+        "name": "N. Hemanth Sai",
+        "branch": "CSE"
+    },
+    "Y23CM136": {
+        "uuid": "08a89cbe-2d19-411c-b7b1-224b4e1b7978",
+        "name": "Penmatsa Trishitha",
+        "branch": "CSM"
+    },
+    "Y24EC122": {
+        "uuid": "4cdf1467-197d-4b10-8278-9dad6ca6b370",
+        "name": "Bhavin Musala",
+        "branch": "ECE"
+    },
+    "Y23CM112": {
+        "uuid": "22a499ee-8de9-4d5c-9333-e84a95c8ee0a",
+        "name": "pavan kumar",
+        "branch": "CSM"
+    },
+    "Y24CS016": {
+        "uuid": "ac8beaeb-04f5-40d8-aa66-dc14ab681e2f",
+        "name": "A.jagadeeswari",
+        "branch": "CSE"
+    },
+    "Y24CS358": {
+        "uuid": "4b0e6288-cbc6-4d73-a5d2-0534058f2fc8",
+        "name": "V.Harsha Raghava Venkat",
+        "branch": "CSE"
+    },
+    "Y24CS330": {
+        "uuid": "41b6d0a1-4ecf-4f93-9621-45595b47eba1",
+        "name": "T.RISHI ,SD.AKMAL",
+        "branch": "CSE"
+    },
+    "Y24CM198": {
+        "uuid": "a25a06c9-59af-4909-bf1b-344ea5c1ed3d",
+        "name": "yashwanth dumpala",
+        "branch": "CSM"
+    },
+    "L25CS421": {
+        "uuid": "542429df-2ff5-4055-8f16-af710d4f72c3",
+        "name": "DINESH",
+        "branch": "CSE"
+    },
+    "Y24CS329": {
+        "uuid": "85b3aae0-f923-489e-9822-700122e66215",
+        "name": "Surrisetti Madhu Sudan",
+        "branch": "CSE"
+    },
+    "Y24CS239": {
+        "uuid": "6c7eb10d-0fd8-4611-ae15-9247582290d2",
+        "name": "Nune Chris Vikas Babu",
+        "branch": "CSE"
+    },
+    "Y23CM096": {
+        "uuid": "9395da1e-4c8a-4774-8214-2c9d59ea765b",
+        "name": "Kishore",
+        "branch": "CSM"
+    },
+    "Y24CM095": {
+        "uuid": "abc4f622-3b54-4b07-ad8b-38738b629120",
+        "name": "team varanasi",
+        "branch": "CSM"
+    },
+    "Y24CD086": {
+        "uuid": "aefbd885-de32-4e7c-9fdd-197df8a4accc",
+        "name": "Pavan Kayakokula",
+        "branch": "CSD"
+    },
+    "Y23CM076": {
+        "uuid": "9a8b439b-918b-4688-9ca0-236f7e71dde6",
+        "name": "Deepak Naryana Katuru",
+        "branch": "CSM"
+    },
+    "Y24CM086": {
+        "uuid": "dbd8f970-1e33-4ee1-ba5d-55d9193fee46",
+        "name": "CHANDANA",
+        "branch": "CSM"
+    },
+    "Y24CM019": {
+        "uuid": "b69072e0-0fd8-4485-aab6-1267d82a498c",
+        "name": "B.Sampath",
+        "branch": "CSM"
+    },
+    "Y24CS121": {
+        "uuid": "a1810ba3-f725-4fa8-aaa0-f607d7781e5b",
+        "name": "chandu",
+        "branch": "CSE"
+    },
+    "Y23IT048": {
+        "uuid": "23435a12-a2f7-46b3-9169-3bc90263b567",
+        "name": "Kurra Sreeram,Kandimalla Sai Naveen",
+        "branch": "IT"
+    },
+    "Y24CS283": {
+        "uuid": "e741f240-b8be-474c-8690-d827d2a71a7e",
+        "name": "P.Jaswitha",
+        "branch": "CSE"
+    },
+    "Y24CS020": {
+        "uuid": "43827a4b-7dbf-4ee1-a6f3-ded7173bf6a0",
+        "name": "ANUMOLU MANI KISHORE",
+        "branch": "CSE"
+    },
+    "L25CD203": {
+        "uuid": "547013ff-b4ac-44e6-b420-cb0f1a5ad750",
+        "name": "Harsha Vardhan Ramu",
+        "branch": "CSD"
+    },
+    "L24CM202": {
+        "uuid": "2f560004-d436-4832-ba57-a7f764cec17c",
+        "name": "Janga Manasa",
+        "branch": "CSM"
+    },
+    "Y23CM125": {
+        "uuid": "f74efb8c-243d-495c-b492-9878eb7bd2ca",
+        "name": "PADAMATA HEMANTH SUBHASH",
+        "branch": "CSM"
+    },
+    "Y24CM097": {
+        "uuid": "48810df6-4e55-49c6-82ce-13b3f06e9781",
+        "name": "Kota dinesh",
+        "branch": "CSM"
+    },
+    "Y24CS233": {
+        "uuid": "100ce152-6df6-4feb-b55e-738af8fc5803",
+        "name": "n.prudhvi teja",
+        "branch": "CSE"
+    },
+    "Y23IT131": {
+        "uuid": "8b0291d2-7d34-4856-b09c-3bb365c4c3b0",
+        "name": "Y.Varsha",
+        "branch": "IT"
+    },
+    "Y24CM017": {
+        "uuid": "cdfd19ad-099f-4d63-be86-bf554291d71b",
+        "name": "A.Revanth",
+        "branch": "CSM"
+    },
+    "Y24CM087": {
+        "uuid": "df2486d7-8640-4378-842d-9d7cfbdcdf88",
+        "name": "Gopi",
+        "branch": "CSM"
+    },
+    "Y24CS198": {
+        "uuid": "61d46f22-84f5-4802-9055-e1ac94b5e730",
+        "name": "chandana .Mandalapu",
+        "branch": "CSE"
+    },
+    "Y23IT038": {
+        "uuid": "ab4572b0-8eb4-49e1-88f2-0462640fffcb",
+        "name": "Tony.G",
+        "branch": "IT"
+    },
+    "Y23CM071": {
+        "uuid": "588f2d10-0d0e-4660-bfa8-ea3664bc564f",
+        "name": "KANNEKANTI DHARMA TEJA CHARI",
+        "branch": "CSM"
+    },
+    "Y24CM174": {
+        "uuid": "497ff186-e1cd-4681-b314-26910012b6b5",
+        "name": "Talluri Nireekshana",
+        "branch": "CSM"
+    },
+    "Y24CM046": {
+        "uuid": "305f1a42-808e-4de0-98a1-62b1f869c7bc",
+        "name": "Devarakonda Venkata Gopi Krishna",
+        "branch": "CSM"
+    },
+    "Y24CS033": {
+        "uuid": "9c6246d8-41f5-4004-b755-d7a399565da3",
+        "name": "Annamaiah Naik",
+        "branch": "CSE"
+    },
+    "Y24CM085": {
+        "uuid": "fd52caca-af7b-48d5-8f0e-dc9f6198d748",
+        "name": "K Srujan",
+        "branch": "CSM"
+    },
+    "Y24CS240": {
+        "uuid": "fbaf7130-05eb-4dfe-b11a-c9d6ea594257",
+        "name": "Nunna devakinandan",
+        "branch": "CSE"
+    },
+    "Y24CS098": {
+        "uuid": "af81f026-cd44-4cd8-96e7-bd28e194aabd",
+        "name": "Gorre.Aksha Kalyani",
+        "branch": "CSE"
+    },
+    "Y23CM078": {
+        "uuid": "77d3314f-0ef4-4168-aeac-435922487e32",
+        "name": "Rambabu Kavuri",
+        "branch": "CSM"
+    },
+    "Y24CS176": {
+        "uuid": "43ceb78b-2ebd-4571-94e0-a81a412ef598",
+        "name": "mahesh",
+        "branch": "CSE"
+    },
+    "L24CM212": {
+        "uuid": "d4b7e73e-3cc4-43b8-870c-ae834c06825f",
+        "name": "S.Pujitha",
+        "branch": "CSM"
+    },
+    "Y24CM105": {
+        "uuid": "af065357-9e3e-4985-85e6-73e5e76f540e",
+        "name": "Sd",
+        "branch": "CSM"
+    },
+    "Y24CM023": {
+        "uuid": "8a2ed4ee-63a4-449b-96c4-ceef917bafda",
+        "name": "B.Uday tharun kumar",
+        "branch": "CSM"
+    },
+    "Y24CM104": {
+        "uuid": "e5efd733-d9d5-48f9-990f-f20c35f5102a",
+        "name": "Krishna Mohan",
+        "branch": "CSM"
+    },
+    "T24CM31": {
+        "uuid": "a5f8b9a3-372e-4e7f-9565-052b10769ae9",
+        "name": "tudhum",
+        "branch": "CSM"
+    },
+    "Y24CM008": {
+        "uuid": "fa078e4b-50c9-4065-b5da-7dc0132972b8",
+        "name": "Durga Sravanthi",
+        "branch": "CSM"
+    },
+    "Y24CM047": {
+        "uuid": "46678902-ece4-4090-932f-5f28239e2a67",
+        "name": "D.Chandu",
+        "branch": "CSM"
+    },
+    "Y24CM011": {
+        "uuid": "27b7864c-2611-48a3-9e75-8a90f19c546a",
+        "name": "ANIKALLA KOTI REDDY",
+        "branch": "CSM"
+    },
+    "Y24CM069": {
+        "uuid": "c020f7fb-34f3-4574-aa74-a19985c56114",
+        "name": "Guntur Rajesh",
+        "branch": "CSM"
+    },
+    "Y24CS009": {
+        "uuid": "02e25cef-b950-45ab-b16d-0122e7706074",
+        "name": "Saniya",
+        "branch": "CSE"
+    },
+    "Y24CD123": {
+        "uuid": "6ade4977-d847-4e32-9d00-8b53db07d677",
+        "name": "akash venkat",
+        "branch": "CSD"
+    },
+    "Y24IT116": {
+        "uuid": "e286f1c1-44b3-45a7-8bec-1c5d115024b7",
+        "name": "M.Chandana Sri",
+        "branch": "IT"
+    },
+    "Y24CS052": {
+        "uuid": "f7a3ac97-0d35-455b-b506-d443711fdfde",
+        "name": "Challa Guru Datta Sai",
+        "branch": "CSE"
+    },
+    "Y23IT047": {
+        "uuid": "b7775d3c-a503-4e22-b8df-c38eb723dd80",
+        "name": "Kamma Ramya",
+        "branch": "IT"
+    },
+    "Y23CM115": {
+        "uuid": "5ede7a42-d3be-435a-906a-627454231a6a",
+        "name": "Nallagatla Adithya",
+        "branch": "CSM"
+    },
+    "Y24CM107": {
+        "uuid": "becbadcd-c617-464d-a2c2-a120832af2ab",
+        "name": "Sashank Abhinay",
+        "branch": "CSM"
+    },
+    "Y24CD075": {
+        "uuid": "e135bc6d-acf8-4b3a-9a1b-0bda526ca5e9",
+        "name": "Sanjana kakumanu",
+        "branch": "CSD"
+    },
+    "Y24CM020": {
+        "uuid": "e6f208a8-675c-4c80-a6f9-d4cbbb2d4097",
+        "name": "Bandi Rakesh",
+        "branch": "CSM"
+    },
+    "L25IT201": {
+        "uuid": "05fc8a23-9656-443e-bf33-1bfa1327008b",
+        "name": "v.narasimharao",
+        "branch": "IT"
+    },
+    "Y24CD121": {
+        "uuid": "b400730f-6990-462a-bd09-4c27d852e5c6",
+        "name": "Neha Sri",
+        "branch": "CSD"
+    },
+    "Y24CS065": {
+        "uuid": "73fe427a-cb06-4d28-af7c-000dada8a11c",
+        "name": "DANDAMUDI BINDU SREE,DARA ANU DEEPTHI",
+        "branch": "CSE"
+    },
+    "Y24CM132": {
+        "uuid": "e7804694-4322-445b-bd17-b45609acd964",
+        "name": "mehul chowdary",
+        "branch": "CSM"
+    },
+    "Y24IT090": {
+        "uuid": "da5724b0-ef05-46ab-ba38-f9969e9efecd",
+        "name": "BHUVANESH MANGAM",
+        "branch": "IT"
+    },
+    "Y24CS336": {
+        "uuid": "314a735e-9064-4734-b633-00a92f75cc2a",
+        "name": "Dharmateja",
+        "branch": "CSE"
+    },
+    "Y23CM024": {
+        "uuid": "da91619b-57a3-4a97-b0f5-cbb496ec2299",
+        "name": "AMRUTH ANNAN BALATHOTI",
+        "branch": "CSM"
+    },
+    "Y24CS147": {
+        "uuid": "1372db5f-4c5a-4540-99dd-95141a0ccfc2",
+        "name": "KATIKALA RISHEELA",
+        "branch": "CSE"
+    },
+    "Y23CM028": {
+        "uuid": "4a6738fd-7b75-4f7b-a682-fd52cd142a3d",
+        "name": "Chejarla Nanditha",
+        "branch": "CSM"
+    },
+    "Y24CD098": {
+        "uuid": "f860f31d-8515-4024-a45c-e90847bde16e",
+        "name": "VISION CBN",
+        "branch": "CSD"
+    },
+    "Y24CS303": {
+        "uuid": "09546cb8-6968-4629-a826-837cef44c866",
+        "name": "Shaik hafeez",
+        "branch": "CSE"
+    },
+    "Y24CM106": {
+        "uuid": "b1b0e3cc-1cce-445b-a616-dd029a4a830d",
+        "name": "Mamidi Abhishek",
+        "branch": "CSM"
+    },
+    "Y24CM112": {
+        "uuid": "83d97eb3-70f4-43cf-8783-03ac12aeeb2e",
+        "name": "K N S Keerthana",
+        "branch": "CSM"
+    },
+    "Y24IT175": {
+        "uuid": "641a7f1e-5e8c-435e-a258-3b26fad671e5",
+        "name": "GYM RATS",
+        "branch": "IT"
+    },
+    "L25CB068": {
+        "uuid": "2b088e7a-a150-413a-afeb-d48a7f63eb70",
+        "name": "Akhil",
+        "branch": "CSBS"
+    },
+    "Y24CS311": {
+        "uuid": "53c2c6f3-4bef-437d-a022-ae854463b16c",
+        "name": "Ismaiel",
+        "branch": "CSE"
+    },
+    "Y24CM200": {
+        "uuid": "c20a1f5a-cddd-461b-bf52-cd753eb4d0cc",
+        "name": "HARSHITHA",
+        "branch": "CSM"
+    },
+    "Y24CM049": {
+        "uuid": "e9b8f93b-01cd-44d8-b54d-e2a3fa5a7a51",
+        "name": "D.Lakshmi likhitha",
+        "branch": "CSM"
+    },
+    "Y24CS199": {
+        "uuid": "77307d5f-5960-49c5-b9ad-92d8b102b233",
+        "name": "GRACY MARY",
+        "branch": "CSE"
+    },
+    "Y24CM034": {
+        "uuid": "d5a224d4-54dd-4faa-8def-d19c5c9319d5",
+        "name": "CH LAKSHMI NAGA TEJA",
+        "branch": "CSM"
+    },
+    "Y24CM120": {
+        "uuid": "14b7ac50-29e1-469c-bfb8-9f2ec4793be3",
+        "name": "amulya",
+        "branch": "CSM"
+    },
+    "Y24IT093": {
+        "uuid": "1ffba06e-5903-4bfa-9189-1d5e1114dec7",
+        "name": "Parithosh",
+        "branch": "IT"
+    },
+    "Y24CB006": {
+        "uuid": "e22401c5-4fbf-4fe1-95f7-61985af20b0d",
+        "name": "hemanth kumar",
+        "branch": "CSBS"
+    },
+    "Y24CM151": {
+        "uuid": "043cc3e0-38ad-4321-9f10-021be8bf5381",
+        "name": "RATTI LOHITH DATTA",
+        "branch": "CSM"
+    },
+    "Y24CM102": {
+        "uuid": "80f7b181-1308-4e52-b15b-980dba5220f8",
         "name": "Harsha Teja",
         "branch": "CSM"
     },
-    "b6f47aa6-6715-4737-82fb-ed558c9254ec": {
-        "regd no": "Y24CM148",
+    "Y24CM148": {
+        "uuid": "b6f47aa6-6715-4737-82fb-ed558c9254ec",
         "name": "P Shanmukha nadh",
         "branch": "CSM"
     },
-    "3a06c3f6-7f48-4132-9816-2c56ef0d4a03": {
-        "regd no": "Y24CM028",
+    "Y24CM028": {
+        "uuid": "3a06c3f6-7f48-4132-9816-2c56ef0d4a03",
         "name": "Giddaluru Jaya Chandra",
         "branch": "CSM"
     },
-    "a1a4ae6e-4840-40a3-90a1-884fefe0e30c": {
-        "regd no": "Y24CS025",
+    "Y24CS025": {
+        "uuid": "a1a4ae6e-4840-40a3-90a1-884fefe0e30c",
         "name": "Prassanna",
         "branch": "CSE"
     },
-    "ef1368fa-7f5b-45f3-906a-078e396983ed": {
-        "regd no": "Y24CM001",
+    "Y24CM001": {
+        "uuid": "ef1368fa-7f5b-45f3-906a-078e396983ed",
         "name": "Neyrix",
         "branch": "CSM"
     }
