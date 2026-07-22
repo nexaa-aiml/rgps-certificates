@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Certificate Download</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="page-shell">
+    <section class="card">
+      <p class="eyebrow">RGPS - Recon, Guard, Protect, Secure</p>
+      <h1 id="page-title">Download Your Certificate</h1>
+      <p id="page-intro" class="intro">
+        Enter your registered number. If you participated in the prelims round, your certificate will be downloaded instantly.
+      </p>
+
+      <form id="certificate-form" class="lookup-form">
+        <label for="regd-number">Registration Number</label>
+        <div class="input-row">
+          <input
+            id="regd-number"
+            name="regd-number"
+            type="text"
+            placeholder="Ex: Y24CM001"
+            autocomplete="off"
+            required
+          />
+          <button type="submit">Download</button>
+        </div>
+      </form>
+
+      <p id="status" class="status" aria-live="polite"></p>
+      
+      <div id="verification-panel" class="hidden">
+        <div id="verification-result"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
