@@ -71,19 +71,41 @@ async function loadCertificates() {
   }
 }
 
-function downloadCertificate(record, regdNumber) {
-  // If the JSON contains a specific certificate path, use it. Otherwise, build it from the UUID
-  const fileName = record.certificate || `${record.uuid}.jpeg`;
-  const filePath = `${CERTIFICATE_BASE}${fileName}`;
-  const downloadUrl = encodePath(filePath);
-  
-  const anchor = document.createElement("a");
-  anchor.href = downloadUrl;
-  anchor.download = fileName.split("/").pop();
-  document.body.appendChild(anchor);
-  anchor.click();
-  anchor.remove();
-  setStatus("");
+async function downloadCertificate(record, regdNumber) {
+  try {
+    setStatus("Downloading certificate...", "loading");
+    // If the JSON contains a specific certificate path, use it. Otherwise, build it from the UUID
+    const fileName = record.certificate || `${record.uuid}.jpeg`;
+    const filePath = `${CERTIFICATE_BASE}${fileName}`;
+    const downloadUrl = encodePath(filePath);
+    
+    // Fetch as blob to force a download instead of opening in a new tab,
+    // and to properly catch 404 errors on static hosts like GitHub Pages
+    const response = await fetch(downloadUrl);
+    if (!response.ok) {
+        if (response.status === 404) {
+             throw new Error("Certificate file not found on the server. Make sure it has been uploaded.");
+        }
+        throw new Error(`Server returned ${response.status}`);
+    }
+    
+    const blob = await response.blob();
+    const objectUrl = URL.createObjectURL(blob);
+    
+    const anchor = document.createElement("a");
+    anchor.href = objectUrl;
+    anchor.download = fileName.split("/").pop();
+    document.body.appendChild(anchor);
+    anchor.click();
+    anchor.remove();
+    
+    // Clean up
+    setTimeout(() => URL.revokeObjectURL(objectUrl), 10000);
+    setStatus("");
+  } catch (error) {
+    console.error("Download error:", error);
+    setStatus("Failed to download certificate: " + error.message, "error");
+  }
 }
 
 function renderVerificationResult(record) {
@@ -164,7 +186,7 @@ async function initialize() {
             return;
           }
 
-          downloadCertificate(record, regdNumber);
+          await downloadCertificate(record, regdNumber);
         } catch (error) {
           setStatus("Unable to load certificate records right now. Please try again later.", "error");
           console.error(error);
